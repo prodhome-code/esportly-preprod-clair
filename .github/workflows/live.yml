@@ -1,0 +1,85 @@
+# Chaque heure : noter les matchs de la page Live qui sont finis, et remettre à jour les résultats des pages de compétition.
+# Le robot relit le flux de résultats du relais eSportly (une requête). Quand un match du jour y a son résultat, il le note dans
+# suivi/live.json (état « terminé » et, si le flux le donne, le score, caché sur la page du match), refabrique les pages Live et de
+# match et envoie le tout sur main, comme « Matchs du jour ». S'il n'y a rien de nouveau, il n'écrit rien et ne commite rien.
+# Il rafraîchit aussi le bloc des résultats des pages des grands événements (Worlds, VCT Champions, ESL Pro League) : elles ne
+# sont refabriquées que le matin, un résultat y restait donc invisible jusqu'à 24 heures. Il ne les refabrique pas — il remplace
+# seulement ce bloc, entre ses repères, avec le flux de résultats de chaque événement (une requête par événement).
+# Il ne devine jamais une fin : seul un résultat du flux la confirme. Les matchs du jour viennent de suivi/live.json.
+# Au premier passage d'un jour nouveau (le fichier décrit la veille), il ne se contente pas de noter les fins : il refait la
+# journée entière, comme « Matchs du jour ». Sans cela, la page Live, les matchs de la semaine et les pages d'événements
+# montraient la veille jusqu'au passage du job du matin — que GitHub lance avec plusieurs heures de retard (cron à 4 h 15 UTC,
+# passages constatés vers 12 h).
+name: Fins de matchs (Live)
+on:
+  schedule:
+    - cron: "40 * * * *"   # à :40, le relais rafraîchit ses calendriers toutes les heures ; une heure et non 30 minutes : minutes gratuites du dépôt privé
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: matchs   # le même que « Matchs du jour » : jamais les deux en même temps
+  cancel-in-progress: false
+jobs:
+  fins:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25   # un passage ordinaire dure 15 s ; au premier passage d'un jour nouveau, le robot refait la journée entière (~7 min)
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"   # les .pyc de __pycache__ sont suivis par git : sans cela, chaque passage aurait « quelque chose à envoyer »
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # la tête de main au démarrage, pas le commit du déclenchement : après « Matchs du jour » (même file d'attente), sinon suivi/live.json de la veille
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Fins de matchs
+        id: maj
+        run: |
+          python3 .github/scripts/matchs.py --live
+          # Une fin nouvelle réécrit suivi/live.json, un résultat nouveau réécrit les pages de compétition : on regarde donc
+          # tout le dépôt. Quand rien n'a bougé, le script n'a rien réécrit et il n'y a rien à envoyer.
+          if [ -n "$(git status --porcelain)" ]; then echo "change=true" >> "$GITHUB_OUTPUT"; fi
+      # Les pages refabriquées repartent des modèles : mêmes retouches que dans « Matchs du jour ».
+      - name: Menu du site sur toutes les pages
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/menu_partout.py
+      # Refonte 2026 : thème clair par défaut sur les pages fabriquées plus haut (elles repartent de modèles
+      # qui ne l'ont pas). Rejouable, ne touche ni les scripts ni la CSP.
+      - name: Thème clair de la refonte
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/theme_clair.py
+      # Logos des équipes : les listes d'équipes fabriquées plus haut sont du texte ; on leur remet logo et nom. Rejouable.
+      - name: Logos sur les listes d'équipes
+        run: python3 .github/scripts/logos_equipes.py
+      # Logos sur les cartes de match : les listes fabriquées plus haut sont du texte ; on met le logo (ou les initiales) devant
+      # chaque équipe. Rejouable.
+      - name: Logos sur les cartes de match
+        run: python3 .github/scripts/logos_matchs.py
+      - name: Titles et métadescriptions SEO
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/titres_seo.py
+      - name: Mesure d'audience sur toutes les pages
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/analytics.py
+      - name: QR code sur ordinateur
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/qr_ordinateur.py
+      - name: App Store (après la sortie)
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/bascule_appstore.py
+      - name: Envoi si quelque chose a changé
+        if: steps.maj.outputs.change == 'true'
+        run: |
+          git config user.name "eSportly (mise à jour automatique)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Live : fin de match notée"
+          # Johan ou une autre session a pu envoyer entre-temps : on se remet par-dessus avant d'envoyer.
+          for essai in 1 2 3; do
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1

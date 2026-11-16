@@ -1,0 +1,8 @@
+// Worker esportly-site : les fichiers du dépôt, servis tels quels (site public depuis le 28 octobre 2026).
+{
+  "name": "esportly-site",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "."
+  }
+}

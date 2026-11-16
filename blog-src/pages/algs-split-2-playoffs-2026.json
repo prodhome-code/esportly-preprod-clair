@@ -1,0 +1,269 @@
+{
+  "kind": "news",
+  "date": "2026-10-31",
+  "updated": "2026-10-31",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "EA, ALGS Year 6 Split 2 Playoffs: Competition Overview", "url": "https://algs.ea.com/en/year-6/split-2-playoffs/competition-overview"},
+    {"id": "s2", "title": "EA, ALGS Split 2 Playoffs in Las Vegas: Everything you need to know", "url": "https://algs.ea.com/en/news/algs-split-2-playoffs-Y6-EYNTK"},
+    {"id": "s3", "title": "EA, ALGS Year 6 Season Overview", "url": "https://algs.ea.com/en/season-overview"},
+    {"id": "s4", "title": "GameRiv: ALGS Split 2 Playoffs 2026 Las Vegas, schedule, teams, Twitch Drops", "url": "https://gameriv.com/algs-split-2-playoffs-2026-las-vegas-schedule-teams-twitch-drops-and-more/"},
+    {"id": "s5", "title": "Esports.net: Apex Legends Reveals ALGS Year 6 Roadmap", "url": "https://www.esports.net/news/apex-legends/apex-legends-reveals-algs-year-6-roadmap-all-events-details"},
+    {"id": "s6", "title": "Insider Gaming: ALGS Year 6 roadmap revealed by Electronic Arts", "url": "https://insider-gaming.com/algs-year-6-roadmap-revealed-by-electronic-arts/"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "The essentials on the Split 2 playoffs",
+        "text": [
+          "Forty Apex Legends teams meet at the Orleans Arena in Las Vegas from October 29 to November 1, 2026, for the ALGS Split 2 playoffs, with $2,000,000 to share. It is the last LAN event before the Championship in Sapporo, and the last chance of Year 6 to earn Championship Points.",
+          "The results in Las Vegas decide which teams qualify directly for the Championship and which have to go through the Last Chance Qualifier. The event also brings the ALGS back to North America for the first time since 2024."
+        ]
+      },
+      "fr": {
+        "heading": "L'essentiel sur les playoffs du Split 2",
+        "text": [
+          "Quarante équipes d'Apex Legends se retrouvent à l'Orleans Arena de Las Vegas du 29 octobre au 1er novembre 2026 pour les playoffs du Split 2 de l'ALGS, avec 2 000 000 $ à se partager. C'est le dernier événement en présentiel avant le Championnat, à Sapporo, et la dernière occasion de l'année 6 de gagner des points de championnat.",
+          "Les résultats de Las Vegas décident quelles équipes se qualifient directement pour le Championnat et lesquelles devront passer par le Last Chance Qualifier. L'événement marque aussi le retour de l'ALGS en Amérique du Nord, une première depuis 2024."
+        ]
+      },
+      "es": {
+        "heading": "Lo esencial de los playoffs del Split 2",
+        "text": [
+          "Cuarenta equipos de Apex Legends se reúnen en el Orleans Arena de Las Vegas del 29 de octubre al 1 de noviembre de 2026 para los playoffs del Split 2 de la ALGS, con 2.000.000 $ en juego. Es el último evento presencial antes del Campeonato, en Sapporo, y la última ocasión del año 6 para sumar puntos de campeonato.",
+          "Los resultados de Las Vegas deciden qué equipos se clasifican directamente para el Campeonato y cuáles tendrán que pasar por el Last Chance Qualifier. El evento supone además el regreso de la ALGS a Norteamérica por primera vez desde 2024."
+        ]
+      },
+      "de": {
+        "heading": "Das Wichtigste zu den Split-2-Playoffs",
+        "text": [
+          "Vierzig Apex-Legends-Teams treffen sich vom 29. Oktober bis 1. November 2026 in der Orleans Arena in Las Vegas zu den Split-2-Playoffs der ALGS, mit 2.000.000 $ zu gewinnen. Es ist das letzte LAN-Event vor der Championship in Sapporo und die letzte Gelegenheit im Jahr 6, Championship Points zu sammeln.",
+          "Die Ergebnisse in Las Vegas entscheiden, welche Teams sich direkt für die Championship qualifizieren und welche über das Last Chance Qualifier müssen. Außerdem kehrt die ALGS erstmals seit 2024 nach Nordamerika zurück."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O essencial sobre os playoffs do Split 2",
+        "text": [
+          "Quarenta equipes de Apex Legends se reúnem na Orleans Arena, em Las Vegas, de 29 de outubro a 1º de novembro de 2026, para os playoffs do Split 2 da ALGS, com US$ 2.000.000 em jogo. É o último evento presencial antes do Campeonato, em Sapporo, e a última chance do ano 6 de somar pontos de campeonato.",
+          "Os resultados em Las Vegas definem quais equipes se classificam direto para o Campeonato e quais terão de passar pelo Last Chance Qualifier. O evento também marca a volta da ALGS à América do Norte, a primeira desde 2024."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s3"],
+      "en": {
+        "heading": "The format: groups, brackets, Match Point finals",
+        "text": [
+          "The 40 teams are seeded into four groups of 10, using Championship Points and Split 2 Pro League results. The Group Stage runs Thursday, October 29 and Friday, October 30: each group plays the three others in six-match series, which makes 18 matches per team. The top 20 in the combined standings go to the Winners Round; the other 20 start in Elimination Round 1.",
+          "On Saturday, October 31, three six-match series cut the field to 20. Elimination Round 1 sends 10 teams home, the Winners Round puts its top 10 straight into the finals, and Elimination Round 2 fills the remaining 10 spots. The finals on Sunday, November 1, use the Match Point format: a team must reach 50 points, then win a match afterwards to be crowned.",
+          "Four maps are in play: World's Edge, Storm Point, E-District and Olympus."
+        ]
+      },
+      "fr": {
+        "heading": "Le format : groupes, éliminatoires, finale aux points",
+        "text": [
+          "Les 40 équipes sont réparties en quatre groupes de 10 selon leurs points de championnat et leurs résultats en Pro League du Split 2. La phase de groupes se joue le jeudi 29 et le vendredi 30 octobre : chaque groupe affronte les trois autres en séries de six parties, soit 18 parties par équipe. Les 20 premières du classement cumulé vont en Winners Round ; les 20 autres démarrent en Elimination Round 1.",
+          "Le samedi 31 octobre, trois séries de six parties réduisent le champ à 20. L'Elimination Round 1 renvoie 10 équipes chez elles, le Winners Round envoie ses 10 premières directement en finale, et l'Elimination Round 2 attribue les 10 places restantes. La finale du dimanche 1er novembre suit le format Match Point : une équipe doit atteindre 50 points, puis gagner une partie ensuite pour être sacrée.",
+          "Quatre cartes sont jouées : World's Edge, Storm Point, E-District et Olympus."
+        ]
+      },
+      "es": {
+        "heading": "El formato: grupos, eliminatorias y final por puntos",
+        "text": [
+          "Los 40 equipos se reparten en cuatro grupos de 10 según sus puntos de campeonato y sus resultados en la Pro League del Split 2. La fase de grupos se juega el jueves 29 y el viernes 30 de octubre: cada grupo se mide a los otros tres en series de seis partidas, es decir, 18 partidas por equipo. Los 20 primeros de la clasificación conjunta pasan a la Winners Round; los otros 20 empiezan en la Elimination Round 1.",
+          "El sábado 31 de octubre, tres series de seis partidas reducen el cuadro a 20. La Elimination Round 1 deja fuera a 10 equipos, la Winners Round manda a sus 10 primeros directos a la final y la Elimination Round 2 reparte los 10 puestos restantes. La final del domingo 1 de noviembre usa el formato Match Point: un equipo debe llegar a 50 puntos y después ganar una partida para proclamarse campeón.",
+          "Se juega en cuatro mapas: World's Edge, Storm Point, E-District y Olympus."
+        ]
+      },
+      "de": {
+        "heading": "Das Format: Gruppen, Bracket, Match-Point-Finale",
+        "text": [
+          "Die 40 Teams werden nach Championship Points und Ergebnissen in der Pro League des Split 2 auf vier Gruppen zu je 10 verteilt. Die Gruppenphase läuft am Donnerstag, 29., und Freitag, 30. Oktober: Jede Gruppe spielt gegen die drei anderen je eine Serie aus sechs Spielen, also 18 Spiele pro Team. Die besten 20 der Gesamtwertung kommen in die Winners Round, die übrigen 20 starten in Elimination Round 1.",
+          "Am Samstag, 31. Oktober, reduzieren drei Serien mit je sechs Spielen das Feld auf 20. Elimination Round 1 schickt 10 Teams nach Hause, die Winners Round bringt ihre besten 10 direkt ins Finale, und Elimination Round 2 vergibt die restlichen 10 Plätze. Das Finale am Sonntag, 1. November, läuft im Match-Point-Format: Ein Team muss 50 Punkte erreichen und danach ein Spiel gewinnen, um zu siegen.",
+          "Gespielt wird auf vier Maps: World's Edge, Storm Point, E-District und Olympus."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O formato: grupos, chaves e final por pontos",
+        "text": [
+          "As 40 equipes são divididas em quatro grupos de 10, de acordo com seus pontos de campeonato e seus resultados na Pro League do Split 2. A fase de grupos acontece na quinta, 29, e na sexta, 30 de outubro: cada grupo enfrenta os outros três em séries de seis partidas, ou seja, 18 partidas por equipe. As 20 primeiras da classificação geral vão para a Winners Round; as outras 20 começam na Elimination Round 1.",
+          "No sábado, 31 de outubro, três séries de seis partidas reduzem o campo a 20. A Elimination Round 1 elimina 10 equipes, a Winners Round manda suas 10 melhores direto para a final e a Elimination Round 2 preenche as 10 vagas restantes. A final de domingo, 1º de novembro, usa o formato Match Point: a equipe precisa chegar a 50 pontos e depois vencer uma partida para ser campeã.",
+          "São quatro mapas: World's Edge, Storm Point, E-District e Olympus."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s4"],
+      "en": {
+        "heading": "The qualified teams",
+        "text": [
+          "Out of 120 teams in the Split 2 Pro League and the regional finals, 40 qualified: 15 from the Americas, 7 from EMEA, 10 from APAC North and 8 from APAC South. Each region's Regional Finals winner got a spot automatically; the other 36 went to the best teams in the final Split 2 Pro League standings. The split reflects each region's results at the Split 1 playoffs.",
+          "The full list, which GameRiv copied from EA's official graphic, includes Sentinels, NRG, Team Liquid, ZETA DIVISION, Team Falcons and Alliance."
+        ]
+      },
+      "fr": {
+        "heading": "Les équipes qualifiées",
+        "text": [
+          "Sur 120 équipes engagées dans le Split 2 Pro League et les finales régionales, 40 sont qualifiées : 15 des Amériques, 7 d'EMEA, 10 d'APAC Nord et 8 d'APAC Sud. Le vainqueur de la finale régionale de chaque région a eu sa place d'office ; les 36 autres places sont revenues aux mieux classées du Split 2 Pro League. Cette répartition tient compte des résultats de chaque région aux playoffs du Split 1.",
+          "La liste complète, relevée par GameRiv sur le visuel officiel d'EA, compte notamment Sentinels, NRG, Team Liquid, ZETA DIVISION, Team Falcons et Alliance."
+        ]
+      },
+      "es": {
+        "heading": "Los equipos clasificados",
+        "text": [
+          "De los 120 equipos de la Pro League del Split 2 y de las finales regionales, 40 se han clasificado: 15 de América, 7 de EMEA, 10 de APAC Norte y 8 de APAC Sur. El ganador de la final regional de cada región tuvo plaza directa; las otras 36 fueron para los mejor clasificados de la Pro League del Split 2. El reparto refleja los resultados de cada región en los playoffs del Split 1.",
+          "La lista completa, que GameRiv tomó del gráfico oficial de EA, incluye a Sentinels, NRG, Team Liquid, ZETA DIVISION, Team Falcons y Alliance."
+        ]
+      },
+      "de": {
+        "heading": "Die qualifizierten Teams",
+        "text": [
+          "Von 120 Teams in der Pro League des Split 2 und den Regionalfinals haben sich 40 qualifiziert: 15 aus Amerika, 7 aus EMEA, 10 aus APAC Nord und 8 aus APAC Süd. Der Sieger des Regionalfinals jeder Region bekam seinen Platz automatisch; die übrigen 36 gingen an die Bestplatzierten der Pro League des Split 2. Die Verteilung richtet sich nach den Ergebnissen jeder Region bei den Split-1-Playoffs.",
+          "Die vollständige Liste, die GameRiv der offiziellen Grafik von EA entnommen hat, enthält unter anderem Sentinels, NRG, Team Liquid, ZETA DIVISION, Team Falcons und Alliance."
+        ]
+      },
+      "pt-BR": {
+        "heading": "As equipes classificadas",
+        "text": [
+          "Das 120 equipes da Pro League do Split 2 e das finais regionais, 40 se classificaram: 15 das Américas, 7 de EMEA, 10 de APAC Norte e 8 de APAC Sul. O vencedor da final regional de cada região teve vaga garantida; as outras 36 ficaram com as mais bem colocadas da Pro League do Split 2. A divisão reflete os resultados de cada região nos playoffs do Split 1.",
+          "A lista completa, que a GameRiv copiou do gráfico oficial da EA, inclui Sentinels, NRG, Team Liquid, ZETA DIVISION, Team Falcons e Alliance."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s3", "s4"],
+      "en": {
+        "heading": "Prize pool and Championship Points",
+        "text": [
+          "The prize pool is $2,000,000, and all 40 teams earn money according to their final placement. The winner takes $600,000 and 1,000 Championship Points; second place gets $300,000 and 900 points, third $200,000 and 840 points. Even 40th place earns $2,500 and 100 points.",
+          "The points matter: of the 40 teams at the Championship, 32 get there through Championship Points and the other 8 through the Last Chance Qualifier, two per region."
+        ]
+      },
+      "fr": {
+        "heading": "Dotation et points de championnat",
+        "text": [
+          "La dotation totale est de 2 000 000 $, et les 40 équipes touchent une somme selon leur classement final. Le vainqueur reçoit 600 000 $ et 1 000 points de championnat ; le deuxième 300 000 $ et 900 points, le troisième 200 000 $ et 840 points. La 40e place rapporte encore 2 500 $ et 100 points.",
+          "Ces points comptent : sur les 40 équipes du Championnat, 32 s'y qualifient grâce aux points de championnat et les 8 autres par le Last Chance Qualifier, à raison de deux par région."
+        ]
+      },
+      "es": {
+        "heading": "Premios y puntos de campeonato",
+        "text": [
+          "La bolsa total es de 2.000.000 $, y los 40 equipos cobran según su clasificación final. El campeón se lleva 600.000 $ y 1.000 puntos de campeonato; el segundo recibe 300.000 $ y 900 puntos, y el tercero 200.000 $ y 840 puntos. Incluso el puesto 40 gana 2.500 $ y 100 puntos.",
+          "Los puntos importan: de los 40 equipos del Campeonato, 32 llegan por puntos de campeonato y los otros 8 por el Last Chance Qualifier, dos por región."
+        ]
+      },
+      "de": {
+        "heading": "Preisgeld und Championship Points",
+        "text": [
+          "Das Preisgeld beträgt insgesamt 2.000.000 $, und alle 40 Teams erhalten je nach Endplatzierung Geld. Der Sieger bekommt 600.000 $ und 1.000 Championship Points; der Zweite erhält 300.000 $ und 900 Punkte, der Dritte 200.000 $ und 840 Punkte. Selbst Platz 40 bringt noch 2.500 $ und 100 Punkte.",
+          "Die Punkte zählen: Von den 40 Teams der Championship kommen 32 über Championship Points und die übrigen 8 über das Last Chance Qualifier, zwei pro Region."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Premiação e pontos de campeonato",
+        "text": [
+          "A premiação total é de US$ 2.000.000, e as 40 equipes recebem de acordo com a colocação final. O campeão leva US$ 600.000 e 1.000 pontos de campeonato; o segundo recebe US$ 300.000 e 900 pontos, e o terceiro US$ 200.000 e 840 pontos. Até o 40º lugar ganha US$ 2.500 e 100 pontos.",
+          "Os pontos importam: das 40 equipes do Campeonato, 32 chegam por pontos de campeonato e as outras 8 pelo Last Chance Qualifier, duas por região."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4"],
+      "en": {
+        "heading": "Where to watch, in Paris time",
+        "text": [
+          "The official English broadcast streams on Twitch and YouTube, on the PlayApex channels. ALGS Multiview lets you follow any of the 20 teams in a match, with their comms, the stats and the map. Each day, watching for 60 minutes with an EA account linked to Twitch unlocks a cosmetic item, plus an Apex Pack after 15 minutes.",
+          "From Thursday to Saturday the broadcast starts at 18:00 Paris time, and the series start at 18:15, 22:30 and 02:45 the next morning. On Sunday, November 1, the Match Point finals begin at 00:30 in the night from Sunday to Monday, after the opening ceremony at midnight. Mind the clock change: the official schedule is in Pacific daylight time until October 31 and standard time on November 1, so the gap with Paris is 8 hours, then 9."
+        ]
+      },
+      "fr": {
+        "heading": "Où regarder, à l'heure de Paris",
+        "text": [
+          "La diffusion officielle en anglais passe par Twitch et YouTube, sur les chaînes PlayApex. ALGS Multiview te permet de suivre n'importe laquelle des 20 équipes d'une partie, avec leurs communications, les statistiques et la carte. Chaque jour, regarder 60 minutes avec un compte EA lié à Twitch débloque un objet cosmétique, plus un Apex Pack au bout de 15 minutes.",
+          "Du jeudi au samedi, la diffusion démarre à 18 h (heure de Paris) et les séries commencent à 18 h 15, 22 h 30 et 2 h 45 le lendemain matin. Le dimanche 1er novembre, la finale Match Point débute à 0 h 30 dans la nuit de dimanche à lundi, après la cérémonie d'ouverture à minuit. Attention au changement d'heure : le programme officiel est en heure d'été du Pacifique jusqu'au 31 octobre, puis en heure d'hiver le 1er novembre ; le décalage avec Paris passe donc de 8 h à 9 h."
+        ]
+      },
+      "es": {
+        "heading": "Dónde verlo, en hora de París",
+        "text": [
+          "La retransmisión oficial en inglés se emite por Twitch y YouTube, en los canales de PlayApex. ALGS Multiview te permite seguir a cualquiera de los 20 equipos de una partida, con sus comunicaciones, las estadísticas y el mapa. Cada día, ver 60 minutos con una cuenta de EA vinculada a Twitch desbloquea un objeto cosmético, y un Apex Pack a los 15 minutos.",
+          "De jueves a sábado la emisión empieza a las 18:00 (hora de París) y las series arrancan a las 18:15, 22:30 y 02:45 de la madrugada siguiente. El domingo 1 de noviembre, la final Match Point empieza a las 00:30 de la noche del domingo al lunes, tras la ceremonia de apertura a medianoche. Ojo al cambio de hora: el calendario oficial va en horario de verano del Pacífico hasta el 31 de octubre y en horario de invierno el 1 de noviembre, así que la diferencia con París pasa de 8 a 9 horas."
+        ]
+      },
+      "de": {
+        "heading": "Wo du zuschauen kannst, in Pariser Zeit",
+        "text": [
+          "Die offizielle englische Übertragung läuft auf Twitch und YouTube, auf den PlayApex-Kanälen. Mit ALGS Multiview kannst du jedes der 20 Teams eines Spiels verfolgen, samt Teamkommunikation, Statistiken und Karte. An jedem Tag schaltet 60 Minuten Zuschauen mit einem EA-Konto, das mit Twitch verknüpft ist, einen Kosmetikgegenstand frei, dazu nach 15 Minuten ein Apex Pack.",
+          "Von Donnerstag bis Samstag beginnt die Übertragung um 18:00 Uhr Pariser Zeit, die Serien starten um 18:15, 22:30 und 02:45 Uhr in der Nacht darauf. Am Sonntag, 1. November, beginnt das Match-Point-Finale um 00:30 Uhr in der Nacht zu Montag, nach der Eröffnungszeremonie um Mitternacht. Achtung, Zeitumstellung: Der offizielle Plan gilt bis 31. Oktober in pazifischer Sommerzeit und am 1. November in Normalzeit, der Abstand zu Paris wächst also von 8 auf 9 Stunden."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Onde assistir, no horário de Paris",
+        "text": [
+          "A transmissão oficial em inglês passa pela Twitch e pelo YouTube, nos canais PlayApex. O ALGS Multiview permite acompanhar qualquer uma das 20 equipes de uma partida, com as comunicações, as estatísticas e o mapa. A cada dia, assistir por 60 minutos com uma conta EA vinculada à Twitch libera um item cosmético, e um Apex Pack após 15 minutos.",
+          "De quinta a sábado a transmissão começa às 18h (horário de Paris) e as séries começam às 18h15, 22h30 e 2h45 da madrugada seguinte. No domingo, 1º de novembro, a final Match Point começa à 0h30, na madrugada de domingo para segunda, depois da cerimônia de abertura à meia-noite. Atenção à mudança de horário: o cronograma oficial usa o horário de verão do Pacífico até 31 de outubro e o horário padrão em 1º de novembro, então a diferença para Paris passa de 8 para 9 horas."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s5", "s6"],
+      "en": {
+        "heading": "What comes next",
+        "text": [
+          "The Last Chance Qualifier runs from November 20 to 22, 2026. It is the final way into the ALGS Championship: eight spots are up for grabs, two per region. The Championship is played in Sapporo, Japan, from January 28 to 31, 2027.",
+          "Teams coming through that route have a good precedent. In January 2026, Oblivion, which had come through the Last Chance Qualifier, won the Year 5 Championship in Sapporo against the odds."
+        ]
+      },
+      "fr": {
+        "heading": "Et ensuite ?",
+        "text": [
+          "Le Last Chance Qualifier se tient du 20 au 22 novembre 2026. C'est la dernière porte d'entrée pour le Championnat de l'ALGS : huit places sont à prendre, deux par région. Le Championnat se joue à Sapporo, au Japon, du 28 au 31 janvier 2027.",
+          "Les équipes qui passeront par là ont un précédent encourageant. En janvier 2026, Oblivion, issue du Last Chance Qualifier, a remporté le Championnat de l'année 5 à Sapporo, contre toute attente."
+        ]
+      },
+      "es": {
+        "heading": "Y después, qué",
+        "text": [
+          "El Last Chance Qualifier se celebra del 20 al 22 de noviembre de 2026. Es la última puerta de entrada al Campeonato de la ALGS: hay ocho plazas en juego, dos por región. El Campeonato se juega en Sapporo, Japón, del 28 al 31 de enero de 2027.",
+          "Los equipos que pasen por ahí tienen un precedente alentador. En enero de 2026, Oblivion, que venía del Last Chance Qualifier, ganó el Campeonato del año 5 en Sapporo, contra todo pronóstico."
+        ]
+      },
+      "de": {
+        "heading": "Und danach?",
+        "text": [
+          "Das Last Chance Qualifier findet vom 20. bis 22. November 2026 statt. Es ist der letzte Weg zur ALGS Championship: Acht Plätze sind zu vergeben, zwei pro Region. Die Championship wird vom 28. bis 31. Januar 2027 in Sapporo in Japan gespielt.",
+          "Teams, die diesen Weg nehmen, haben ein ermutigendes Vorbild. Im Januar 2026 gewann Oblivion, das über das Last Chance Qualifier gekommen war, entgegen allen Erwartungen die Championship des Jahres 5 in Sapporo."
+        ]
+      },
+      "pt-BR": {
+        "heading": "E depois?",
+        "text": [
+          "O Last Chance Qualifier acontece de 20 a 22 de novembro de 2026. É a última porta de entrada para o Campeonato da ALGS: há oito vagas em jogo, duas por região. O Campeonato é disputado em Sapporo, no Japão, de 28 a 31 de janeiro de 2027.",
+          "As equipes que passarem por esse caminho têm um precedente animador. Em janeiro de 2026, a Oblivion, que veio do Last Chance Qualifier, venceu o Campeonato do ano 5 em Sapporo, contra todas as expectativas."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "ALGS Split 2 Playoffs in Las Vegas: format, teams, prizes",
+    "description": "ALGS Split 2 playoffs in Las Vegas, October 29 to November 1: format, 40 teams, $2M prize pool, Paris viewing times and what comes next."
+  },
+  "fr": {
+    "title": "ALGS Split 2 : playoffs d'Apex Legends à Las Vegas",
+    "description": "Playoffs du Split 2 de l'ALGS à Las Vegas, du 29 octobre au 1er novembre : format, 40 équipes, 2 M$ de dotation, horaires à Paris et suite."
+  },
+  "es": {
+    "title": "ALGS Split 2: playoffs de Apex Legends en Las Vegas",
+    "description": "Playoffs del Split 2 de la ALGS en Las Vegas, del 29 de octubre al 1 de noviembre: formato, 40 equipos, 2 M$ en premios, horarios y lo siguiente."
+  },
+  "de": {
+    "title": "ALGS Split 2: Apex-Legends-Playoffs in Las Vegas",
+    "description": "ALGS-Playoffs des Split 2 in Las Vegas, 29. Oktober bis 1. November: Format, 40 Teams, 2 Mio. $ Preisgeld, Uhrzeiten in Paris und Ausblick."
+  },
+  "pt-BR": {
+    "title": "ALGS Split 2: playoffs de Apex Legends em Las Vegas",
+    "description": "Playoffs do Split 2 da ALGS em Las Vegas, de 29 de outubro a 1º de novembro: formato, 40 equipes, US$ 2 mi em prêmios, horários e o que vem depois."
+  }
+}

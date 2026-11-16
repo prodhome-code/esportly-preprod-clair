@@ -1,0 +1,918 @@
+{
+ "/fr/actualites": {
+  "title": "Actualités esport : grands matchs à ne pas manquer et infos",
+  "description": "Les nouvelles de l'esport : les matchs à ne pas manquer et les infos qui comptent, mises à jour au fil de l'eau sur eSportly."
+ },
+ "/de/blog": {
+  "title": "Esport Guide: jedes Spiel und seine Profiszene, mit Quellen",
+  "description": "Ein Guide zum Esport: was jedes Spiel ist, wie die Profiszene funktioniert und wie du sie verfolgst, mit den verwendeten Quellen."
+ },
+ "/es/blog": {
+  "title": "Guía de esports: cada juego, su escena profesional y fuentes",
+  "description": "Una guía de esports juego por juego: qué es cada uno, cómo funciona su escena profesional y cómo seguirla, con las fuentes que hemos usado."
+ },
+ "/fr/blog": {
+  "title": "Guide esport : chaque jeu, sa scène pro, comment la suivre",
+  "description": "Pour comprendre l'esport jeu par jeu : ce qu'est chaque jeu, comment fonctionne sa scène pro et comment la suivre, avec les sources utilisées."
+ },
+ "/pt/blog": {
+  "title": "Guia de esports: cada jogo, cena profissional, como funciona",
+  "description": "Um guia dos esports, jogo a jogo: o que é cada jogo, como funciona a cena profissional e como acompanhá-la, com as fontes que usamos."
+ },
+ "/blog": {
+  "title": "Esports guide: every game, its pro scene and how to follow it",
+  "description": "Every esports game explained: what it is, how its pro scene works and how to follow it, with the sources we used for each guide."
+ },
+ "/fr/equipes": {
+  "title": "Équipes esport : alertes de match et score en direct sur iPhone",
+  "description": "Les équipes d'e-sport à suivre avec eSportly sur iPhone : pour chacune, une alerte avant chaque match et le score en direct."
+ },
+ "/de/esl-pro-league": {
+  "title": "ESL Pro League: Spielplan, Matches in Pariser Zeit, Ergebnisse",
+  "description": "Der Spielplan der ESL Pro League mit allen Matches in Pariser Zeit, jeden Morgen aktualisiert. Ergebnisse bleiben verborgen, bis du sie sehen willst."
+ },
+ "/esl-pro-league-en": {
+  "title": "ESL Pro League: schedule and results, matches in Paris time",
+  "description": "ESL Pro League matches for Counter-Strike 2 in Paris time, updated every morning, with an alert before each one. Scores stay hidden until you ask."
+ },
+ "/es/esl-pro-league": {
+  "title": "ESL Pro League: calendario y resultados en hora de París",
+  "description": "Los partidos de ESL Pro League en hora de París, con el calendario actualizado cada mañana. Los marcadores quedan ocultos hasta que los pidas."
+ },
+ "/pt/esl-pro-league": {
+  "title": "ESL Pro League: agenda, resultados e partidas, horário de Paris",
+  "description": "Todas as partidas da ESL Pro League no horário de Paris, atualizadas toda manhã. Os placares ficam escondidos até você pedir."
+ },
+ "/fr/esl-pro-league": {
+  "title": "ESL Pro League : programme, matchs, heure de Paris, résultats",
+  "description": "Le programme de l'ESL Pro League en heure de Paris, mis à jour chaque matin. Les scores restent cachés jusqu'à ce que tu les demandes."
+ },
+ "/de/live": {
+  "title": "Esport live: Matches heute in LoL, Valorant, CS2, Rocket League",
+  "description": "Heute live im Esport: wer gerade spielt und was als Nächstes kommt, in LoL, Valorant, CS2, Rocket League, Dota 2 und mehr. Pariser Zeit."
+ },
+ "/es/live": {
+  "title": "Esports en directo hoy: LoL, Valorant, CS2 y quién juega ahora",
+  "description": "Esports en vivo hoy: LoL, Valorant, CS2, Rocket League, Dota 2 y más. Mira quién juega ahora y qué viene después, siempre en hora de París."
+ },
+ "/fr/live": {
+  "title": "Match esport en direct aujourd'hui : LoL, Valorant, CS2, Dota 2",
+  "description": "Qui joue en ce moment en e-sport ? Les matchs du jour : LoL, Valorant, CS2, Rocket League, Dota 2, puis ce qui vient, en heure de Paris."
+ },
+ "/pt/live": {
+  "title": "Esports ao vivo: partidas de hoje, quem joga agora, LoL e CS2",
+  "description": "Partidas de LoL, Valorant, CS2, Rocket League, Dota 2 e mais ao vivo hoje: quem joga agora e o que vem depois, no horário de Paris."
+ },
+ "/live": {
+  "title": "Live esports matches today: who is playing now, Paris time",
+  "description": "Esports matches live now, finished or still to come today: LoL, Valorant, CS2, Rocket League, Dota 2 and more, all in Paris time."
+ },
+ "/matches-this-week": {
+  "title": "Esports schedule: this week's matches, next 7 days, Valorant",
+  "description": "Schedule of esports matches for the next 7 days: League of Legends, Valorant, Counter-Strike 2, Rocket League, Dota 2 and more. Updated daily."
+ },
+ "/fr/matchs-de-la-semaine": {
+  "title": "Calendrier esport : matchs de la semaine, programme des 7 jours",
+  "description": "Le programme e-sport des 7 prochains jours : League of Legends, Valorant, Counter-Strike 2, Rocket League, Dota 2 et plus. Mis à jour chaque jour."
+ },
+ "/de/nachrichten": {
+  "title": "Esport News: Nachrichten, große Matches und Neuigkeiten",
+  "description": "Esport-Nachrichten und große Matches, die du nicht verpassen solltest, dazu die Neuigkeiten, die zählen. Laufend aktualisiert."
+ },
+ "/news": {
+  "title": "Esports news: big matches you can't miss, as they happen",
+  "description": "Esports news and the big matches you can't miss, each with its own article, updated as they happen. Match times are shown in Paris time."
+ },
+ "/es/noticias": {
+  "title": "Noticias de esports: grandes partidos que no te puedes perder",
+  "description": "Las noticias de esports que importan y los partidos que no te puedes perder, al momento, reunidos en una sola página de eSportly."
+ },
+ "/pt/partidas-da-semana": {
+  "title": "Calendário de esports: partidas da semana, LoL e Valorant",
+  "description": "A agenda de esports dos próximos 7 dias: League of Legends, Valorant, Counter-Strike 2, Rocket League, Dota 2, Overwatch 2 e mais. Atualizada todo dia."
+ },
+ "/es/partidos-de-la-semana": {
+  "title": "Calendario de esports: partidos de la semana y próximos 7 días",
+  "description": "El calendario de los próximos 7 días con League of Legends, Valorant, Counter-Strike 2, Rocket League, Dota 2 y más, actualizado cada día."
+ },
+ "/de/spiele-der-woche": {
+  "title": "Esport Spielplan: Matches der Woche, Valorant, Rocket League",
+  "description": "Der Spielplan der nächsten 7 Tage für Esport, mit sieben Spielen von League of Legends bis Rainbow Six Siege. Täglich aktualisiert."
+ },
+ "/teams": {
+  "title": "Esports teams, A to Z: match alerts and live scores to follow",
+  "description": "Every esports team you can follow, grouped by game and from A to Z: an alert before each match and the live score on your iPhone Lock Screen."
+ },
+ "/pt/ultimas-noticias": {
+  "title": "Notícias de esports: grandes partidas imperdíveis, tempo real",
+  "description": "As últimas notícias dos esports e as partidas imperdíveis do momento, com o que importa em cada jogo, atualizadas em tempo real."
+ },
+ "/de/vct-champions-2026": {
+  "title": "VCT Champions 2026 Spielplan: Matches, Ergebnisse, Pariser Zeit",
+  "description": "Alle Matches der VCT Champions 2026 als Spielplan in Pariser Zeit, jeden Morgen aktualisiert. Ergebnisse bleiben verborgen, bis du sie sehen willst."
+ },
+ "/vct-champions-2026-en": {
+  "title": "VCT Champions 2026 schedule and results: Valorant, Paris time",
+  "description": "VCT Champions 2026 matches for Valorant in Paris time, updated every morning, with an alert before each one. Scores stay hidden until you ask."
+ },
+ "/es/vct-champions-2026": {
+  "title": "VCT Champions 2026: partidos, marcadores ocultos, hora de París",
+  "description": "Sigue VCT Champions 2026 con todos los partidos en hora de París, puestos al día cada mañana. Los marcadores se quedan ocultos hasta que los pidas."
+ },
+ "/pt/vct-champions-2026": {
+  "title": "VCT Champions 2026: agenda, partidas e placares escondidos",
+  "description": "Todas as partidas do VCT Champions 2026 no horário de Paris, atualizadas toda manhã. Os placares ficam escondidos até você pedir."
+ },
+ "/fr/vct-champions-2026": {
+  "title": "VCT Champions 2026 : programme, résultats, heure de Paris",
+  "description": "Tous les matchs du VCT Champions 2026 à l'heure de Paris, mis à jour chaque matin. Les scores restent cachés jusqu'à ce que tu les demandes."
+ },
+ "/de/worlds-2026": {
+  "title": "Worlds 2026: Spielplan, alle Matches, Ergebnisse, Pariser Zeit",
+  "description": "Spielplan von Worlds 2026: alle Matches in Pariser Zeit, jeden Morgen aktualisiert. Die Ergebnisse bleiben verborgen, bis du sie sehen willst."
+ },
+ "/worlds-2026-en": {
+  "title": "Worlds 2026: schedule, results and every match in Paris time",
+  "description": "Worlds 2026 League of Legends matches in Paris time, updated every morning, with an alert before each one. Scores stay hidden until you ask."
+ },
+ "/es/worlds-2026": {
+  "title": "Worlds 2026: calendario, resultados y partidos en hora de París",
+  "description": "Los Worlds 2026 partido a partido, en hora de París y con el calendario al día cada mañana. Los marcadores se ven solo cuando tú lo pidas."
+ },
+ "/pt/worlds-2026": {
+  "title": "Worlds 2026: agenda e resultados de partidas, horário de Paris",
+  "description": "Todas as partidas do Worlds 2026 no horário de Paris, atualizadas toda manhã. Os placares ficam escondidos até você pedir."
+ },
+ "/fr/worlds-2026": {
+  "title": "Worlds 2026 : programme des matchs, résultats, scores cachés",
+  "description": "Tous les matchs des Worlds 2026 en heure de Paris, mis à jour chaque matin. Les scores restent cachés jusqu'à ce que tu les demandes."
+ },
+ "/blog/algs-split-2-playoffs-2026": {
+  "title": "ALGS Split 2 Playoffs in Las Vegas: format, teams, prizes",
+  "description": "The ALGS Split 2 playoffs run in Las Vegas from October 29 to November 1: $2M prize pool, Paris viewing times and what comes next."
+ },
+ "/blog/call-of-duty": {
+  "title": "Call of Duty esports: League, Majors, Champs, where to watch",
+  "description": "Call of Duty pro play explained: the game, the Call of Duty League, its Majors and Champs, and where to watch, with our sources."
+ },
+ "/blog/counter-strike-2": {
+  "title": "Counter-Strike 2 esports: tournament scene and the Major",
+  "description": "Counter-Strike 2 pro play explained: the game, its tournament scene, the Major, and where to watch it, with the sources we used."
+ },
+ "/blog/dota-2": {
+  "title": "Dota 2 esports: The International, circuits, where to watch",
+  "description": "Dota 2 pro play explained: the game, its tournament circuits, The International, and where to watch it, with the sources we used."
+ },
+ "/blog/ea-sports-fc": {
+  "title": "EA Sports FC esports: Pro circuit, leagues, where to watch",
+  "description": "EA Sports FC pro play explained: the game, the FC Pro circuit and partner leagues, the FC Pro World Championship, with our sources."
+ },
+ "/blog/honor-of-kings": {
+  "title": "Honor of Kings esports: KPL, regional leagues, World Cup",
+  "description": "Honor of Kings pro play explained: the game, the KPL and regional leagues, the World Cup, and where to watch, with our sources."
+ },
+ "/blog/league-of-legends": {
+  "title": "League of Legends esports: pro leagues, Worlds, where to watch",
+  "description": "League of Legends pro play explained: the game, its pro leagues, Worlds and MSI, and where to watch it, with the sources we used."
+ },
+ "/blog/mobile-legends": {
+  "title": "Mobile Legends esports: MPL leagues, M Series and the MSC",
+  "description": "Mobile Legends pro play explained: the game, the MPL leagues, the M Series world championship, the MSC, and where to watch."
+ },
+ "/blog/overwatch-2": {
+  "title": "Overwatch 2 esports: Champions Series, World Finals, pro scene",
+  "description": "Overwatch 2 pro play explained: the game, the Overwatch Champions Series, its World Finals and the World Cup, with our sources."
+ },
+ "/blog/pgl-masters-bucarest-2026": {
+  "title": "PGL Masters Bucharest 2026: FURIA and Nemiga in the final",
+  "description": "The PGL Masters Bucharest 2026 final, Nemiga vs FURIA on October 31: 16 teams, $1,250,000 prize pool, where to watch and the Singapore Major."
+ },
+ "/blog/rainbow-six-siege": {
+  "title": "Rainbow Six Siege esports: Ubisoft circuit, Majors, pro scene",
+  "description": "Rainbow Six Siege pro play explained: the game, Ubisoft's pro circuit, the Six Invitational and the Majors, and where to watch."
+ },
+ "/blog/valorant": {
+  "title": "Valorant esports: Champions Tour, Masters, where to watch",
+  "description": "Valorant pro play explained: the game, the Valorant Champions Tour, Masters and Champions, and where to watch, with our sources."
+ },
+ "/blog/wild-rift": {
+  "title": "Wild Rift esports: Riot leagues, Icons championship, Smash",
+  "description": "Wild Rift pro play explained: the game, Riot's leagues and Wild Rounds, the Icons championship and Smash, and where to watch."
+ },
+ "/blog/worlds-2026-quarts": {
+  "title": "Worlds 2026 quarterfinals: teams, draw, times, where to watch",
+  "description": "One Worlds 2026 quarterfinal per day, from November 3 to 6 in Allen: qualified teams, the draw, the format and where to watch, with sources."
+ },
+ "/fr/blog/algs-split-2-playoffs-2026": {
+  "title": "ALGS Split 2 : playoffs d'Apex Legends à Las Vegas, horaires",
+  "description": "Playoffs du Split 2 de l'ALGS à Las Vegas, du 29 octobre au 1er novembre : format, 40 équipes, 2 M$ de dotation, horaires à Paris et suite."
+ },
+ "/fr/blog/call-of-duty": {
+  "title": "Esport Call of Duty : League, Majors, Champs, où regarder",
+  "description": "Comment fonctionne la compétition sur Call of Duty ? Le jeu, la Call of Duty League, ses Majors et les Champs, et où regarder, avec nos sources."
+ },
+ "/fr/blog/counter-strike-2": {
+  "title": "Esport Counter-Strike 2 : scène de tournois, Major, où regarder",
+  "description": "Comment fonctionne la scène pro de Counter-Strike 2 ? Le jeu, sa scène de tournois, le Major, et où regarder, avec nos sources."
+ },
+ "/fr/blog/dota-2": {
+  "title": "Esport Dota 2 : circuits de tournois, The International",
+  "description": "Comment fonctionne la compétition sur Dota 2 ? Le jeu, ses circuits de tournois, The International, et où regarder, avec nos sources."
+ },
+ "/fr/blog/ea-sports-fc": {
+  "title": "Esport EA Sports FC : circuit Pro et ligues partenaires",
+  "description": "Comment fonctionne la scène pro d'EA Sports FC ? Le jeu, le circuit FC Pro et ses ligues partenaires, le FC Pro World Championship, et où regarder."
+ },
+ "/fr/blog/honor-of-kings": {
+  "title": "Esport Honor of Kings : KPL, ligues régionales et World Cup",
+  "description": "Comment fonctionne la compétition sur Honor of Kings ? La KPL et les ligues régionales, l'Honor of Kings World Cup, et où regarder, avec nos sources."
+ },
+ "/fr/blog/league-of-legends": {
+  "title": "Esport League of Legends : ligues pro, Worlds, MSI, où regarder",
+  "description": "Comment fonctionne la scène pro de League of Legends ? Le jeu, ses ligues pro, les Worlds et le MSI, et où regarder, avec nos sources."
+ },
+ "/fr/blog/mobile-legends": {
+  "title": "Esport Mobile Legends : ligues MPL, M Series, MSC, où regarder",
+  "description": "Comment fonctionne la compétition sur Mobile Legends ? Les ligues MPL, le championnat du monde M Series et la MSC, et où regarder, avec nos sources."
+ },
+ "/fr/blog/overwatch-2": {
+  "title": "Esport Overwatch 2 : Champions Series, Finals et World Cup",
+  "description": "Comment fonctionne la scène pro d'Overwatch 2 ? Le jeu, l'Overwatch Champions Series, ses World Finals et la World Cup, et où regarder, avec nos sources."
+ },
+ "/fr/blog/pgl-masters-bucarest-2026": {
+  "title": "PGL Masters Bucarest 2026 : FURIA et Nemiga en finale, format",
+  "description": "Finale Nemiga contre FURIA le 31 octobre au PGL Masters Bucarest : format, 16 équipes, 1 250 000 $ de dotation, où regarder et le Major de Singapour."
+ },
+ "/fr/blog/rainbow-six-siege": {
+  "title": "Esport Rainbow Six Siege : circuit pro d'Ubisoft, Majors",
+  "description": "Comment fonctionne la compétition sur Rainbow Six Siege ? Le circuit pro d'Ubisoft, le Six Invitational et les Majors, et où regarder, avec nos sources."
+ },
+ "/fr/blog/valorant": {
+  "title": "Esport Valorant : Champions Tour, Masters et où regarder",
+  "description": "Comment fonctionne la scène pro de Valorant ? Le jeu, le Valorant Champions Tour, les Masters et Champions, et où regarder, avec nos sources."
+ },
+ "/fr/blog/wild-rift": {
+  "title": "Esport Wild Rift : ligues de Riot, championnat Icons et Smash",
+  "description": "Comment fonctionne la compétition sur Wild Rift ? Les ligues de Riot et les Wild Rounds, le championnat Icons et Smash, et où regarder, avec nos sources."
+ },
+ "/fr/blog/worlds-2026-quarts": {
+  "title": "Worlds 2026 : quarts de finale, horaires à Paris, où regarder",
+  "description": "Les quarts des Worlds 2026 commencent le 3 novembre à Allen : équipes qualifiées, tirage, format BO5, horaires à Paris et où regarder."
+ },
+ "/es/blog/algs-split-2-playoffs-2026": {
+  "title": "ALGS Split 2: playoffs de Apex Legends en Las Vegas y premios",
+  "description": "Los playoffs del Split 2 de la ALGS en Las Vegas, del 29 de octubre al 1 de noviembre: formato, 40 equipos, premios, horarios y lo que viene después."
+ },
+ "/es/blog/call-of-duty": {
+  "title": "Esports de Call of Duty: Majors, Champs y escena profesional",
+  "description": "La escena profesional de Call of Duty: cómo funciona la Call of Duty League, sus Majors y los Champs, y dónde verlos, con las fuentes que hemos usado."
+ },
+ "/es/blog/counter-strike-2": {
+  "title": "Esports de Counter-Strike 2: torneos, el Major y dónde verlos",
+  "description": "Cómo es la escena profesional de Counter-Strike 2: el juego, su calendario de torneos, el Major y dónde verlos, con las fuentes que hemos usado."
+ },
+ "/es/blog/dota-2": {
+  "title": "Esports de Dota 2: circuitos, The International y dónde verlos",
+  "description": "La escena profesional de Dota 2 explicada: el juego, sus circuitos de torneos, The International y dónde verla, con las fuentes que hemos usado."
+ },
+ "/es/blog/ea-sports-fc": {
+  "title": "Esports de EA Sports FC: circuito Pro, ligas y dónde verlos",
+  "description": "Qué es la escena profesional de EA Sports FC: el circuito FC Pro y sus ligas, el FC Pro World Championship y dónde verlos, con las fuentes que usamos."
+ },
+ "/es/blog/honor-of-kings": {
+  "title": "Esports de Honor of Kings: KPL, ligas, World Cup y dónde verlos",
+  "description": "La escena profesional de Honor of Kings: el juego, la KPL y las ligas regionales, la Honor of Kings World Cup y dónde verlos, con nuestras fuentes."
+ },
+ "/es/blog/league-of-legends": {
+  "title": "Esports de League of Legends: Worlds, MSI, ligas y dónde verlos",
+  "description": "La escena profesional de League of Legends: el juego, sus ligas profesionales, los Worlds y el MSI, y dónde verlos, con las fuentes que hemos usado."
+ },
+ "/es/blog/mobile-legends": {
+  "title": "Esports de Mobile Legends: ligas MPL, M Series y dónde verlos",
+  "description": "La escena profesional de Mobile Legends: el juego, las ligas MPL, el mundial M Series y la MSC, y dónde verlos, con las fuentes que hemos usado."
+ },
+ "/es/blog/overwatch-2": {
+  "title": "Esports de Overwatch 2: Champions Series, Finals y dónde verlos",
+  "description": "La escena profesional de Overwatch 2: el juego, la Overwatch Champions Series, sus World Finals y la World Cup, y dónde verlos, con nuestras fuentes."
+ },
+ "/es/blog/pgl-masters-bucarest-2026": {
+  "title": "PGL Masters Bucarest 2026: final FURIA y Nemiga, dónde verlo",
+  "description": "Nemiga contra FURIA en la final del PGL Masters Bucarest el 31 de octubre: formato, 16 equipos, 1 250 000 $, dónde verlo y el Major de Singapur."
+ },
+ "/es/blog/rainbow-six-siege": {
+  "title": "Esports de Rainbow Six Siege: circuito de Ubisoft, Majors",
+  "description": "La escena profesional de Rainbow Six Siege: el juego, el circuito de Ubisoft, el Six Invitational y los Majors, y dónde verlos, con nuestras fuentes."
+ },
+ "/es/blog/valorant": {
+  "title": "Esports de Valorant: Champions Tour, Masters y dónde verlos",
+  "description": "La escena profesional de Valorant: el juego, el Valorant Champions Tour, los Masters y Champions, y dónde verlos, con las fuentes que hemos usado."
+ },
+ "/es/blog/wild-rift": {
+  "title": "Esports de Wild Rift: ligas de Riot, Icons y dónde verlos",
+  "description": "La escena profesional de Wild Rift: el juego, las ligas de Riot y las Wild Rounds, el campeonato Icons y Smash, y dónde verlos, con nuestras fuentes."
+ },
+ "/es/blog/worlds-2026-quarts": {
+  "title": "Worlds 2026: cuartos de final, horarios de París y dónde verlos",
+  "description": "Los cuartos de Worlds 2026 empiezan el 3 de noviembre en Allen: equipos clasificados, sorteo, series a cinco partidos, horarios de París y dónde verlos."
+ },
+ "/de/blog/algs-split-2-playoffs-2026": {
+  "title": "ALGS Split 2 Playoffs: Format, Preisgeld, Uhrzeiten, Las Vegas",
+  "description": "Die Apex-Legends-Playoffs des ALGS Split 2 in Las Vegas, 29. Oktober bis 1. November: Format, 40 Teams, 2 Mio. $ Preisgeld, Uhrzeiten."
+ },
+ "/de/blog/call-of-duty": {
+  "title": "Call of Duty Esport: Profiszene, Majors, Champs, Quellen",
+  "description": "Der Esport in Call of Duty: das Spiel, die Call of Duty League, ihre Majors und Champs und wo du zuschaust. Mit Quellen belegt."
+ },
+ "/de/blog/counter-strike-2": {
+  "title": "Counter-Strike 2 Esport: Profiszene, Turnierszene und Major",
+  "description": "Der Esport in Counter-Strike 2 erklärt: das Spiel, die Turnierszene, das Major und wo du zuschaust. Alles mit Quellen belegt."
+ },
+ "/de/blog/dota-2": {
+  "title": "Dota 2 Esport: Profiszene, Turnier-Circuits, The International",
+  "description": "Der Esport in Dota 2 erklärt: das Spiel, die Turnier-Circuits, The International und wo du zuschaust. Mit Quellen belegt."
+ },
+ "/de/blog/ea-sports-fc": {
+  "title": "EA Sports FC Esport: Profiszene, Pro-Circuit, Partnerligen",
+  "description": "Der Esport in EA Sports FC erklärt: das Spiel, der FC-Pro-Circuit, Partnerligen, die FC Pro World Championship und wo du zuschaust."
+ },
+ "/de/blog/honor-of-kings": {
+  "title": "Honor of Kings Esport: Profiszene, KPL und regionale Ligen",
+  "description": "Der Esport in Honor of Kings erklärt: das Spiel, die KPL und regionale Ligen, der World Cup und wo du zuschaust. Mit Quellen."
+ },
+ "/de/blog/league-of-legends": {
+  "title": "League of Legends Esport: Profiligen, Worlds, MSI und Quellen",
+  "description": "Der Esport in League of Legends erklärt: das Spiel, die Profiligen, Worlds und MSI und wo du zuschaust. Mit Quellen belegt."
+ },
+ "/de/blog/mobile-legends": {
+  "title": "Mobile Legends Esport: Profiszene, MPL-Ligen, M Series, MSC",
+  "description": "Der Esport in Mobile Legends erklärt: das Spiel, die MPL-Ligen, die Weltmeisterschaft M Series, der MSC und wo du zuschaust."
+ },
+ "/de/blog/overwatch-2": {
+  "title": "Overwatch 2 Esport: Profiszene, Champions Series, World Cup",
+  "description": "Der Esport in Overwatch 2 erklärt: das Spiel, die Overwatch Champions Series, World Finals, World Cup und wo du zuschaust."
+ },
+ "/de/blog/pgl-masters-bucarest-2026": {
+  "title": "PGL Masters Bukarest 2026: Finale, FURIA gegen Nemiga, Format",
+  "description": "Das PGL Masters Bukarest 2026 am 31. Oktober: Nemiga gegen FURIA im Finale, Format, 16 Teams, 1.250.000 $, Übertragung und das Major in Singapur."
+ },
+ "/de/blog/rainbow-six-siege": {
+  "title": "Rainbow Six Siege Esport: Profiszene, Invitational, Majors",
+  "description": "Der Esport in Rainbow Six Siege erklärt: das Spiel, Ubisofts Profi-Circuit, das Six Invitational, die Majors und wo du zuschaust."
+ },
+ "/de/blog/valorant": {
+  "title": "Valorant Esport: Profiszene, Champions Tour, Masters, Quellen",
+  "description": "Der Esport in Valorant erklärt: das Spiel, die Valorant Champions Tour, Masters und Champions und wo du zuschaust. Mit Quellen belegt."
+ },
+ "/de/blog/wild-rift": {
+  "title": "Wild Rift Esport: Profiszene, Riot-Ligen, Icons-Meisterschaft",
+  "description": "Der Esport in Wild Rift erklärt: das Spiel, Riots Ligen und die Wild Rounds, die Icons-Meisterschaft, Smash und wo du zuschaust."
+ },
+ "/de/blog/worlds-2026-quarts": {
+  "title": "Worlds 2026 Viertelfinale: Auslosung, Zeiten und Übertragung",
+  "description": "Die Viertelfinals der Worlds 2026 beginnen am 3. November in Allen: Teams, Auslosung, Best of 5, Zeiten in Paris und wo du zuschaust, mit Quellen."
+ },
+ "/pt/blog/algs-split-2-playoffs-2026": {
+  "title": "ALGS Split 2: playoffs de Apex Legends em Las Vegas, horários",
+  "description": "Playoffs do Split 2 da ALGS em Las Vegas, de 29 de outubro a 1º de novembro: formato, 40 equipes, US$ 2 mi em prêmios, horários e o que vem depois."
+ },
+ "/pt/blog/call-of-duty": {
+  "title": "Esports de Call of Duty: League, Majors, Champs e onde assistir",
+  "description": "Entenda os esports de Call of Duty: o jogo, a Call of Duty League, seus Majors e o Champs, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/counter-strike-2": {
+  "title": "Esports de Counter-Strike 2: torneios, Major e onde assistir",
+  "description": "Como funcionam os esports de Counter-Strike 2? O jogo, sua cena de torneios, o Major, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/dota-2": {
+  "title": "Esports de Dota 2: circuitos, The International e onde assistir",
+  "description": "Entenda os esports de Dota 2: o jogo, seus circuitos de torneios, The International, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/ea-sports-fc": {
+  "title": "Esports de EA Sports FC: ligas parceiras e onde assistir",
+  "description": "Como funcionam os esports de EA Sports FC? O jogo, o circuito FC Pro e as ligas parceiras, o FC Pro World Championship e onde assistir."
+ },
+ "/pt/blog/honor-of-kings": {
+  "title": "Esports de Honor of Kings: KPL, ligas regionais e onde assistir",
+  "description": "Guia dos esports de Honor of Kings: o jogo, a KPL e as ligas regionais, a Honor of Kings World Cup, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/league-of-legends": {
+  "title": "Esports de League of Legends: Worlds, MSI e onde assistir",
+  "description": "Como funcionam os esports de League of Legends? O jogo, suas ligas profissionais, o Worlds e o MSI, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/mobile-legends": {
+  "title": "Esports de Mobile Legends: ligas MPL, M Series, MSC e fontes",
+  "description": "Entenda os esports de Mobile Legends: o jogo, as ligas MPL, o mundial M Series e a MSC, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/overwatch-2": {
+  "title": "Esports de Overwatch 2: Champions Series, World Cup e Finals",
+  "description": "Como funcionam os esports de Overwatch 2? O jogo, a Overwatch Champions Series, as World Finals e a World Cup, e onde assistir."
+ },
+ "/pt/blog/pgl-masters-bucarest-2026": {
+  "title": "PGL Masters Bucareste 2026: FURIA e Nemiga na final, formato",
+  "description": "Nemiga x FURIA na final do PGL Masters Bucareste em 31 de outubro: formato, 16 equipes, US$ 1.250.000, onde assistir e o Major de Singapura."
+ },
+ "/pt/blog/rainbow-six-siege": {
+  "title": "Esports de Rainbow Six Siege: Majors, Ubisoft e onde assistir",
+  "description": "Guia dos esports de Rainbow Six Siege: o jogo, o circuito da Ubisoft, o Six Invitational e os Majors, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/valorant": {
+  "title": "Esports de Valorant: Champions Tour, Masters e onde assistir",
+  "description": "Como funcionam os esports de Valorant? O jogo, o Valorant Champions Tour, os Masters e o Champions, e onde assistir, com as fontes usadas."
+ },
+ "/pt/blog/wild-rift": {
+  "title": "Esports de Wild Rift: ligas da Riot, campeonato Icons e Smash",
+  "description": "Entenda os esports de Wild Rift: o jogo, as ligas da Riot e as Wild Rounds, o campeonato Icons e o Smash, e onde assistir."
+ },
+ "/pt/blog/worlds-2026-quarts": {
+  "title": "Worlds 2026: quartas de final, horários de Paris, onde assistir",
+  "description": "As quartas do Worlds 2026 começam em 3 de novembro em Allen: equipes, sorteio, séries de até cinco jogos, horários de Paris e onde assistir."
+ },
+ "/fr/equipes/100-thieves": {
+  "title": "100 Thieves prochain match : alerte, mode sans spoiler, gratuit",
+  "description": "100 Thieves : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/aurora": {
+  "title": "Aurora prochain match sur iPhone : alerte et score en direct",
+  "description": "Aurora : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/cloud9": {
+  "title": "Cloud9 prochain match : alerte, score en direct, sans spoiler",
+  "description": "Cloud9 : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/falcons": {
+  "title": "Falcons prochain match : alerte et score en direct sur iPhone",
+  "description": "Falcons : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/faze-clan": {
+  "title": "FaZe Clan prochain match : alerte, mode sans spoiler, gratuit",
+  "description": "Matchs à venir pour FaZe Clan sur iPhone : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/fnatic": {
+  "title": "Fnatic prochain match : alerte, score en direct, sans spoiler",
+  "description": "Fnatic : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/furia": {
+  "title": "FURIA prochain match : alerte et score en direct sur iPhone",
+  "description": "FURIA : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/g2-esports": {
+  "title": "G2 Esports prochain match : alerte, mode sans spoiler, gratuit",
+  "description": "G2 Esports : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/gamerlegion": {
+  "title": "GamerLegion prochain match, alerte et mode sans spoiler",
+  "description": "GamerLegion : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/gentle-mates": {
+  "title": "Gentle Mates prochain match : alerte et score en direct",
+  "description": "Matchs à venir pour Gentle Mates sur iPhone : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/heretics": {
+  "title": "Heretics prochain match sur iPhone : alerte et score en direct",
+  "description": "Heretics : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/jd-gaming": {
+  "title": "JD Gaming prochain match : alerte et score en direct sur iPhone",
+  "description": "JD Gaming : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/karmine-corp": {
+  "title": "Karmine Corp prochain match : alerte et score en direct",
+  "description": "Karmine Corp : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/kt-rolster": {
+  "title": "KT Rolster prochain match : alerte, mode sans spoiler, gratuit",
+  "description": "KT Rolster : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/loud": {
+  "title": "LOUD prochain match : alerte, score en direct, écran verrouillé",
+  "description": "Matchs à venir pour LOUD sur iPhone : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/mouz": {
+  "title": "MOUZ prochain match et score en direct sur iPhone, sans spoiler",
+  "description": "MOUZ : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/natus-vincere": {
+  "title": "Natus Vincere prochain match, alerte et mode sans spoiler",
+  "description": "Natus Vincere : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/nip": {
+  "title": "NIP prochain match : écran verrouillé, alerte, Counter-Strike 2",
+  "description": "Matchs à venir pour NIP (Counter-Strike 2) : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/nrg": {
+  "title": "NRG prochain match : Rocket League, alerte et mode sans spoiler",
+  "description": "NRG : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/og": {
+  "title": "OG prochain match : alerte, score en direct, écran verrouillé",
+  "description": "Matchs à venir pour OG sur iPhone : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/paper-rex": {
+  "title": "Paper Rex prochain match : Valorant, alerte et score en direct",
+  "description": "Matchs à venir pour Paper Rex (Valorant) : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/spirit": {
+  "title": "Spirit prochain match sur iPhone : alerte et score en direct",
+  "description": "Spirit : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/t1": {
+  "title": "T1 prochain match et score en direct sur iPhone, sans spoiler",
+  "description": "T1 : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/team-liquid": {
+  "title": "Team Liquid prochain match, alerte et mode sans spoiler",
+  "description": "Team Liquid : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/team-vitality": {
+  "title": "Team Vitality prochain match : alerte et score en direct",
+  "description": "Matchs à venir pour Team Vitality sur iPhone : alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/equipes/virtus-pro": {
+  "title": "Virtus.pro prochain match : alerte, mode sans spoiler, gratuit",
+  "description": "Virtus.pro : matchs à venir sur iPhone, alerte avant chaque match, score en direct sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/teams/100-thieves": {
+  "title": "100 Thieves upcoming matches: latest results, live score",
+  "description": "100 Thieves matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/aurora": {
+  "title": "Aurora calendar: upcoming matches, live score, no spoilers",
+  "description": "Aurora calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/cloud9": {
+  "title": "Cloud9 upcoming matches: calendar, results, alerts, no spoilers",
+  "description": "All Cloud9 matches in one place: an alert before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/falcons": {
+  "title": "Falcons calendar: upcoming matches, latest results, no spoilers",
+  "description": "Falcons matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/faze-clan": {
+  "title": "FaZe Clan upcoming matches: results, alerts, no spoilers",
+  "description": "FaZe Clan calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/fnatic": {
+  "title": "Fnatic calendar: upcoming matches, live score, no spoilers",
+  "description": "All Fnatic matches in one place: an alert before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/furia": {
+  "title": "FURIA upcoming matches: live score, alerts, no spoilers",
+  "description": "FURIA matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/g2-esports": {
+  "title": "G2 Esports calendar: upcoming matches, live score, no spoilers",
+  "description": "G2 Esports calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/gamerlegion": {
+  "title": "GamerLegion upcoming matches: latest results, live score",
+  "description": "All GamerLegion matches (Dota 2) in one place: alerts before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/gentle-mates": {
+  "title": "Gentle Mates calendar: live score on Lock Screen, no spoilers",
+  "description": "Gentle Mates matches (Rocket League) on your iPhone: an alert before kick-off, the live score on your Lock Screen and no-spoilers mode. Free, no account."
+ },
+ "/teams/heretics": {
+  "title": "Heretics upcoming matches: results, live score, no spoilers",
+  "description": "Heretics calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/jd-gaming": {
+  "title": "JD Gaming calendar: results, live score, alerts, no spoilers",
+  "description": "All JD Gaming matches in one place: an alert before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/karmine-corp": {
+  "title": "Karmine Corp upcoming matches: calendar, latest results, alerts",
+  "description": "Karmine Corp matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/kt-rolster": {
+  "title": "KT Rolster calendar: upcoming matches, live score, no spoilers",
+  "description": "KT Rolster matches (League of Legends) on your iPhone: an alert before kick-off, the live score on your Lock Screen and no-spoilers mode. Free, no account."
+ },
+ "/teams/loud": {
+  "title": "LOUD upcoming matches: results, live score, no spoilers",
+  "description": "All LOUD matches in one place: an alert before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/mouz": {
+  "title": "MOUZ calendar: latest results, live score on Lock Screen",
+  "description": "MOUZ matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/natus-vincere": {
+  "title": "Natus Vincere upcoming matches: calendar, results, live score",
+  "description": "Natus Vincere calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/nip": {
+  "title": "NIP calendar: upcoming matches, latest results, live score",
+  "description": "NIP matches (Counter-Strike 2) on your iPhone: an alert before kick-off, the live score on your Lock Screen and no-spoilers mode. Free, no account."
+ },
+ "/teams/nrg": {
+  "title": "NRG upcoming matches: calendar, latest results, no spoilers",
+  "description": "NRG matches (Rocket League, Valorant) on your iPhone: an alert before kick-off, the live score on your Lock Screen and no-spoilers mode. Free, no account."
+ },
+ "/teams/og": {
+  "title": "OG calendar: upcoming matches, latest results, live score",
+  "description": "Add OG (Dota 2) to your calendar and get an alert before every match, then the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/paper-rex": {
+  "title": "Paper Rex upcoming matches: results, alerts, no spoilers",
+  "description": "All Paper Rex matches (Valorant) in one place: alerts before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/spirit": {
+  "title": "Spirit calendar: upcoming matches, live score, no spoilers",
+  "description": "Spirit matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/t1": {
+  "title": "T1 upcoming matches: calendar, latest results, live score",
+  "description": "T1 calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/teams/team-liquid": {
+  "title": "Team Liquid calendar: latest results, live score, alerts",
+  "description": "All Team Liquid matches in one place: an alert before kick-off, the live score on your Lock Screen, results hidden until you tap. Free, no account."
+ },
+ "/teams/team-vitality": {
+  "title": "Team Vitality upcoming matches: calendar, latest results",
+  "description": "Team Vitality matches on your iPhone: an alert 1 hour and 30 minutes before each one, the live score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/teams/virtus-pro": {
+  "title": "Virtus.pro calendar: upcoming matches, live score, no spoilers",
+  "description": "Virtus.pro calendar for your iPhone or Google Calendar: upcoming matches, latest results, alerts and live score, with scores hidden until you tap."
+ },
+ "/fr/jeux/call-of-duty": {
+  "title": "Call of Duty score en direct : alerte, écran verrouillé",
+  "description": "Call of Duty en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/counter-strike-2": {
+  "title": "Counter-Strike 2 score en direct : alerte, sans spoiler, iPhone",
+  "description": "Résultats de Counter-Strike 2 en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/dota-2": {
+  "title": "Dota 2 score en direct : équipes, joueurs, alerte, sans spoiler",
+  "description": "Les matchs de Dota 2 en direct sur iPhone : une alerte avant chaque match, le score sur l'écran verrouillé et un mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/ea-sports-fc": {
+  "title": "EA Sports FC score en direct : alerte, écran verrouillé",
+  "description": "Résultats d'EA Sports FC en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/honor-of-kings": {
+  "title": "Honor of Kings score en direct : alerte, sans spoiler, iPhone",
+  "description": "Honor of Kings en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/league-of-legends": {
+  "title": "League of Legends score en direct, alerte, sans spoiler",
+  "description": "League of Legends en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/mobile-legends": {
+  "title": "Mobile Legends: Bang Bang score en direct : alerte, iPhone",
+  "description": "Mobile Legends: Bang Bang en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/overwatch-2": {
+  "title": "Overwatch 2 score en direct : alerte, mode sans spoiler, iPhone",
+  "description": "Résultats d'Overwatch 2 en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/rainbow-six-siege": {
+  "title": "Rainbow Six Siege score en direct, alerte, sans spoiler",
+  "description": "Résultats de Rainbow Six Siege en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/rocket-league": {
+  "title": "Rocket League score en direct : alerte, sans spoiler, iPhone",
+  "description": "Résultats de Rocket League en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit, sans compte."
+ },
+ "/fr/jeux/starcraft-2": {
+  "title": "StarCraft II score en direct : alerte, écran verrouillé",
+  "description": "StarCraft II en direct : tes équipes et joueurs sur iPhone, une alerte avant chaque match, le score sur l'écran verrouillé, le mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/starcraft-brood-war": {
+  "title": "StarCraft: Brood War score en direct, alerte, sans spoiler",
+  "description": "StarCraft: Brood War en direct sur iPhone : alerte avant chaque match, score sur l'écran verrouillé, mode sans spoiler. Gratuit."
+ },
+ "/fr/jeux/valorant": {
+  "title": "Valorant score en direct, équipes et joueurs, alerte de match",
+  "description": "Valorant en direct sur iPhone : suis tes équipes et joueurs, avec une alerte avant chaque match et le score sur l'écran verrouillé. Gratuit, sans compte."
+ },
+ "/fr/jeux/wild-rift": {
+  "title": "Wild Rift score en direct, alerte de match et mode sans spoiler",
+  "description": "Wild Rift en direct sur iPhone : suis tes équipes et joueurs, avec une alerte avant chaque match et le score sur l'écran verrouillé. Gratuit, sans compte."
+ },
+ "/games/call-of-duty": {
+  "title": "Call of Duty live score: match alerts, no spoilers, free",
+  "description": "Call of Duty scores on your iPhone Lock Screen, updated every game, plus an alert before every match. No-spoilers mode, free, no account."
+ },
+ "/games/counter-strike-2": {
+  "title": "Counter-Strike 2 live score: Majors, IEM, BLAST, ESL Pro League",
+  "description": "Counter-Strike 2 matches from the Majors, IEM, BLAST and ESL Pro League on iPhone: alerts before kick-off, the score on your Lock Screen. Free, no account."
+ },
+ "/games/dota-2": {
+  "title": "Dota 2 live score: The International, match alerts, no spoilers",
+  "description": "Follow Dota 2 teams and players: an alert before each match, results hidden until you want them and the score on your Lock Screen. Free, no account."
+ },
+ "/games/ea-sports-fc": {
+  "title": "EA Sports FC live score and match alerts, no spoilers, free",
+  "description": "Add EA Sports FC matches to your iPhone calendar or Google Calendar, get an alert before each one and follow the score. No spoilers, free, no account."
+ },
+ "/games/honor-of-kings": {
+  "title": "Honor of Kings live score: schedule, results, Lock Screen, free",
+  "description": "Honor of Kings scores on your iPhone Lock Screen and Dynamic Island, with an alert before each match and the stream on the match page. Free, no account."
+ },
+ "/games/league-of-legends": {
+  "title": "League of Legends live score: Worlds, MSI, LEC, match alerts",
+  "description": "League of Legends matches from Worlds, MSI, LEC and LCK on iPhone: an alert before kick-off, the score on your Lock Screen, no spoilers. Free, no account."
+ },
+ "/games/mobile-legends": {
+  "title": "Mobile Legends: Bang Bang live score, MPL, M-Series, alerts",
+  "description": "Mobile Legends: Bang Bang scores on your iPhone Lock Screen, with an alert before every MPL or M-Series match and no spoilers. Free, no account."
+ },
+ "/games/overwatch-2": {
+  "title": "Overwatch 2 live score: Champions Series, match alerts, free",
+  "description": "Overwatch 2 matches from the Overwatch Champions Series on iPhone: an alert before every game, the score on your Lock Screen. Free, no account."
+ },
+ "/games/rainbow-six-siege": {
+  "title": "Rainbow Six Siege live score: Invitational calendar, alerts",
+  "description": "Rainbow Six Siege scores on your iPhone Lock Screen, updated every game, with an alert before each match and a Six Invitational calendar. Free, no account."
+ },
+ "/games/rocket-league": {
+  "title": "Rocket League live score: RLCS calendar, match alerts, free",
+  "description": "Rocket League matches from the RLCS in your iPhone calendar or Google Calendar, with an alert before kick-off and the score on your Lock Screen. Free."
+ },
+ "/games/starcraft-2": {
+  "title": "StarCraft II live score: schedule, results, match alerts, free",
+  "description": "StarCraft II scores on your iPhone Lock Screen, updated every game, with an alert before each match and a no-spoilers mode. Free, no account."
+ },
+ "/games/starcraft-brood-war": {
+  "title": "StarCraft: Brood War live score, match alerts, no spoilers",
+  "description": "StarCraft: Brood War matches on iPhone: an alert before each one, the score on your Lock Screen, results only when you want to see them. Free, no account."
+ },
+ "/games/valorant": {
+  "title": "Valorant live score: VCT Masters, Champions, EMEA, match alerts",
+  "description": "Valorant matches from VCT Masters, Champions and EMEA on iPhone: an alert before every game, the score on your Lock Screen. No spoilers, free, no account."
+ },
+ "/games/wild-rift": {
+  "title": "Wild Rift live score: Lock Screen, match alerts, no spoilers",
+  "description": "Wild Rift scores on your iPhone Lock Screen, with an alert before every match and the stream on the match page. Results stay hidden. Free, no account."
+ },
+ "/es/juegos/call-of-duty": {
+  "title": "Call of Duty resultados en directo, avisos y modo sin spoilers",
+  "description": "Marcador de Call of Duty en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/counter-strike-2": {
+  "title": "Counter-Strike 2 resultados en directo, avisos y sin cuenta",
+  "description": "Counter-Strike 2 en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/dota-2": {
+  "title": "Dota 2 resultados en directo: avisos, iPhone y sin cuenta",
+  "description": "Marcador de Dota 2 en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/ea-sports-fc": {
+  "title": "EA Sports FC resultados en directo, avisos y sin spoilers",
+  "description": "Marcador de EA Sports FC en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/honor-of-kings": {
+  "title": "Honor of Kings resultados en directo, avisos y sin spoilers",
+  "description": "Honor of Kings en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/league-of-legends": {
+  "title": "League of Legends resultados en directo, avisos y gratis",
+  "description": "League of Legends en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/mobile-legends": {
+  "title": "Mobile Legends resultados en directo, avisos y sin cuenta",
+  "description": "Marcador de Mobile Legends en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/overwatch-2": {
+  "title": "Overwatch 2 resultados en directo: avisos, gratis y sin cuenta",
+  "description": "Overwatch 2 en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/rainbow-six-siege": {
+  "title": "Rainbow Six Siege resultados en directo, avisos y gratis",
+  "description": "Rainbow Six Siege en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/rocket-league": {
+  "title": "Rocket League resultados en directo: iPhone, avisos y gratis",
+  "description": "Marcador de Rocket League en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/starcraft-2": {
+  "title": "StarCraft II resultados en directo: marcador, avisos y gratis",
+  "description": "StarCraft II en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/starcraft-brood-war": {
+  "title": "StarCraft: Brood War resultados en directo, avisos y gratis",
+  "description": "StarCraft: Brood War en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/valorant": {
+  "title": "Valorant resultados en directo: avisos, marcador y sin cuenta",
+  "description": "Marcador de Valorant en directo en la pantalla de bloqueo de tu iPhone, con un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/es/juegos/wild-rift": {
+  "title": "Wild Rift resultados en directo: avisos, sin spoilers, gratis",
+  "description": "Wild Rift en directo en tu iPhone: marcador en la pantalla de bloqueo, un aviso antes de cada partido y modo sin spoilers. Gratis, sin cuenta."
+ },
+ "/de/spiele/call-of-duty": {
+  "title": "Call of Duty Live-Ergebnisse: Mitteilungen, Sperrbildschirm",
+  "description": "Die Ergebnisse von Call of Duty live auf dem iPhone: eine Benachrichtigung vor jedem Match, Modus ohne Spoiler. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/counter-strike-2": {
+  "title": "Counter-Strike 2 Live-Ergebnisse: Sperrbildschirm, ohne Spoiler",
+  "description": "Live-Ergebnis von Counter-Strike 2 auf dem Sperrbildschirm und eine Benachrichtigung vor jedem Match. Modus ohne Spoiler, kostenlos, ohne Konto."
+ },
+ "/de/spiele/dota-2": {
+  "title": "Dota 2 Live-Ergebnisse, Match-Benachrichtigungen, ohne Konto",
+  "description": "Verfolge Dota 2 live auf dem iPhone: Ergebnisse auf dem Sperrbildschirm, eine Benachrichtigung vor jedem Match. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/ea-sports-fc": {
+  "title": "EA Sports FC Live-Ergebnisse: Match-Mitteilungen, iPhone",
+  "description": "Die Ergebnisse von EA Sports FC live auf dem iPhone: eine Benachrichtigung vor jedem Match, Modus ohne Spoiler. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/honor-of-kings": {
+  "title": "Honor of Kings Live-Ergebnisse: Mitteilungen, ohne Spoiler",
+  "description": "Verfolge Honor of Kings live auf dem iPhone: Ergebnisse auf dem Sperrbildschirm, eine Benachrichtigung vor jedem Match. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/league-of-legends": {
+  "title": "League of Legends Live-Ergebnisse: ohne Spoiler, iPhone",
+  "description": "Live-Ergebnis von League of Legends auf dem Sperrbildschirm und eine Benachrichtigung vor jedem Match. Modus ohne Spoiler, kostenlos, ohne Konto."
+ },
+ "/de/spiele/mobile-legends": {
+  "title": "Mobile Legends Live-Ergebnisse: Mitteilungen, ohne Konto",
+  "description": "Die Ergebnisse von Mobile Legends live auf dem iPhone: eine Benachrichtigung vor jedem Match, Modus ohne Spoiler. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/overwatch-2": {
+  "title": "Overwatch 2 Live-Ergebnisse: Benachrichtigung, Sperrbildschirm",
+  "description": "Verfolge Overwatch 2 live auf dem iPhone: Ergebnisse auf dem Sperrbildschirm, eine Benachrichtigung vor jedem Match. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/rainbow-six-siege": {
+  "title": "Rainbow Six Siege Live-Ergebnisse: Sperrbildschirm, iPhone",
+  "description": "Live-Ergebnis von Rainbow Six Siege auf dem Sperrbildschirm und eine Benachrichtigung vor jedem Match. Modus ohne Spoiler, kostenlos, ohne Konto."
+ },
+ "/de/spiele/rocket-league": {
+  "title": "Rocket League Live-Ergebnisse: Mitteilungen, ohne Spoiler",
+  "description": "Die Ergebnisse von Rocket League live auf dem iPhone: eine Benachrichtigung vor jedem Match, Modus ohne Spoiler. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/starcraft-2": {
+  "title": "StarCraft II Live-Ergebnisse: Sperrbildschirm, Mitteilungen",
+  "description": "Verfolge StarCraft II live auf dem iPhone: Ergebnisse auf dem Sperrbildschirm, eine Benachrichtigung vor jedem Match. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/starcraft-brood-war": {
+  "title": "StarCraft: Brood War Live-Ergebnisse, Mitteilungen, iPhone",
+  "description": "Live-Ergebnis von StarCraft: Brood War auf dem Sperrbildschirm und eine Benachrichtigung vor jedem Match. Modus ohne Spoiler, kostenlos, ohne Konto."
+ },
+ "/de/spiele/valorant": {
+  "title": "Valorant Live-Ergebnisse: Match-Benachrichtigungen, iPhone",
+  "description": "Die Ergebnisse von Valorant live auf dem iPhone: eine Benachrichtigung vor jedem Match, Modus ohne Spoiler. Kostenlos, ohne Konto."
+ },
+ "/de/spiele/wild-rift": {
+  "title": "Wild Rift Live-Ergebnisse: Mitteilungen, ohne Konto, iPhone",
+  "description": "Live-Ergebnis von Wild Rift auf dem Sperrbildschirm und eine Benachrichtigung vor jedem Match. Modus ohne Spoiler, kostenlos, ohne Konto."
+ },
+ "/pt/jogos/call-of-duty": {
+  "title": "Call of Duty placar ao vivo, alertas de partida e iPhone",
+  "description": "Placar de Call of Duty ao vivo na tela de bloqueio do iPhone, com um alerta antes de cada partida e modo sem spoilers. Grátis, sem conta."
+ },
+ "/pt/jogos/counter-strike-2": {
+  "title": "Counter-Strike 2 placar ao vivo, times e jogadores, alertas",
+  "description": "Acompanhe seus times e jogadores de Counter-Strike 2 no iPhone: o placar ao vivo na tela de bloqueio e um alerta antes de cada partida. Grátis, sem conta."
+ },
+ "/pt/jogos/dota-2": {
+  "title": "Dota 2 placar ao vivo: alertas de partida, tela de bloqueio",
+  "description": "Veja o placar ao vivo de Dota 2 na tela de bloqueio do iPhone e receba um alerta antes de cada partida dos seus times. Grátis, sem conta."
+ },
+ "/pt/jogos/ea-sports-fc": {
+  "title": "EA Sports FC placar ao vivo: alertas, sem spoilers e iPhone",
+  "description": "Seus times e jogadores de EA Sports FC no iPhone: um alerta antes de cada partida, o placar ao vivo na tela de bloqueio e modo sem spoilers. Grátis."
+ },
+ "/pt/jogos/honor-of-kings": {
+  "title": "Honor of Kings placar ao vivo, tela de bloqueio e sem spoilers",
+  "description": "Placar de Honor of Kings ao vivo na tela de bloqueio do iPhone, com um alerta antes de cada partida e modo sem spoilers. Grátis, sem conta."
+ },
+ "/pt/jogos/league-of-legends": {
+  "title": "League of Legends placar ao vivo, alertas de partida e grátis",
+  "description": "Acompanhe seus times e jogadores de League of Legends no iPhone: o placar ao vivo na tela de bloqueio e um alerta antes de cada partida. Grátis, sem conta."
+ },
+ "/pt/jogos/mobile-legends": {
+  "title": "Mobile Legends: Bang Bang placar ao vivo, alertas de partida",
+  "description": "Placar ao vivo de Mobile Legends: Bang Bang na tela de bloqueio do iPhone e um alerta antes de cada partida. Grátis, sem conta."
+ },
+ "/pt/jogos/overwatch-2": {
+  "title": "Overwatch 2 placar ao vivo: alertas de partida e sem spoilers",
+  "description": "Seus times e jogadores de Overwatch 2 no iPhone: um alerta antes de cada partida, o placar ao vivo na tela de bloqueio e modo sem spoilers. Grátis."
+ },
+ "/pt/jogos/rainbow-six-siege": {
+  "title": "Rainbow Six Siege placar ao vivo: tela de bloqueio e alertas",
+  "description": "Veja o placar ao vivo de Rainbow Six Siege na tela de bloqueio do iPhone e receba um alerta antes de cada partida dos seus times. Grátis, sem conta."
+ },
+ "/pt/jogos/rocket-league": {
+  "title": "Rocket League placar ao vivo: alertas de partida, sem conta",
+  "description": "Placar de Rocket League ao vivo na tela de bloqueio do iPhone, com um alerta antes de cada partida e modo sem spoilers. Grátis, sem conta."
+ },
+ "/pt/jogos/starcraft-2": {
+  "title": "StarCraft II placar ao vivo: times, jogadores e alertas",
+  "description": "Acompanhe seus times e jogadores de StarCraft II no iPhone: o placar ao vivo na tela de bloqueio e um alerta antes de cada partida. Grátis, sem conta."
+ },
+ "/pt/jogos/starcraft-brood-war": {
+  "title": "StarCraft: Brood War placar ao vivo, alertas e sem spoilers",
+  "description": "Seus times e jogadores de StarCraft: Brood War no iPhone: um alerta antes de cada partida, placar ao vivo na tela de bloqueio e sem spoilers."
+ },
+ "/pt/jogos/valorant": {
+  "title": "Valorant placar ao vivo: alertas de partida, grátis, sem conta",
+  "description": "Placar de Valorant ao vivo na tela de bloqueio do iPhone, com um alerta antes de cada partida e modo sem spoilers. Grátis, sem conta."
+ },
+ "/pt/jogos/wild-rift": {
+  "title": "Wild Rift placar ao vivo, tela de bloqueio e alertas de partida",
+  "description": "Veja o placar ao vivo de Wild Rift na tela de bloqueio do iPhone e receba um alerta antes de cada partida dos seus times. Grátis, sem conta."
+ }
+}

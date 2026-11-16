@@ -1,0 +1,14 @@
+# Fichiers du dépôt qui ne sont pas des pages du site : jamais servis.
+.git
+.github
+.assetsignore
+worker
+wrangler.jsonc
+README.md
+.gitignore
+.wrangler
+docs
+news
+blog-src
+seo
+suivi

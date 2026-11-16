@@ -1,0 +1,88 @@
+# Publication de la veille : après la fusion d'une pull request « veille/… », les pages sont régénérées et envoyées ;
+# et, une fois la période d'essai passée (blog-src/veille/mode.json), les pull requests conformes sont fusionnées seules.
+# Spec : docs/superpowers/specs/2026-10-27-veille-design.md (§7 et §8). STOP (blog-src/veille/STOP) arrête tout.
+name: Veille — publication
+on:
+  pull_request:
+    types: [closed]
+  schedule:
+    - cron: "30 5 * * *"   # 6 h 30 à Paris (heure d'été) : fusion automatique des pull requests conformes
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: matchs   # même file que « Matchs du jour » : deux robots n'écrivent jamais en même temps
+  cancel-in-progress: false
+jobs:
+  fusion-auto:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - name: La veille est-elle arrêtée, et la période d'essai est-elle passée ?
+        id: mode
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          from datetime import date
+          stop = os.path.exists("blog-src/veille/STOP")
+          mode = json.load(open("blog-src/veille/mode.json", encoding="utf-8"))
+          auto_from = mode.get("auto_from")
+          ouvert = (not stop) and bool(auto_from) and date.fromisoformat(auto_from) <= date.today()
+          print(f"ouvert={'true' if ouvert else 'false'}")
+          print(f"raison={'STOP présent' if stop else ('essai en cours (auto_from=' + str(auto_from) + ')')}")
+          PY
+      - name: Fusionner les pull requests de la veille dont le contrôle est vert
+        if: steps.mode.outputs.ouvert == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr list --label veille --state open --json number,headRefName --jq '.[] | "\(.number) \(.headRefName)"' |
+          while read -r number branch; do
+            case "$branch" in
+              veille/*|veille-*) ;;
+              *) continue ;;
+            esac
+            # Seul le contrôle de la veille décide : « Workers Builds » échoue sur toutes les PR de ce dépôt.
+            etat=$(gh pr view "$number" --json statusCheckRollup --jq '[.statusCheckRollup[] | select(.name == "controle") | .conclusion] | unique | join(",")')
+            if [ "$etat" = "SUCCESS" ]; then
+              echo "Pull request #$number conforme : fusion (squash)."
+              gh pr merge "$number" --squash --delete-branch || echo "échec de la fusion de #$number"
+            else
+              echo "Pull request #$number : contrôle « $etat », pas de fusion."
+            fi
+          done
+  publier:
+    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true && (startsWith(github.event.pull_request.head.ref, 'veille/') || startsWith(github.event.pull_request.head.ref, 'veille-'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Base des fuseaux
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tzdata
+      - name: Régénérer les pages du Blog et des News
+        run: python3 .github/scripts/blog.py
+      - name: Régénérer le flux du blog (articles.json et RSS)
+        run: python3 .github/scripts/blog_feed.py
+      - name: Envoyer les pages régénérées
+        run: |
+          git config user.name "eSportly veille"
+          git config user.email "veille@esportly.eu"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rien à régénérer."
+          else
+            git commit -m "Veille : pages régénérées après fusion"
+            for essai in 1 2 3; do git push && break || sleep 5; done
+          fi

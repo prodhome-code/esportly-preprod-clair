@@ -1,0 +1,41 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "U6NY5CL9BJ.ProtoJoDigital.Clutchtime",
+          "U6NY5CL9BJ.ProtoJoDigital.eSportly"
+        ],
+        "components": [
+          {
+            "/": "/match.html",
+            "?": {
+              "id": "?*"
+            },
+            "comment": "Un match partagé : ouvert directement dans l'app"
+          },
+          {
+            "/": "/match",
+            "?": {
+              "id": "?*"
+            },
+            "comment": "Même page, sans l'extension (adresse servie par Cloudflare)"
+          },
+          {
+            "/": "/tv-equipes",
+            "comment": "Choisir sur l'iPhone les équipes de l'Apple TV (QR code de l'Apple TV)"
+          },
+          {
+            "/": "/tv-equipes.html",
+            "comment": "Même page, avec l'extension"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "U6NY5CL9BJ.ProtoJoDigital.Clutchtime.Clip"
+    ]
+  }
+}

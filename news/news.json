@@ -1,0 +1,132 @@
+{
+ "events": {
+  "worlds-2026": {
+   "knockout_from": "2026-11-03",
+   "game": "league-of-legends"
+  },
+  "vct-champions-2026": {
+   "knockout_from": null,
+   "game": "valorant"
+  },
+  "esl-pro-league": {
+   "knockout_from": null,
+   "game": "counter-strike-2"
+  }
+ },
+ "items": [
+  {
+   "id": "pgl-masters-bucarest-2026",
+   "game": "counter-strike-2",
+   "date": "2026-10-29",
+   "until": "2026-11-01",
+   "link": {
+    "blog": "pgl-masters-bucarest-2026"
+   },
+   "fr": {
+    "title": "PGL Masters Bucarest : demi-finales dès le 30 octobre",
+    "text": "Counter-Strike 2 : FURIA, MOUZ, Vitality et Nemiga sont en demi-finales. La grande finale, au meilleur des 5 manches, se joue le 31 octobre à Bucarest."
+   },
+   "en": {
+    "title": "PGL Masters Bucharest: semifinals start October 30",
+    "text": "Counter-Strike 2: FURIA, MOUZ, Vitality and Nemiga are in the semifinals. The grand final, a best-of-five, is on October 31 in Bucharest."
+   },
+   "es": {
+    "title": "PGL Masters Bucarest: semifinales desde el 30 de octubre",
+    "text": "Counter-Strike 2: FURIA, MOUZ, Vitality y Nemiga están en semifinales. La gran final, al mejor de cinco mapas, se juega el 31 de octubre en Bucarest."
+   },
+   "de": {
+    "title": "PGL Masters Bukarest: Halbfinals ab dem 30. Oktober",
+    "text": "Counter-Strike 2: FURIA, MOUZ, Vitality und Nemiga stehen im Halbfinale. Das große Finale, ein Best of 5, findet am 31. Oktober in Bukarest statt."
+   },
+   "pt-BR": {
+    "title": "PGL Masters Bucareste: semifinais a partir de 30 de outubro",
+    "text": "Counter-Strike 2: FURIA, MOUZ, Vitality e Nemiga estão nas semifinais. A grande final, em melhor de cinco, será em 31 de outubro, em Bucareste."
+   }
+  },
+  {
+   "id": "algs-split-2-playoffs-2026",
+   "date": "2026-10-29",
+   "until": "2026-11-02",
+   "link": {
+    "blog": "algs-split-2-playoffs-2026"
+   },
+   "fr": {
+    "title": "ALGS Apex Legends : les playoffs du Split 2 à Las Vegas",
+    "text": "Les meilleures équipes d'Apex Legends s'affrontent à Las Vegas du 29 octobre au 1er novembre. Prochaine étape : le Last Chance Qualifier, du 20 au 22 novembre."
+   },
+   "en": {
+    "title": "Apex Legends ALGS: Split 2 playoffs in Las Vegas",
+    "text": "The best Apex Legends teams compete in Las Vegas from October 29 to November 1. Next up: the Last Chance Qualifier, from November 20 to 22."
+   },
+   "es": {
+    "title": "ALGS de Apex Legends: playoffs del Split 2 en Las Vegas",
+    "text": "Los mejores equipos de Apex Legends compiten en Las Vegas del 29 de octubre al 1 de noviembre. Lo siguiente: el Last Chance Qualifier, del 20 al 22 de noviembre."
+   },
+   "de": {
+    "title": "Apex Legends ALGS: Split-2-Playoffs in Las Vegas",
+    "text": "Die besten Apex-Legends-Teams treten vom 29. Oktober bis 1. November in Las Vegas an. Als Nächstes folgt das Last Chance Qualifier vom 20. bis 22. November."
+   },
+   "pt-BR": {
+    "title": "ALGS de Apex Legends: playoffs do Split 2 em Las Vegas",
+    "text": "As melhores equipes de Apex Legends competem em Las Vegas de 29 de outubro a 1º de novembro. Em seguida: o Last Chance Qualifier, de 20 a 22 de novembro."
+   }
+  },
+  {
+   "id": "worlds-2026-quarts",
+   "game": "league-of-legends",
+   "date": "2026-10-29",
+   "until": "2026-11-06",
+   "link": {
+    "blog": "worlds-2026-quarts"
+   },
+   "fr": {
+    "title": "Worlds 2026 : les quarts de finale commencent le 3 novembre",
+    "text": "Un quart de finale au meilleur des 5 manches par jour, du 3 au 6 novembre. Le tirage a lieu le 31 octobre, et la finale se joue le 14 novembre."
+   },
+   "en": {
+    "title": "Worlds 2026: quarterfinals start November 3",
+    "text": "One best-of-five quarterfinal per day, from November 3 to 6. The draw is on October 31, and the final is played on November 14."
+   },
+   "es": {
+    "title": "Worlds 2026: los cuartos de final empiezan el 3 de noviembre",
+    "text": "Un cuarto de final al mejor de cinco por día, del 3 al 6 de noviembre. El sorteo es el 31 de octubre y la final se juega el 14 de noviembre."
+   },
+   "de": {
+    "title": "Worlds 2026: Viertelfinale ab dem 3. November",
+    "text": "Jeden Tag ein Viertelfinale im Best of 5, vom 3. bis 6. November. Die Auslosung ist am 31. Oktober, das Finale wird am 14. November gespielt."
+   },
+   "pt-BR": {
+    "title": "Worlds 2026: quartas de final começam em 3 de novembro",
+    "text": "Uma quarta de final em melhor de cinco por dia, de 3 a 6 de novembro. O sorteio é em 31 de outubro, e a final será em 14 de novembro."
+   }
+  },
+  {
+   "id": "enc-reporte-2026",
+   "date": "2026-11-09",
+   "until": "2026-11-20",
+   "link": {
+    "blog": "2026-11-09-enc-reporte-novembre-2027"
+   },
+   "fr": {
+    "title": "Esports Nations Cup : pas cette semaine, reportée à novembre 2027",
+    "text": "La première Esports Nations Cup devait se jouer à Riyad du 8 au 15 novembre. L'organisateur l'a reportée à novembre 2027, invoquant la situation régionale. Notre article dit ce que devait être ce tournoi par nations."
+   },
+   "en": {
+    "title": "Esports Nations Cup postponed: no event this week, back in November 2027",
+    "text": "The first Esports Nations Cup was due in Riyadh from 8 to 15 November. The organisers postponed it to November 2027, citing the regional situation. Our article explains what this national-team tournament was meant to be."
+   },
+   "es": {
+    "title": "Esports Nations Cup: aplazada a noviembre de 2027, no hay torneo esta semana",
+    "text": "La primera Esports Nations Cup debía jugarse en Riad del 8 al 15 de noviembre. El organizador la aplazó a noviembre de 2027 por la situación regional. Nuestro artículo explica qué debía ser este torneo de selecciones."
+   },
+   "de": {
+    "title": "Esports Nations Cup verschoben: kein Turnier diese Woche, sondern November 2027",
+    "text": "Der erste Esports Nations Cup sollte vom 8. bis 15. November in Riad stattfinden. Der Veranstalter verschob ihn wegen der regionalen Lage auf November 2027. Unser Artikel erklärt, was dieses Nationalturnier sein sollte."
+   },
+   "pt-BR": {
+    "title": "Esports Nations Cup adiada para novembro de 2027, sem torneio esta semana",
+    "text": "A primeira Esports Nations Cup deveria ser disputada em Riad de 8 a 15 de novembro. O organizador adiou-a para novembro de 2027, citando a situação regional. O nosso artigo explica o que este torneio de seleções devia ser."
+   }
+  }
+ ]
+}

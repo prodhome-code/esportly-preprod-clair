@@ -1,0 +1,194 @@
+{
+  "kind": "news",
+  "game": "counter-strike-2",
+  "date": "2026-10-31",
+  "updated": "2026-10-31",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "PGL Esports: PGL Masters Bucharest 2026, event page", "url": "https://www.pglesports.com/cs2/pgl-masters-bucharest-2026/"},
+    {"id": "s2", "title": "PGL on YouTube: Nemiga Gaming vs. FURIA, Playoffs: FINAL", "url": "https://www.youtube.com/live/DTnENvX1JV0"},
+    {"id": "s3", "title": "PGL on YouTube: MOUZ vs. FURIA, Playoffs: Semi-Final Match", "url": "https://www.youtube.com/live/nZ2CevoATVE"},
+    {"id": "s4", "title": "PGL on X: PGL CS2 2026 Calendar Update, Bucharest invites and qualifiers", "url": "https://x.com/pglesports/status/2003056171389771987"},
+    {"id": "s5", "title": "PGL Esports: PGL CS2 Major Singapore 2026", "url": "https://www.pglesports.com/cs2/pgl-major-singapore-2026/"},
+    {"id": "s6", "title": "Valve: Counter-Strike Major Supplemental Rulebook", "url": "https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/major-supplemental-rulebook.md"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "The essentials: FURIA and Nemiga meet in the final",
+        "text": [
+          "The PGL Masters Bucharest 2026 final (Counter-Strike 2) is Nemiga against FURIA on October 31, in Bucharest, Romania. FURIA reached it by beating MOUZ in the semifinal on October 30; Nemiga won the other semifinal.",
+          "The tournament runs from October 24 to 31, 2026, played on LAN in a studio, with 16 teams and $1,250,000 to share. This article was written on October 31, before the final was decided: to find out who won, check the event page or PGL's channel."
+        ]
+      },
+      "fr": {
+        "heading": "L'essentiel : FURIA et Nemiga se retrouvent en finale",
+        "text": [
+          "La finale du PGL Masters Bucarest 2026 (Counter-Strike 2) oppose Nemiga à FURIA le 31 octobre, à Bucarest, en Roumanie. FURIA a rejoint la finale en battant MOUZ en demi-finale le 30 octobre ; Nemiga a gagné l'autre demi-finale.",
+          "Le tournoi se joue du 24 au 31 octobre 2026 en LAN, dans un studio, avec 16 équipes et 1 250 000 dollars à se partager. Cet article est écrit le 31 octobre, avant le résultat de la finale : pour connaître le vainqueur, regarde la page de l'événement ou la chaîne de PGL."
+        ]
+      },
+      "es": {
+        "heading": "Lo esencial: FURIA y Nemiga se enfrentan en la final",
+        "text": [
+          "La final del PGL Masters Bucarest 2026 (Counter-Strike 2) enfrenta a Nemiga y FURIA el 31 de octubre, en Bucarest, Rumanía. FURIA llegó a la final tras vencer a MOUZ en la semifinal del 30 de octubre; Nemiga ganó la otra semifinal.",
+          "El torneo se juega del 24 al 31 de octubre de 2026 en LAN, en un estudio, con 16 equipos y 1 250 000 dólares por repartir. Este artículo se escribió el 31 de octubre, antes del resultado de la final: para saber quién ganó, consulta la página del evento o el canal de PGL."
+        ]
+      },
+      "de": {
+        "heading": "Das Wichtigste: FURIA und Nemiga stehen im Finale",
+        "text": [
+          "Das Finale des PGL Masters Bukarest 2026 (Counter-Strike 2) lautet Nemiga gegen FURIA und wird am 31. Oktober in Bukarest, Rumänien, gespielt. FURIA erreichte es mit einem Sieg über MOUZ im Halbfinale am 30. Oktober; Nemiga gewann das andere Halbfinale.",
+          "Das Turnier läuft vom 24. bis 31. Oktober 2026, als LAN-Event in einem Studio, mit 16 Teams und 1.250.000 Dollar, die verteilt werden. Dieser Artikel entstand am 31. Oktober, vor dem Ergebnis des Finals: Wer gewonnen hat, siehst du auf der Eventseite oder im Kanal von PGL."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O essencial: FURIA e Nemiga se enfrentam na final",
+        "text": [
+          "A final do PGL Masters Bucareste 2026 (Counter-Strike 2) é Nemiga contra FURIA, em 31 de outubro, em Bucareste, na Romênia. A FURIA chegou lá ao vencer a MOUZ na semifinal de 30 de outubro; a Nemiga ganhou a outra semifinal.",
+          "O torneio acontece de 24 a 31 de outubro de 2026, em LAN, em um estúdio, com 16 equipes e US$ 1.250.000 para dividir. Este artigo foi escrito em 31 de outubro, antes do resultado da final: para saber quem venceu, confira a página do evento ou o canal da PGL."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s4"],
+      "en": {
+        "heading": "Format, teams and prize pool",
+        "text": [
+          "The 16 teams start with a Swiss stage from October 24 to 28, with every match played as a best-of-three. Eight teams advance to the playoffs, from October 29 to 31: single elimination, best-of-three, except the final, which is best-of-five.",
+          "Twelve teams are invited based on Valve's global VRS ranking; the other four spots go through online qualifiers, open from September 3 to 6 and closed from September 9 to 13. The field includes Team Spirit, MOUZ, Team Vitality, FURIA, Natus Vincere, G2 Esports, Team Liquid, The MongolZ and Nemiga.",
+          "The $1,250,000 prize pool is split into two equal pools of $625,000, called prize money and club reward. In each of them, first place earns $225,000 and second place $100,000."
+        ]
+      },
+      "fr": {
+        "heading": "Format, équipes et dotation",
+        "text": [
+          "Les 16 équipes jouent d'abord une phase suisse du 24 au 28 octobre, avec tous les matchs au meilleur des 3 cartes. Huit équipes passent en playoffs, du 29 au 31 octobre : élimination directe, au meilleur des 3 cartes, sauf la finale, au meilleur des 5.",
+          "Douze équipes sont invitées d'après le classement mondial VRS de Valve ; les quatre autres places passent par des qualifications en ligne, ouvertes du 3 au 6 septembre puis fermées du 9 au 13 septembre. Parmi les engagées : Team Spirit, MOUZ, Team Vitality, FURIA, Natus Vincere, G2 Esports, Team Liquid, The MongolZ et Nemiga.",
+          "La dotation de 1 250 000 $ se répartit en deux enveloppes égales de 625 000 $, le prize money et le club reward. Dans chacune, la première place rapporte 225 000 $ et la deuxième 100 000 $."
+        ]
+      },
+      "es": {
+        "heading": "Formato, equipos y premios",
+        "text": [
+          "Los 16 equipos empiezan con una fase suiza del 24 al 28 de octubre, con todos los partidos al mejor de 3 mapas. Ocho equipos pasan a los playoffs, del 29 al 31 de octubre: eliminación directa, al mejor de 3 mapas, salvo la final, al mejor de 5.",
+          "Doce equipos están invitados según el ranking mundial VRS de Valve; las otras cuatro plazas se deciden en clasificatorios en línea, abiertos del 3 al 6 de septiembre y cerrados del 9 al 13 de septiembre. Entre los participantes están Team Spirit, MOUZ, Team Vitality, FURIA, Natus Vincere, G2 Esports, Team Liquid, The MongolZ y Nemiga.",
+          "El total de 1 250 000 dólares se reparte en dos bolsas iguales de 625 000 dólares, llamadas prize money y club reward. En cada una, el primer puesto gana 225 000 dólares y el segundo 100 000."
+        ]
+      },
+      "de": {
+        "heading": "Format, Teams und Preisgeld",
+        "text": [
+          "Die 16 Teams starten mit einer Phase im Schweizer System vom 24. bis 28. Oktober; alle Spiele sind Best of 3. Acht Teams erreichen die Playoffs vom 29. bis 31. Oktober: K.-o.-System, Best of 3, außer dem Finale, das ein Best of 5 ist.",
+          "Zwölf Teams sind nach der globalen VRS-Rangliste von Valve eingeladen; die übrigen vier Plätze werden in Online-Qualifikationen vergeben, offen vom 3. bis 6. September und geschlossen vom 9. bis 13. September. Im Feld stehen unter anderem Team Spirit, MOUZ, Team Vitality, FURIA, Natus Vincere, G2 Esports, Team Liquid, The MongolZ und Nemiga.",
+          "Die 1.250.000 Dollar teilen sich auf zwei gleich große Töpfe zu je 625.000 Dollar auf, Prize Money und Club Reward. In jedem Topf bekommt Platz 1 225.000 Dollar und Platz 2 100.000 Dollar."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Formato, equipes e premiação",
+        "text": [
+          "As 16 equipes começam com uma fase suíça de 24 a 28 de outubro, com todas as partidas em melhor de 3 mapas. Oito equipes avançam aos playoffs, de 29 a 31 de outubro: eliminação direta, melhor de 3 mapas, exceto a final, em melhor de 5.",
+          "Doze equipes foram convidadas pelo ranking mundial VRS da Valve; as outras quatro vagas saem de qualificatórios online, abertos de 3 a 6 de setembro e fechados de 9 a 13 de setembro. Entre as participantes estão Team Spirit, MOUZ, Team Vitality, FURIA, Natus Vincere, G2 Esports, Team Liquid, The MongolZ e Nemiga.",
+          "O total de US$ 1.250.000 se divide em dois fundos iguais de US$ 625.000, chamados prize money e club reward. Em cada um, o primeiro lugar recebe US$ 225.000 e o segundo US$ 100.000."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "Where to watch and what time",
+        "text": [
+          "PGL streams the event live on its YouTube channel and on Twitch (twitch.tv/pgl). The event page points to this coverage.",
+          "In Paris time, the October 30 broadcast, on the semifinal day, started at 12:15 pm, and the October 31 broadcast, on the final day, at 8:15 am. For the time of each match, check PGL's channel."
+        ]
+      },
+      "fr": {
+        "heading": "Où regarder et à quelle heure",
+        "text": [
+          "PGL diffuse l'événement en direct sur sa chaîne YouTube et sur Twitch (twitch.tv/pgl). La page de l'événement renvoie vers cette couverture.",
+          "En heure de Paris, le direct du 30 octobre, jour des demi-finales, a démarré à 12 h 15, et celui du 31 octobre, jour de la finale, à 8 h 15. Pour l'horaire de chaque match, regarde la chaîne de PGL."
+        ]
+      },
+      "es": {
+        "heading": "Dónde ver el torneo y a qué hora",
+        "text": [
+          "PGL emite el evento en directo en su canal de YouTube y en Twitch (twitch.tv/pgl). La página del evento remite a esa cobertura.",
+          "En hora de París, la emisión del 30 de octubre, día de las semifinales, empezó a las 12:15, y la del 31 de octubre, día de la final, a las 8:15. Para el horario de cada partido, consulta el canal de PGL."
+        ]
+      },
+      "de": {
+        "heading": "Wo du zuschaust und um wie viel Uhr",
+        "text": [
+          "PGL überträgt das Event live auf seinem YouTube-Kanal und auf Twitch (twitch.tv/pgl). Die Eventseite verweist auf diese Übertragung.",
+          "In Pariser Zeit begann die Übertragung am 30. Oktober, dem Tag der Halbfinals, um 12:15 Uhr und die am 31. Oktober, dem Tag des Finals, um 8:15 Uhr. Die Zeit der einzelnen Matches findest du im Kanal von PGL."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Onde assistir e a que horas",
+        "text": [
+          "A PGL transmite o evento ao vivo no seu canal do YouTube e na Twitch (twitch.tv/pgl). A página do evento aponta para essa cobertura.",
+          "No horário de Paris, a transmissão de 30 de outubro, dia das semifinais, começou às 12h15, e a de 31 de outubro, dia da final, às 8h15. Para saber a hora de cada partida, confira o canal da PGL."
+        ]
+      }
+    },
+    {
+      "cite": ["s5", "s6"],
+      "en": {
+        "heading": "What comes next: the Singapore Major",
+        "text": [
+          "The next big Counter-Strike 2 event is the PGL Major Singapore, from November 24 to December 13, 2026, the second Major of the year. 32 teams play in three stages, and the last four days are held at the Singapore Indoor Stadium, ending with a best-of-five grand final.",
+          "According to Valve's Major rulebook, invited teams are chosen from the VRS regional ranking, which has three lists: Europe, the Americas and Asia."
+        ]
+      },
+      "fr": {
+        "heading": "Et ensuite : le Major de Singapour",
+        "text": [
+          "Le prochain grand rendez-vous de Counter-Strike 2 est le PGL Major de Singapour, du 24 novembre au 13 décembre 2026, le deuxième Major de l'année. 32 équipes y jouent en trois phases, et les quatre derniers jours se tiennent au Singapore Indoor Stadium, jusqu'à une finale au meilleur des 5 cartes.",
+          "Selon le règlement des Majors publié par Valve, les équipes invitées sont choisies d'après le classement régional VRS, qui compte trois listes : Europe, Amériques et Asie."
+        ]
+      },
+      "es": {
+        "heading": "Lo que viene: el Major de Singapur",
+        "text": [
+          "El siguiente gran evento de Counter-Strike 2 es el PGL Major de Singapur, del 24 de noviembre al 13 de diciembre de 2026, el segundo Major del año. Participan 32 equipos en tres fases, y los últimos cuatro días se juegan en el Singapore Indoor Stadium, hasta una gran final al mejor de 5 mapas.",
+          "Según el reglamento de los Majors que publica Valve, los equipos invitados se eligen con el ranking regional VRS, que tiene tres listas: Europa, América y Asia."
+        ]
+      },
+      "de": {
+        "heading": "Wie es weitergeht: das Major in Singapur",
+        "text": [
+          "Das nächste große Counter-Strike-2-Event ist das PGL Major Singapur vom 24. November bis 13. Dezember 2026, das zweite Major des Jahres. 32 Teams spielen in drei Phasen, und die letzten vier Tage finden im Singapore Indoor Stadium statt, bis zu einem Grand Final im Best of 5.",
+          "Laut dem von Valve veröffentlichten Regelwerk für Majors werden die eingeladenen Teams über die regionale VRS-Rangliste bestimmt, die drei Listen umfasst: Europa, Amerika und Asien."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que vem depois: o Major de Singapura",
+        "text": [
+          "O próximo grande evento de Counter-Strike 2 é o PGL Major de Singapura, de 24 de novembro a 13 de dezembro de 2026, o segundo Major do ano. São 32 equipes em três fases, e os quatro últimos dias acontecem no Singapore Indoor Stadium, até uma grande final em melhor de 5 mapas.",
+          "Segundo o regulamento dos Majors publicado pela Valve, as equipes convidadas são escolhidas pelo ranking regional VRS, que tem três listas: Europa, Américas e Ásia."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "PGL Masters Bucharest 2026: FURIA and Nemiga in the final",
+    "description": "Nemiga vs FURIA in the PGL Masters Bucharest final on October 31: format, 16 teams, $1,250,000 prize pool, where to watch and the Singapore Major."
+  },
+  "fr": {
+    "title": "PGL Masters Bucarest 2026 : FURIA et Nemiga en finale",
+    "description": "Finale Nemiga – FURIA le 31 octobre au PGL Masters Bucarest : format, 16 équipes, 1 250 000 $ de dotation, où regarder et le Major de Singapour."
+  },
+  "es": {
+    "title": "PGL Masters Bucarest 2026: FURIA y Nemiga, a la final",
+    "description": "Nemiga contra FURIA en la final del PGL Masters Bucarest el 31 de octubre: formato, 16 equipos, 1 250 000 $, dónde verlo y el Major de Singapur."
+  },
+  "de": {
+    "title": "PGL Masters Bukarest 2026: FURIA und Nemiga im Finale",
+    "description": "Nemiga gegen FURIA im Finale des PGL Masters Bukarest am 31. Oktober: Format, 16 Teams, 1.250.000 $, wo du zuschaust und das Major in Singapur."
+  },
+  "pt-BR": {
+    "title": "PGL Masters Bucareste 2026: FURIA e Nemiga na final",
+    "description": "Nemiga x FURIA na final do PGL Masters Bucareste em 31 de outubro: formato, 16 equipes, US$ 1.250.000, onde assistir e o Major de Singapura."
+  }
+}

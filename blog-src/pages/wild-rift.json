@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "wild-rift",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "League of Legends: Wild Rift on Google Play", "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en"},
+    {"id": "s2", "title": "Wild Rift (Riot Games): Next Steps for Wild Rift Esports", "url": "https://wildrift.leagueoflegends.com/en-us/news/esports/next-steps-for-wild-rift-esports/"},
+    {"id": "s3", "title": "Wild Rift (Riot Games): 2022 Wild Rift Icons Global Championship to be held in Singapore!", "url": "https://wildrift.leagueoflegends.com/en-sg/news/esports/2022-wild-rift-icons-global-championship-to-be-held-in-singapore/"},
+    {"id": "s4", "title": "Wild Rift (Riot Games): An Update on Wild Rift Esports in APAC", "url": "https://wildrift.leagueoflegends.com/en-us/news/esports/an-update-on-wild-rift-esports-in-apac/"},
+    {"id": "s5", "title": "Wild Rift (Riot Games): Everything You Need to Know About Wild Rounds: Smash 2026", "url": "https://wildrift.leagueoflegends.com/en-us/news/dev/eyntk-wild-rounds-smash-2026"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1"],
+      "en": {
+        "heading": "What is Wild Rift?",
+        "text": [
+          "Wild Rift esports is played on League of Legends: Wild Rift, the mobile game in which Riot Games brings the player-versus-player MOBA formula of League of Legends to phones. It was built for mobile from scratch.",
+          "Matches pit two five-player teams against each other in real time. Each player locks in a champion, and skill shots, team fights, items and objectives can all swing the game on the way to the enemy nexus. Outside competition, players can choose between unranked and ranked games, queueing as a duo, as a trio or as a full five-player team to climb the ladder."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce que Wild Rift ?",
+        "text": [
+          "L'esport Wild Rift se joue sur League of Legends: Wild Rift, le jeu mobile avec lequel Riot Games transpose sur téléphone la formule MOBA joueur contre joueur de League of Legends. Il a été conçu pour le mobile dès le départ.",
+          "Les parties opposent deux équipes de cinq en temps réel. Chaque joueur choisit un champion, et les skillshots, les combats d'équipe, les objets et les objectifs peuvent tous faire basculer la partie sur la route du nexus adverse. Hors compétition, on peut jouer en partie normale ou classée, en duo, en trio ou en équipe complète de cinq pour grimper au classement."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué es Wild Rift?",
+        "text": [
+          "Los esports de Wild Rift se juegan en League of Legends: Wild Rift, el juego móvil con el que Riot Games lleva a los teléfonos la fórmula MOBA jugador contra jugador de League of Legends. Se creó para móviles desde cero.",
+          "Las partidas enfrentan a dos equipos de cinco en tiempo real. Cada jugador elige un campeón, y las habilidades de puntería, las peleas de equipo, los objetos y los objetivos pueden decidir la partida en el camino hacia el nexo rival. Fuera de la competición, se puede jugar en modo normal o clasificatorio, en dúo, en trío o con un equipo completo de cinco para subir en la clasificación."
+        ]
+      },
+      "de": {
+        "heading": "Was ist Wild Rift?",
+        "text": [
+          "Der E-Sport in Wild Rift wird mit League of Legends: Wild Rift gespielt, dem Mobile-Spiel, mit dem Riot Games die MOBA-Formel Spieler gegen Spieler von League of Legends aufs Smartphone bringt. Es wurde von Grund auf für Mobilgeräte entwickelt.",
+          "In jeder Partie treten zwei Fünferteams in Echtzeit gegeneinander an. Jeder Spieler wählt einen Champion, und Skillshots, Teamfights, Items und Ziele können das Spiel auf dem Weg zum gegnerischen Nexus kippen. Abseits des Wettkampfs gibt es normale und gewertete Partien, im Duo, im Trio oder als volles Fünferteam, um in der Rangliste aufzusteigen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que é Wild Rift?",
+        "text": [
+          "Os esports de Wild Rift são disputados em League of Legends: Wild Rift, o jogo mobile com o qual a Riot Games leva aos celulares a fórmula MOBA jogador contra jogador de League of Legends. Ele foi criado para celular do zero.",
+          "As partidas colocam duas equipes de cinco frente a frente em tempo real. Cada jogador escolhe um campeão, e habilidades de mira, lutas em equipe, itens e objetivos podem virar o jogo a caminho do nexus inimigo. Fora da competição, dá para jogar partidas normais ou ranqueadas, em dupla, em trio ou com uma equipe completa de cinco para subir no ranking."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s4", "s5"],
+      "en": {
+        "heading": "How does the Wild Rift pro scene work?",
+        "text": [
+          "Wild Rift esports was Riot's first mobile esport, and its inaugural season ran across several regions of the world. At the end of 2022, Riot changed course: it stopped operating its own leagues outside Asia, leaving those regions to third-party organisers, and concentrated on Asia, which Riot describes as the largest mobile esports market.",
+          "In the same announcement, Riot unveiled a cross-regional Wild Rift League in Asia to replace the original Wild Rift Esports structure from April 2023, planned around twelve Chinese teams from the WRL plus eight from elsewhere in Asia. In 2024, Riot also moved the Asia-Pacific region towards grassroots, community-led competition.",
+          "Riot now points players to regional Wild Rounds tournaments, whose qualifiers lead to a multi-region event called Wild Rounds: Smash. Local third-party tournaments are announced on each region's Wild Rift social channels, and the setup keeps evolving, so the official site is the place to check what is current."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la scène pro de Wild Rift ?",
+        "text": [
+          "Wild Rift Esports a été le premier esport mobile de Riot, et sa saison inaugurale s'est jouée dans plusieurs régions du monde. Fin 2022, Riot a changé de cap : l'éditeur a cessé d'exploiter ses propres ligues hors d'Asie, laissant ces régions à des organisateurs tiers, et s'est concentré sur l'Asie, que Riot décrit comme le plus grand marché de l'esport mobile.",
+          "Dans la même annonce, Riot a dévoilé une Wild Rift League interrégionale en Asie, appelée à remplacer la structure Wild Rift Esports d'origine à partir d'avril 2023, prévue autour de douze équipes chinoises de la WRL et de huit équipes d'autres régions d'Asie. En 2024, Riot a aussi orienté l'Asie-Pacifique vers une compétition de terrain, portée par la communauté.",
+          "Riot oriente désormais les joueurs vers les tournois régionaux Wild Rounds, dont les qualifications mènent à un événement multirégional, Wild Rounds: Smash. Les tournois locaux organisés par des tiers sont annoncés sur les réseaux sociaux Wild Rift de chaque région ; l'organisation continue d'évoluer, et le site officiel indique ce qui est en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la escena profesional de Wild Rift?",
+        "text": [
+          "Wild Rift Esports fue el primer esport móvil de Riot, y su temporada inaugural se disputó en varias regiones del mundo. A finales de 2022, Riot cambió de rumbo: dejó de operar sus propias ligas fuera de Asia, cediendo esas regiones a organizadores externos, y se centró en Asia, que Riot describe como el mayor mercado de esports móviles.",
+          "En el mismo anuncio, Riot presentó una Wild Rift League interregional en Asia para sustituir la estructura original de Wild Rift Esports a partir de abril de 2023, prevista con doce equipos chinos de la WRL y ocho de otras regiones de Asia. En 2024, Riot también llevó la región Asia-Pacífico hacia una competición de base, impulsada por la comunidad.",
+          "Riot dirige ahora a los jugadores hacia los torneos regionales Wild Rounds, cuyos clasificatorios llevan a un evento multirregional llamado Wild Rounds: Smash. Los torneos locales de organizadores externos se anuncian en las redes sociales de Wild Rift de cada región; el sistema sigue evolucionando, así que el sitio oficial es donde consultar lo vigente."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Profiszene von Wild Rift?",
+        "text": [
+          "Wild Rift Esports war Riots erster Mobile-E-Sport, und die erste Saison lief in mehreren Regionen der Welt. Ende 2022 schlug Riot einen neuen Kurs ein: Der Publisher betrieb außerhalb Asiens keine eigenen Ligen mehr, überließ diese Regionen Drittveranstaltern und konzentrierte sich auf Asien, das Riot als größten Markt für Mobile-E-Sport bezeichnet.",
+          "In derselben Ankündigung stellte Riot eine regionenübergreifende Wild Rift League in Asien vor, die ab April 2023 die ursprüngliche Struktur von Wild Rift Esports ersetzen sollte, geplant mit zwölf chinesischen Teams aus der WRL und acht aus anderen Teilen Asiens. 2024 stellte Riot auch den asiatisch-pazifischen Raum auf Breitensport und von der Community getragene Wettbewerbe um.",
+          "Riot verweist Spieler inzwischen auf die regionalen Wild-Rounds-Turniere, deren Qualifikationen zu einem regionenübergreifenden Event namens Wild Rounds: Smash führen. Lokale Turniere von Drittveranstaltern werden auf den Wild-Rift-Kanälen der jeweiligen Region angekündigt; die Struktur entwickelt sich weiter, aktuell maßgeblich ist die offizielle Website."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a cena profissional de Wild Rift?",
+        "text": [
+          "O Wild Rift Esports foi o primeiro esport mobile da Riot, e sua temporada inaugural foi disputada em várias regiões do mundo. No fim de 2022, a Riot mudou de rumo: deixou de operar suas próprias ligas fora da Ásia, abrindo essas regiões para organizadores terceiros, e se concentrou na Ásia, que a Riot descreve como o maior mercado de esports mobile.",
+          "No mesmo anúncio, a Riot revelou uma Wild Rift League inter-regional na Ásia para substituir a estrutura original do Wild Rift Esports a partir de abril de 2023, prevista com doze equipes chinesas da WRL e oito de outras regiões da Ásia. Em 2024, a Riot também levou a região Ásia-Pacífico para uma competição de base, conduzida pela comunidade.",
+          "A Riot hoje direciona os jogadores para os torneios regionais Wild Rounds, cujas classificatórias levam a um evento multirregional chamado Wild Rounds: Smash. Os torneios locais de organizadores terceiros são anunciados nas redes sociais de Wild Rift de cada região; a estrutura continua mudando, por isso o site oficial é o lugar para conferir o que vale agora."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s5"],
+      "en": {
+        "heading": "What are the biggest Wild Rift tournaments?",
+        "text": [
+          "Riot presented the Wild Rift Icons Global Championship of 2022 as the first global championship of Wild Rift Esports and the tournament closing that season. Riot scheduled it at Suntec Singapore, which had already hosted the 2021 Wild Rift Horizon Cup, after moving it from Europe because of pandemic-related visa delays for many teams.",
+          "The announced format had 24 teams: eight qualified straight from their regional competitions, while sixteen had to come through a play-in stage before the groups and the knockout rounds.",
+          "Wild Rounds: Smash is set to return in Seoul in November 2026. It mixes three tracks: a community championship for six teams coming out of major regional qualifiers, show matches between content creator squads, and all-star matches, with some players from China's pro scene taking part."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois de Wild Rift ?",
+        "text": [
+          "Riot a présenté le Wild Rift Icons Global Championship 2022 comme le premier championnat mondial de Wild Rift Esports et le tournoi de clôture de cette saison. Riot l'a programmé à Suntec Singapore, qui avait déjà accueilli la Wild Rift Horizon Cup en 2021, après l'avoir déplacé d'Europe en raison de retards de visas liés à la pandémie pour de nombreuses équipes.",
+          "Le format annoncé comptait 24 équipes : huit qualifiées directement par leurs compétitions régionales, et seize devant passer par une phase de play-in avant les groupes et la phase à élimination.",
+          "Wild Rounds: Smash doit revenir à Séoul en novembre 2026. L'événement compte trois volets : un championnat communautaire pour six équipes issues de grandes qualifications régionales, des matchs d'exhibition entre équipes de créateurs de contenu et des matchs all-star, avec quelques joueurs de la scène pro chinoise."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de Wild Rift?",
+        "text": [
+          "Riot presentó el Wild Rift Icons Global Championship 2022 como el primer campeonato mundial de Wild Rift Esports y el torneo que cerraba aquella temporada. Riot lo programó en el Suntec Singapore, que ya había acogido la Wild Rift Horizon Cup de 2021, tras trasladarlo desde Europa por retrasos de visados relacionados con la pandemia para muchos equipos.",
+          "El formato anunciado tenía 24 equipos: ocho clasificados directamente desde sus competiciones regionales, mientras que dieciséis debían superar una fase de play-in antes de los grupos y las rondas eliminatorias.",
+          "Está previsto que Wild Rounds: Smash vuelva en Seúl en noviembre de 2026. Combina tres apartados: un campeonato comunitario para seis equipos salidos de grandes clasificatorios regionales, partidos de exhibición entre equipos de creadores de contenido y partidos all-star, con algunos jugadores de la escena profesional china."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in Wild Rift?",
+        "text": [
+          "Riot stellte die Wild Rift Icons Global Championship 2022 als erste globale Meisterschaft von Wild Rift Esports und als Abschlussturnier jener Saison vor. Riot setzte sie im Suntec Singapore an, das schon den Wild Rift Horizon Cup 2021 ausgerichtet hatte, nachdem sie wegen pandemiebedingter Visaverzögerungen vieler Teams aus Europa verlegt worden war.",
+          "Das angekündigte Format sah 24 Teams vor: Acht qualifizierten sich direkt über ihre regionalen Wettbewerbe, sechzehn mussten sich vor den Gruppen und den K.-o.-Runden durch eine Play-in-Phase kämpfen.",
+          "Wild Rounds: Smash soll im November 2026 in Seoul zurückkehren. Das Event verbindet drei Wettbewerbe: eine Community-Meisterschaft für sechs Teams aus großen regionalen Qualifikationen, Showmatches zwischen Teams von Content Creators und All-Star-Matches, mit einigen Spielern aus Chinas Profiszene."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de Wild Rift?",
+        "text": [
+          "A Riot apresentou o Wild Rift Icons Global Championship 2022 como o primeiro campeonato mundial do Wild Rift Esports e o torneio de encerramento daquela temporada. A Riot o marcou no Suntec Singapore, que já tinha recebido a Wild Rift Horizon Cup de 2021, depois de transferi-lo da Europa por atrasos de vistos ligados à pandemia para muitas equipes.",
+          "O formato anunciado tinha 24 equipes: oito classificadas direto por suas competições regionais, enquanto dezesseis precisavam passar por uma fase de play-in antes dos grupos e das rodadas eliminatórias.",
+          "O Wild Rounds: Smash deve voltar em Seul em novembro de 2026. O evento combina três frentes: um campeonato da comunidade para seis equipes vindas de grandes classificatórias regionais, partidas de exibição entre equipes de criadores de conteúdo e partidas all-star, com alguns jogadores da cena profissional chinesa."
+        ]
+      }
+    },
+    {
+      "cite": ["s4", "s5"],
+      "en": {
+        "heading": "How can you watch Wild Rift esports?",
+        "text": [
+          "For Smash 2026, Riot plans its English broadcast on the official Wild Rift YouTube and TikTok channels, with creators co-streaming the event alongside it.",
+          "Riot shares news about the game and its events on the official website and social accounts, while regional Wild Rift channels cover local and third-party tournaments."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder l'esport Wild Rift ?",
+        "text": [
+          "Pour Smash 2026, Riot prévoit sa diffusion en anglais sur les chaînes officielles YouTube et TikTok de Wild Rift, avec des créateurs qui retransmettent l'événement en parallèle.",
+          "Riot publie les nouvelles du jeu et de ses événements sur le site officiel et ses réseaux sociaux, tandis que les chaînes régionales de Wild Rift suivent les tournois locaux et ceux des organisateurs tiers."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver los esports de Wild Rift?",
+        "text": [
+          "Para Smash 2026, Riot prevé su retransmisión en inglés en los canales oficiales de Wild Rift en YouTube y TikTok, con creadores que emiten el evento en paralelo.",
+          "Riot comparte las novedades del juego y de sus eventos en el sitio oficial y en sus redes sociales, mientras que los canales regionales de Wild Rift cubren los torneos locales y los de organizadores externos."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man Wild-Rift-E-Sport schauen?",
+        "text": [
+          "Für Smash 2026 plant Riot die englische Übertragung auf den offiziellen Wild-Rift-Kanälen auf YouTube und TikTok, während Creator das Event parallel im Co-Stream zeigen.",
+          "Riot veröffentlicht Neuigkeiten zum Spiel und seinen Events auf der offiziellen Website und in den sozialen Netzwerken, während regionale Wild-Rift-Kanäle lokale Turniere und Events von Drittveranstaltern begleiten."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Wild Rift?",
+        "text": [
+          "Para o Smash 2026, a Riot prevê a transmissão em inglês nos canais oficiais de Wild Rift no YouTube e no TikTok, com criadores transmitindo o evento em paralelo.",
+          "A Riot divulga as novidades do jogo e de seus eventos no site oficial e nas redes sociais, enquanto os canais regionais de Wild Rift cobrem torneios locais e de organizadores terceiros."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Wild Rift esports: the game and its pro scene",
+    "description": "How does Wild Rift esports work? The game, Riot's leagues and Wild Rounds, the Icons championship and Smash, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Wild Rift : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Wild Rift ? Le jeu, les ligues de Riot et les Wild Rounds, le championnat Icons et Smash, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Wild Rift: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Wild Rift? El juego, las ligas de Riot y las Wild Rounds, el campeonato Icons y Smash, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Wild Rift: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Wild Rift? Das Spiel, Riots Ligen und die Wild Rounds, die Icons-Meisterschaft, Smash und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Wild Rift: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Wild Rift? O jogo, as ligas da Riot e as Wild Rounds, o campeonato Icons e o Smash, e onde assistir, com as fontes usadas."
+  }
+}

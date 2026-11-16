@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.googletagmanager.com 'sha256-hdO09u7s30ULVeBY6BKC0WNA9dLLf8+JsFMgEv0OouM='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co https://*.google-analytics.com https://*.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="apple-itunes-app" content="app-id=6819243569">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Barrierefreiheit – eSportly</title>
+<meta name="description" content="Was die App eSportly für die Barrierefreiheit unterstützt: VoiceOver, größerer Text, Dunkelmodus, reduzierte Bewegung.">
+<link rel="alternate" hreflang="fr" href="https://esportly.eu/fr/accessibilite">
+<link rel="alternate" hreflang="en" href="https://esportly.eu/accessibility">
+<link rel="alternate" hreflang="es" href="https://esportly.eu/es/accesibilidad">
+<link rel="alternate" hreflang="de" href="https://esportly.eu/de/barrierefreiheit">
+<link rel="alternate" hreflang="pt-BR" href="https://esportly.eu/pt/acessibilidade">
+<link rel="alternate" hreflang="x-default" href="https://esportly.eu/accessibility">
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 760px; margin: 0 auto; padding: 24px; line-height: 1.6; font-size: 18px; color: #0e1424; background: #f6f7fb; }
+  a { color: #6a4900; }
+  @media (prefers-color-scheme: dark) { body { color: #f2f4f8; background: #0b0f1a; } a { color: #ffc53d; } }
+  h1 { font-size: 1.9em; line-height: 1.2; }
+  h2 { font-size: 1.3em; margin-top: 1.8em; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px 8px 0; border-bottom: 1px solid rgba(128,128,128,.35); }
+  .muted { opacity: .8; font-size: .95em; }
+
+:root{--nuit:#F6F7FB;--surface:#FFFFFF;--raised:#ECEFF6;--border:#D5DAE6;--text:#0E1424;--soft:#3A4250;--muted:#485060;--or:#FFC53D;--on-or:#1A1300;--display:'Rajdhani','Arial Narrow',sans-serif}
+@media (prefers-color-scheme:dark){:root{--nuit:#0A0E1A;--surface:#141A2B;--raised:#1D2438;--border:#2C3550;--text:#F4F6FF;--soft:#C9CEDA;--muted:#A8B1C8}}
+@font-face{font-family:'Rajdhani';src:url(../fonts/Rajdhani-Bold.woff2) format('woff2');font-weight:700;font-display:swap}
+body{max-width:none;padding:0;background:var(--nuit);color:var(--text)}
+.legal{max-width:760px;margin:0 auto;padding:24px}
+.wrap{margin:0 auto}
+header{border-bottom:1px solid var(--raised)}
+header .wrap{display:flex;align-items:center;min-height:72px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text);font:700 26px var(--display)}
+.brand i{color:var(--or);font-style:normal}
+@media (prefers-color-scheme:light){.brand i{color:#8A5D00}}
+header{position:sticky;top:0;z-index:40;background:color-mix(in srgb,var(--nuit) 82%,transparent);-webkit-backdrop-filter:blur(18px) saturate(1.6);backdrop-filter:blur(18px) saturate(1.6)}
+@media (prefers-reduced-transparency:reduce){header{background:var(--nuit);-webkit-backdrop-filter:none;backdrop-filter:none}}
+header .wrap{max-width:1440px;padding:0 clamp(16px,5.5vw,80px);height:clamp(64px,7vw,88px);gap:clamp(12px,3vw,40px)}
+header nav{margin-left:auto;display:flex;gap:28px;font-size:16px}
+header nav{align-items:center}
+header nav a{color:var(--soft);text-decoration:none}
+header nav a:hover{color:var(--text)}
+a.live::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#FF4D4D;margin:0 8px 2px 0}
+header nav>a:not(.lang){position:relative;padding:6px 0}
+header nav>a:not(.lang)::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;border-radius:2px;background:var(--or);transform:scaleX(0);transition:transform .2s}
+header nav>a:not(.lang):hover::after{transform:scaleX(1)}
+header nav>a[aria-current]{color:var(--text)}
+header nav>a[aria-current]::after{transform:scaleX(1)}
+.soon{min-height:44px;padding:0 20px;border-radius:999px;background:var(--text);color:var(--nuit);display:flex;align-items:center;font-weight:700;font-size:15px;text-decoration:none;white-space:nowrap}
+.menu{display:none;margin-left:auto}
+.menu summary{list-style:none;width:44px;height:44px;border-radius:12px;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--text)}
+.menu summary::-webkit-details-marker{display:none}
+.menu summary svg{width:22px;height:22px}
+.menu .close{display:none}
+.menu[open] .open{display:none}
+.menu[open] .close{display:block}
+.menu .panel{position:fixed;left:0;right:0;top:100%;height:calc(100dvh - var(--hh,64px));background:var(--nuit);padding:20px clamp(16px,5.5vw,80px) 32px;display:flex;flex-direction:column;gap:4px;overflow:auto;border-top:1px solid var(--raised)}
+.menu .panel a{display:flex;align-items:center;min-height:56px;font:700 28px var(--display);color:var(--text);text-decoration:none;border-bottom:1px solid var(--raised)}
+.menu .panel .soonm{margin-top:20px;justify-content:center;border:0;border-radius:999px;background:var(--or);color:var(--on-or);font:700 17px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif}
+.menu .panel>a[aria-current]{border-bottom-color:var(--or)}
+.menu .panel .langsm{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.menu .panel .langsm a{min-height:44px;padding:0 14px;border:1px solid var(--border);border-radius:999px;font:600 15px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;color:var(--soft)}
+.menu .panel .langsm a[aria-current]{border-color:var(--or);color:var(--text)}
+[hidden]{display:none!important}
+.theme{position:fixed;right:12px;bottom:12px;z-index:30;display:inline-flex;gap:2px;padding:2px;border-radius:999px;border:1px solid var(--border);background:var(--surface);opacity:.4;transition:opacity .2s}
+.theme:hover,.theme:focus-within{opacity:1}
+.theme button{width:28px;height:28px;border:0;border-radius:999px;background:transparent;color:var(--muted);display:flex;align-items:center;justify-content:center;cursor:pointer}
+.theme button svg{width:16px;height:16px}
+.theme button[aria-pressed=true]{background:var(--raised);color:var(--text)}
+@media (max-width:1320px){header nav{gap:16px}}
+@media (max-width:860px){header nav{display:none!important}.menu{display:block}}
+@media (max-width:720px){.soon{margin-left:auto;font-size:14px;padding:0 14px}}
+@media (max-width:520px){.soon{display:none}}
+:root[data-theme="light"] a.soon{color:#FFC53D}
+@media (prefers-color-scheme:light){:root:not([data-theme]) a.soon{color:#FFC53D}}
+.sources li{scroll-margin-top:96px}
+@media (max-width:1279px){header .wrap{padding:0 20px}}
+@media (max-width:1149px){header nav{display:none!important}.menu{display:block}}
+.menu .panel{height:calc(100dvh - 73px)}
+@media (min-width:1029px){.menu .panel{height:calc(100dvh - 7vw - 1px)}}
+
+header .wrap{position:relative}
+.mega{position:relative}
+.mega>summary{list-style:none;display:flex;align-items:center;gap:6px;cursor:pointer;color:var(--soft);padding:6px 0}
+.mega>summary::-webkit-details-marker{display:none}
+.mega>summary:hover{color:var(--text)}
+.mega .chev{width:16px;height:16px;transition:transform .2s}
+.mega[open] .chev{transform:rotate(180deg)}
+.megap{position:absolute;left:0;right:auto;width:max-content;max-width:min(86vw,860px);top:calc(100% + 8px);z-index:60;padding:10px;border-radius:20px;background:var(--surface);border:1px solid var(--border);box-shadow:0 24px 60px rgba(0,0,0,.42)}
+.megag{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(7,minmax(104px,1fr));gap:2px}
+.megag a{display:flex;align-items:center;justify-content:center;min-height:42px;padding:0 8px;border-radius:12px}
+.megag a:hover{background:var(--raised)}
+.megag img{height:21px;width:auto;max-width:90%;object-fit:contain}
+.megaf{display:flex;flex-wrap:wrap;gap:14px;margin:8px 4px 0;padding-top:8px;border-top:1px solid var(--border);font-size:14px}
+.megaf a{color:var(--soft);font-weight:600}
+.megam>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;min-height:56px;font:700 28px var(--display);color:var(--text);border-bottom:1px solid var(--raised);cursor:pointer}
+.megam>summary::-webkit-details-marker{display:none}
+.megam .chev{width:20px;height:20px;transition:transform .2s}
+.megam[open] .chev{transform:rotate(180deg)}
+.megam ul{list-style:none;margin:0;padding:8px 0 12px;display:grid;gap:2px}
+.megam a{display:flex;align-items:center;min-height:48px}
+.megam img{height:20px;width:auto;max-width:70%;object-fit:contain}
+.megag img[src$="/call-of-duty.png"],.megam img[src$="/call-of-duty.png"],.megag img[src$="/counter-strike-2.png"],.megam img[src$="/counter-strike-2.png"],.megag img[src$="/ea-sports-fc.png"],.megam img[src$="/ea-sports-fc.png"],.megag img[src$="/honor-of-kings.png"],.megam img[src$="/honor-of-kings.png"],.megag img[src$="/overwatch-2.png"],.megam img[src$="/overwatch-2.png"],.megag img[src$="/rocket-league.png"],.megam img[src$="/rocket-league.png"],.megag img[src$="/starcraft-brood-war.png"],.megam img[src$="/starcraft-brood-war.png"]{filter:none}
+:root[data-theme="light"] :is(.megag img[src$="/call-of-duty.png"],.megam img[src$="/call-of-duty.png"],.megag img[src$="/counter-strike-2.png"],.megam img[src$="/counter-strike-2.png"],.megag img[src$="/ea-sports-fc.png"],.megam img[src$="/ea-sports-fc.png"],.megag img[src$="/honor-of-kings.png"],.megam img[src$="/honor-of-kings.png"],.megag img[src$="/overwatch-2.png"],.megam img[src$="/overwatch-2.png"],.megag img[src$="/rocket-league.png"],.megam img[src$="/rocket-league.png"],.megag img[src$="/starcraft-brood-war.png"],.megam img[src$="/starcraft-brood-war.png"]){filter:invert(1)}
+@media (prefers-color-scheme:light){:root:not([data-theme]) :is(.megag img[src$="/call-of-duty.png"],.megam img[src$="/call-of-duty.png"],.megag img[src$="/counter-strike-2.png"],.megam img[src$="/counter-strike-2.png"],.megag img[src$="/ea-sports-fc.png"],.megam img[src$="/ea-sports-fc.png"],.megag img[src$="/honor-of-kings.png"],.megam img[src$="/honor-of-kings.png"],.megag img[src$="/overwatch-2.png"],.megam img[src$="/overwatch-2.png"],.megag img[src$="/rocket-league.png"],.megam img[src$="/rocket-league.png"],.megag img[src$="/starcraft-brood-war.png"],.megam img[src$="/starcraft-brood-war.png"]){filter:invert(1)}}
+:root[data-theme="light"] .megap{box-shadow:0 24px 60px rgba(14,20,36,.18)}
+@media (prefers-color-scheme:light){:root:not([data-theme]) .megap{box-shadow:0 24px 60px rgba(14,20,36,.18)}}
+
+.teamp{width:max-content;max-width:min(94vw,640px);padding:14px}
+.tcols{display:grid;grid-template-columns:168px minmax(0,1fr);gap:18px}
+.tcolh{margin:0 0 6px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tgames,.tstars{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+.tstars{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tgames a,.tstars a{display:flex;align-items:center;gap:8px;min-height:34px;padding:0 8px;border-radius:10px;color:var(--text);text-decoration:none;font-weight:600;font-size:14px}
+.tgames a:hover,.tstars a:hover{background:var(--raised)}
+.tstars i.tl{width:24px;height:24px;border-radius:7px;background:#fff;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden}
+.tstars i.tl img{max-width:19px;max-height:19px;width:auto;height:auto}
+.tstars span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tsearch{display:grid;gap:6px;margin:12px 0 0;padding-top:12px;border-top:1px solid var(--border)}
+.tsearch label{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tsearch input{width:100%;padding:9px 12px;border-radius:12px;border:1px solid var(--border);background:var(--raised);color:var(--text);font:inherit;font-size:14px}
+.teamm{padding:6px 0 12px}
+@media (max-width:560px){.tcols{grid-template-columns:minmax(0,1fr)}.tstars{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+@media (max-width:560px){.tcols{grid-template-columns:minmax(0,1fr)}}
+
+.mega.team .megaf{margin-top:10px}
+.tcol{min-width:0}
+
+.teamp{width:max-content;max-width:min(94vw,660px);padding:14px}
+.tcols{display:grid;grid-template-columns:168px minmax(0,1fr);gap:18px;align-items:start}
+.tstars{grid-template-columns:repeat(2,minmax(158px,1fr))}
+.tsearch{display:grid;gap:6px;width:100%;margin:12px 0 0;padding-top:12px;border-top:1px solid var(--border)}
+
+.megap::before{content:"";position:absolute;top:-7px;left:20px;width:13px;height:13px;transform:rotate(45deg);background:var(--surface);border-left:1px solid var(--border);border-top:1px solid var(--border);border-radius:3px 0 0 0}
+
+.megap{position:absolute;left:0;right:auto;width:max-content;max-width:min(86vw,860px);top:calc(100% + 8px);z-index:60;padding:10px;border-radius:20px;background:var(--surface);border:1px solid var(--border);box-shadow:0 24px 60px rgba(0,0,0,.42)}
+/*refonte-clair*/:root:not([data-theme="dark"]) a.soon{color:#FFC53D}:root:not([data-theme="dark"]) :is(.megag img[src$="/call-of-duty.png"],.megam img[src$="/call-of-duty.png"],.megag img[src$="/counter-strike-2.png"],.megam img[src$="/counter-strike-2.png"],.megag img[src$="/ea-sports-fc.png"],.megam img[src$="/ea-sports-fc.png"],.megag img[src$="/honor-of-kings.png"],.megam img[src$="/honor-of-kings.png"],.megag img[src$="/overwatch-2.png"],.megam img[src$="/overwatch-2.png"],.megag img[src$="/rocket-league.png"],.megam img[src$="/rocket-league.png"],.megag img[src$="/starcraft-brood-war.png"],.megam img[src$="/starcraft-brood-war.png"]){filter:invert(1)}:root:not([data-theme="dark"]) .megap{box-shadow:0 24px 60px rgba(14,20,36,.18)}</style>
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="canonical" href="https://esportly.eu/de/barrierefreiheit">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Barrierefreiheit – eSportly">
+<meta property="og:description" content="Was die App eSportly für die Barrierefreiheit unterstützt: VoiceOver, größerer Text, Dunkelmodus, reduzierte Bewegung.">
+<meta property="og:url" content="https://esportly.eu/de/barrierefreiheit">
+<meta property="og:image" content="https://esportly.eu/apercu.png">
+<meta name="twitter:card" content="summary_large_image">
+<script src="/langue.js"></script></head>
+<body>
+<header><div class="wrap"><a class="brand" href="../de.html"><img src="../embleme.svg" alt="" width="36" height="36"><span><i>e</i>Sportly</span></a><nav aria-label="Abschnitte"><details class="mega"><summary>Spiele<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="megap"><ul class="megag"><li><a href="../de/spiele/league-of-legends.html"><img src="../logos-jeux/league-of-legends.png" alt="League of Legends" loading="lazy"></a></li><li><a href="../de/spiele/counter-strike-2.html"><img src="../logos-jeux/counter-strike-2.png" alt="Counter-Strike 2" loading="lazy"></a></li><li><a href="../de/spiele/valorant.html"><img src="../logos-jeux/valorant.png" alt="Valorant" loading="lazy"></a></li><li><a href="../de/spiele/rocket-league.html"><img src="../logos-jeux/rocket-league.png" alt="Rocket League" loading="lazy"></a></li><li><a href="../de/spiele/dota-2.html"><img src="../logos-jeux/dota-2.png" alt="Dota 2" loading="lazy"></a></li><li><a href="../de/spiele/overwatch-2.html"><img src="../logos-jeux/overwatch-2.png" alt="Overwatch 2" loading="lazy"></a></li><li><a href="../de/spiele/rainbow-six-siege.html"><img src="../logos-jeux/rainbow-six-siege.png" alt="Rainbow Six Siege" loading="lazy"></a></li><li><a href="../de/spiele/call-of-duty.html"><img src="../logos-jeux/call-of-duty.png" alt="Call of Duty" loading="lazy"></a></li><li><a href="../de/spiele/mobile-legends.html"><img src="../logos-jeux/mobile-legends.png" alt="Mobile Legends: Bang Bang" loading="lazy"></a></li><li><a href="../de/spiele/honor-of-kings.html"><img src="../logos-jeux/honor-of-kings.png" alt="Honor of Kings" loading="lazy"></a></li><li><a href="../de/spiele/ea-sports-fc.html"><img src="../logos-jeux/ea-sports-fc.png" alt="EA Sports FC" loading="lazy"></a></li><li><a href="../de/spiele/starcraft-2.html"><img src="../logos-jeux/starcraft-2.png" alt="StarCraft II" loading="lazy"></a></li><li><a href="../de/spiele/starcraft-brood-war.html"><img src="../logos-jeux/starcraft-brood-war.png" alt="StarCraft: Brood War" loading="lazy"></a></li><li><a href="../de/spiele/wild-rift.html"><img src="../logos-jeux/wild-rift.png" alt="League of Legends: Wild Rift" loading="lazy"></a></li></ul><p class="megaf"><a href="../de.html#jeux">Alle Spiele →</a><a href="../teams.html">Alle Teams →</a><a href="../de/wettbewerbe.html">Alle Wettbewerbe →</a></p></div></details><details class="mega team"><summary>Teams<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="megap teamp"><div class="tcols"><div class="tcol"><p class="tcolh">Nach Spiel</p><ul class="tgames"><li><a href="../teams.html#league-of-legends">League of Legends</a></li><li><a href="../teams.html#counter-strike-2">Counter-Strike 2</a></li><li><a href="../teams.html#valorant">Valorant</a></li><li><a href="../teams.html#rocket-league">Rocket League</a></li><li><a href="../teams.html#dota-2">Dota 2</a></li><li><a href="../teams.html#overwatch-2">Overwatch 2</a></li><li><a href="../teams.html#rainbow-six-siege">Rainbow Six Siege</a></li></ul></div><div class="tcol"><p class="tcolh">Am aktivsten diese Saison</p><ul class="tstars"><li><a href="../teams/team-liquid.html"><i class="tl"><img src="../logos-equipes/390.webp" alt="" width="128" height="116" loading="lazy"></i><span>Team Liquid</span></a></li><li><a href="../teams/faze-clan.html"><i class="tl"><img src="../logos-equipes/126927.webp" alt="" width="128" height="116" loading="lazy"></i><span>FaZe Clan</span></a></li><li><a href="../teams/t1.html"><i class="tl"><img src="../logos-equipes/128647.webp" alt="" width="128" height="116" loading="lazy"></i><span>T1</span></a></li><li><a href="../teams/falcons.html"><i class="tl"><img src="../logos-equipes/134476.webp" alt="" width="128" height="116" loading="lazy"></i><span>Falcons</span></a></li><li><a href="../teams/furia.html"><i class="tl"><img src="../logos-equipes/124530.webp" alt="" width="128" height="116" loading="lazy"></i><span>FURIA</span></a></li><li><a href="../teams/natus-vincere.html"><i class="tl"><img src="../logos-equipes/1699.webp" alt="" width="128" height="116" loading="lazy"></i><span>Natus Vincere</span></a></li><li><a href="../teams/g2-esports.html"><i class="tl"><img src="../logos-equipes/128538.webp" alt="" width="128" height="116" loading="lazy"></i><span>G2 Esports</span></a></li><li><a href="../teams/spirit.html"><i class="tl"><img src="../logos-equipes/124523.webp" alt="" width="128" height="116" loading="lazy"></i><span>Spirit</span></a></li><li><a href="../teams/gamerlegion.html"><i class="tl"><img src="../logos-equipes/137588.webp" alt="" width="128" height="116" loading="lazy"></i><span>GamerLegion</span></a></li><li><a href="../teams/los.html"><i class="tl"><img src="../logos-equipes/133796.webp" alt="" width="128" height="116" loading="lazy"></i><span>LOS</span></a></li></ul></div></div><form class="tsearch" action="../teams.html" data-src="../equipes/index-pages.json" data-dir="../teams/"><label for="tq-bar">Team finden</label><input id="tq-bar" name="q" type="search" list="eql-bar" autocomplete="off" placeholder="Name des Teams"><datalist id="eql-bar"></datalist></form><p class="megaf"><a href="../teams.html">Alle Teams →</a></p></div></details><a href="../de.html#offres">eSportly+</a><a href="../de/nachrichten.html">Nachrichten</a><a href="../de/blog.html">Blog</a><a class="live" href="../de/live.html">Live</a></nav><a class="soon" href="https://apps.apple.com/app/apple-store/id6819243569?pt=127103293&ct=site_esportly&mt=8">App laden</a><details class="menu"><summary aria-label="Menu"><svg class="open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></summary><div class="panel" role="navigation" aria-label="Menu"><details class="megam"><summary>Spiele<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><ul><li><a href="../de/spiele/league-of-legends.html"><img src="../logos-jeux/league-of-legends.png" alt="League of Legends" loading="lazy"></a></li><li><a href="../de/spiele/counter-strike-2.html"><img src="../logos-jeux/counter-strike-2.png" alt="Counter-Strike 2" loading="lazy"></a></li><li><a href="../de/spiele/valorant.html"><img src="../logos-jeux/valorant.png" alt="Valorant" loading="lazy"></a></li><li><a href="../de/spiele/rocket-league.html"><img src="../logos-jeux/rocket-league.png" alt="Rocket League" loading="lazy"></a></li><li><a href="../de/spiele/dota-2.html"><img src="../logos-jeux/dota-2.png" alt="Dota 2" loading="lazy"></a></li><li><a href="../de/spiele/overwatch-2.html"><img src="../logos-jeux/overwatch-2.png" alt="Overwatch 2" loading="lazy"></a></li><li><a href="../de/spiele/rainbow-six-siege.html"><img src="../logos-jeux/rainbow-six-siege.png" alt="Rainbow Six Siege" loading="lazy"></a></li><li><a href="../de/spiele/call-of-duty.html"><img src="../logos-jeux/call-of-duty.png" alt="Call of Duty" loading="lazy"></a></li><li><a href="../de/spiele/mobile-legends.html"><img src="../logos-jeux/mobile-legends.png" alt="Mobile Legends: Bang Bang" loading="lazy"></a></li><li><a href="../de/spiele/honor-of-kings.html"><img src="../logos-jeux/honor-of-kings.png" alt="Honor of Kings" loading="lazy"></a></li><li><a href="../de/spiele/ea-sports-fc.html"><img src="../logos-jeux/ea-sports-fc.png" alt="EA Sports FC" loading="lazy"></a></li><li><a href="../de/spiele/starcraft-2.html"><img src="../logos-jeux/starcraft-2.png" alt="StarCraft II" loading="lazy"></a></li><li><a href="../de/spiele/starcraft-brood-war.html"><img src="../logos-jeux/starcraft-brood-war.png" alt="StarCraft: Brood War" loading="lazy"></a></li><li><a href="../de/spiele/wild-rift.html"><img src="../logos-jeux/wild-rift.png" alt="League of Legends: Wild Rift" loading="lazy"></a></li></ul></details><details class="megam team"><summary>Teams<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="teamm"><div class="tcols"><div class="tcol"><p class="tcolh">Nach Spiel</p><ul class="tgames"><li><a href="../teams.html#league-of-legends">League of Legends</a></li><li><a href="../teams.html#counter-strike-2">Counter-Strike 2</a></li><li><a href="../teams.html#valorant">Valorant</a></li><li><a href="../teams.html#rocket-league">Rocket League</a></li><li><a href="../teams.html#dota-2">Dota 2</a></li><li><a href="../teams.html#overwatch-2">Overwatch 2</a></li><li><a href="../teams.html#rainbow-six-siege">Rainbow Six Siege</a></li></ul></div><div class="tcol"><p class="tcolh">Am aktivsten diese Saison</p><ul class="tstars"><li><a href="../teams/team-liquid.html"><i class="tl"><img src="../logos-equipes/390.webp" alt="" width="128" height="116" loading="lazy"></i><span>Team Liquid</span></a></li><li><a href="../teams/faze-clan.html"><i class="tl"><img src="../logos-equipes/126927.webp" alt="" width="128" height="116" loading="lazy"></i><span>FaZe Clan</span></a></li><li><a href="../teams/t1.html"><i class="tl"><img src="../logos-equipes/128647.webp" alt="" width="128" height="116" loading="lazy"></i><span>T1</span></a></li><li><a href="../teams/falcons.html"><i class="tl"><img src="../logos-equipes/134476.webp" alt="" width="128" height="116" loading="lazy"></i><span>Falcons</span></a></li><li><a href="../teams/furia.html"><i class="tl"><img src="../logos-equipes/124530.webp" alt="" width="128" height="116" loading="lazy"></i><span>FURIA</span></a></li><li><a href="../teams/natus-vincere.html"><i class="tl"><img src="../logos-equipes/1699.webp" alt="" width="128" height="116" loading="lazy"></i><span>Natus Vincere</span></a></li><li><a href="../teams/g2-esports.html"><i class="tl"><img src="../logos-equipes/128538.webp" alt="" width="128" height="116" loading="lazy"></i><span>G2 Esports</span></a></li><li><a href="../teams/spirit.html"><i class="tl"><img src="../logos-equipes/124523.webp" alt="" width="128" height="116" loading="lazy"></i><span>Spirit</span></a></li><li><a href="../teams/gamerlegion.html"><i class="tl"><img src="../logos-equipes/137588.webp" alt="" width="128" height="116" loading="lazy"></i><span>GamerLegion</span></a></li><li><a href="../teams/los.html"><i class="tl"><img src="../logos-equipes/133796.webp" alt="" width="128" height="116" loading="lazy"></i><span>LOS</span></a></li></ul></div></div><form class="tsearch" action="../teams.html" data-src="../equipes/index-pages.json" data-dir="../teams/"><label for="tq-menu">Team finden</label><input id="tq-menu" name="q" type="search" list="eql-menu" autocomplete="off" placeholder="Name des Teams"><datalist id="eql-menu"></datalist></form></div></details><a href="../de.html#offres">eSportly+</a><a href="../de/nachrichten.html">Nachrichten</a><a href="../de/blog.html">Blog</a><a class="live" href="../de/live.html">Live</a><a class="soonm" href="https://apps.apple.com/app/apple-store/id6819243569?pt=127103293&ct=site_esportly&mt=8">App laden</a></div></details></div></header>
+<main class="legal">
+<h1>Barrierefreiheit<br><span class="muted">eSportly</span></h1>
+<p class="muted">Zuletzt aktualisiert: 10. Oktober 2026 · <a href="../fr/accessibilite.html" hreflang="fr" lang="fr">Version française</a> · <a href="../accessibility.html" hreflang="en" lang="en">English version</a> · <a href="../es/accesibilidad.html" hreflang="es" lang="es">Versión en español</a> · <a href="../pt/acessibilidade.html" hreflang="pt-BR" lang="pt-BR">Versão em português</a></p>
+<p class="muted">Diese Seite ist eine Übersetzung. Bei Abweichungen gilt die <a href="../fr/accessibilite.html" hreflang="fr">französische Fassung</a>.</p>
+
+<p>eSportly soll für alle nutzbar sein. Hier steht, was die App auf iPhone und iPad ab Version 1.1 unterstützt.</p>
+
+<h2>Was unterstützt wird</h2>
+<ul>
+  <li><strong>Größerer Text:</strong> Alle Texte folgen der Größe, die du in den Einstellungen deines iPhone gewählt hast, bis hin zu den größten Bedienungshilfen-Größen. Die App hat außerdem eine eigene Einstellung für die Textgröße (Einstellungen, Anzeige).</li>
+  <li><strong>Dunkelmodus:</strong> Die App folgt dem hellen oder dunklen Erscheinungsbild des Geräts, auf allen Bildschirmen.</li>
+  <li><strong>Kontrast:</strong> Alle Texte haben einen Kontrast von mindestens 7 zu 1 zu ihrem Hintergrund (die Norm WCAG AA verlangt 4,5), im hellen wie im dunklen Modus.</li>
+  <li><strong>Nicht nur Farbe:</strong> Eine Information wird nie allein durch Farbe vermittelt. Bei einem laufenden Match steht „Live“, eine gewählte Prognose trägt ein Häkchen.</li>
+  <li><strong>Bewegung reduzieren:</strong> Mit dieser Einstellung werden Bewegungen durch einfache Überblendungen ersetzt.</li>
+  <li><strong>VoiceOver:</strong> Tasten und Informationen haben eine Beschreibung, die vorgelesen wird. Das kleine Videofenster lässt sich mit VoiceOver-Aktionen verschieben, statt es zu ziehen.</li>
+  <li><strong>Keine automatische Wiedergabe:</strong> Ein Video startet nur, wenn du auf „Stream hier abspielen“ tippst.</li>
+</ul>
+
+<h2>Bekannte Einschränkungen</h2>
+<ul>
+  <li>Live-Videos werden in den offiziellen Playern von Twitch, YouTube oder Kick angezeigt. Ihre Untertitel und Bedienelemente hängen von diesen Plattformen ab.</li>
+  <li>Die Team-Logos sind Bilder von Dritten: Ihre Lesbarkeit liegt nicht in unserer Hand. Der Name des Teams steht immer daneben.</li>
+</ul>
+
+<h2>Ein Problem melden</h2>
+<p>Bereitet dir ein Teil der App Schwierigkeiten? Schreib uns an <a href="mailto:contact@protojo.fr?subject=Barrierefreiheit%20eSportly">contact@protojo.fr</a> und nenne dabei den betroffenen Bildschirm und die verwendete Einstellung. Wir antworten innerhalb eines Monats.</p>
+
+<p class="muted">Herausgeber: ProtoJo Digital. <a href="../fr/mentions-legales.html">Impressum</a> (auf Französisch).</p>
+</main>
+<img src="https://lmavqchwevcvvneblqld.supabase.co/functions/v1/visite?p=/de/barrierefreiheit" alt="" width="1" height="1" style="position:absolute;left:-9999px">
+<script src="/analytics.js" defer></script>
+<link rel="stylesheet" href="/qr-flottant.css"><script src="/app-store-qr.js" defer></script><div class="qrfix"><span class="qrfix-qrwrap"><img src="/qr-app-store.svg" alt="" width="76" height="76" loading="lazy"><span class="qrfix-scan" aria-hidden="true"></span></span><span class="qrfix-txt"><span class="qrfix-logo"><img src="/embleme.svg" alt="" width="22" height="22" loading="lazy"><b><i>e</i>Sportly</b></span><span>Am Computer? Scanne den Code mit deinem iPhone, um eSportly zu öffnen.</span></span><svg class="qrfix-phone" viewBox="0 0 24 44" width="24" height="44" aria-hidden="true"><rect x="1" y="1" width="22" height="42" rx="5" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="8.5" y="4" width="7" height="1.4" rx="0.7" fill="currentColor"/><circle cx="12" cy="39.5" r="1.2" fill="none" stroke="currentColor" stroke-width="1.2"/></svg></div>
+<script>(function(){var d=document.documentElement,k='esportly-theme';function g(){try{return localStorage.getItem(k)}catch(e){return null}}function s(v){try{if(v==='system')localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}}function a(v){if(v==='light'||v==='dark')d.setAttribute('data-theme',v);else d.removeAttribute('data-theme');var b=document.querySelectorAll('[data-theme-set]');for(var i=0;i<b.length;i++)b[i].setAttribute('aria-pressed',String(b[i].getAttribute('data-theme-set')===(v==='light'||v==='dark'?v:'system')))}a(g());document.addEventListener('DOMContentLoaded',function(){var t=document.getElementById('theme');if(t)t.hidden=false;a(g());var b=document.querySelectorAll('[data-theme-set]');for(var i=0;i<b.length;i++)b[i].addEventListener('click',function(){var v=this.getAttribute('data-theme-set');s(v);a(v)});var w=document.getElementById('worlds');if(w){var f=Date.UTC(2026,10,14),n=new Date(),x=Math.round((f-Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()))/864e5);if(x<0)w.hidden=true;else{var q=w.querySelector('b');if(q)q.textContent=x}}var u=document.querySelectorAll('[data-until]');for(var j=0;j<u.length;j++){if(new Date()>=new Date(u[j].getAttribute('data-until')))u[j].hidden=true}var mm=document.querySelector('details.menu');if(mm){var hd=document.querySelector('header');var sh=function(){document.documentElement.style.setProperty('--hh',hd.offsetHeight+'px')};sh();addEventListener('resize',sh);var ml=mm.querySelectorAll('a');for(var z=0;z<ml.length;z++)ml[z].addEventListener('click',function(){mm.open=false})}document.addEventListener('keydown',function(e){if(e.key==='Escape'&&location.hash.indexOf('#voir-')===0)location.hash='appareils'});var megs=document.querySelectorAll('header details.mega');document.addEventListener('click',function(e){for(var i=0;i<megs.length;i++){if(megs[i].open&&!megs[i].contains(e.target))megs[i].open=false}});document.addEventListener('keydown',function(e){if(e.key==='Escape')for(var i=0;i<megs.length;i++)megs[i].open=false});for(var q=0;q<megs.length;q++)megs[q].addEventListener('toggle',function(){if(!this.open)return;for(var i=0;i<megs.length;i++)if(megs[i]!==this)megs[i].open=false});var tss=document.querySelectorAll('.tsearch'),idx=null,asked=0;var load=function(src){if(asked)return;asked=1;fetch(src).then(function(r){return r.json()}).then(function(j){idx=j;for(var k=0;k<tss.length;k++){var e=tss[k].querySelector('datalist');if(!e)continue;e.textContent='';for(var i=0;i<j.length;i++){var o=document.createElement('option');o.value=j[i].nom;e.appendChild(o)}}}).catch(function(){})};for(var y=0;y<tss.length;y++){(function(ts){var inp=ts.querySelector('input');var go=function(){load(ts.getAttribute('data-src'))};inp.addEventListener('focus',go);inp.addEventListener('input',go);ts.addEventListener('submit',function(e){if(!idx)return;var v=inp.value.trim().toLowerCase();if(!v)return;for(var i=0;i<idx.length;i++){if(String(idx[i].nom).toLowerCase()===v||String(idx[i].slug).toLowerCase()===v){e.preventDefault();location.href=ts.getAttribute('data-dir')+idx[i].slug+'.html';return}}})})(tss[y])}})})();</script>
+</body>
+</html>

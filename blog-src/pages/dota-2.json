@@ -1,0 +1,203 @@
+{
+  "kind": "game",
+  "game": "dota-2",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Dota 2 on Steam", "url": "https://store.steampowered.com/app/570/Dota_2/"},
+    {"id": "s2", "title": "Dota 2: official website", "url": "https://www.dota2.com/home?l=english"},
+    {"id": "s3", "title": "Dota 2: The International Main Event", "url": "https://www.dota2.com/newsentry/680758587997293716?l=english"},
+    {"id": "s4", "title": "Valve: About Us", "url": "https://www.valvesoftware.com/en/about"},
+    {"id": "s5", "title": "ESL Pro Tour: Dota 2", "url": "https://pro.eslgaming.com/tour/dota2/"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "Dota 2 in brief",
+        "text": [
+          "Dota 2 is an action and strategy game from Valve, released on Steam in July 2013. It is free to play: every hero is open to everyone, and the cosmetics fans collect do not affect what a player needs to compete. A match is a five-against-five clash, and each team has an Ancient to defend, which is why Valve calls the game a battle of the Ancients.",
+          "Each player controls a hero chosen from a pool of more than a hundred, ranging from spellcasters to brutes and tricksters. Any hero can take on more than one role, and a wide choice of items lets players adapt to each game, so no two matches play out alike.",
+          "Valve updates the game regularly, reworking gameplay, features and heroes, so the strategies seen at the top level keep evolving."
+        ]
+      },
+      "fr": {
+        "heading": "Dota 2 en bref",
+        "text": [
+          "Dota 2 est un jeu d'action et de stratégie de Valve, sorti sur Steam en juillet 2013. Il est gratuit : tous les héros sont accessibles à tous, et les cosmétiques que collectionnent les fans ne changent rien à ce dont un joueur a besoin pour rivaliser. Un match oppose deux équipes de cinq, et chaque équipe a un Ancient à défendre : c'est pourquoi Valve présente le jeu comme une bataille des Ancients.",
+          "Chaque joueur contrôle un héros choisi parmi plus d'une centaine, des lanceurs de sorts aux brutes en passant par les filous. N'importe quel héros peut tenir plus d'un rôle, et un large choix d'objets permet de s'adapter à chaque partie : deux matchs ne se déroulent jamais de la même façon.",
+          "Valve met régulièrement le jeu à jour, en retouchant le gameplay, les fonctionnalités et les héros, si bien que les stratégies vues au plus haut niveau ne cessent d'évoluer."
+        ]
+      },
+      "es": {
+        "heading": "Dota 2 en pocas palabras",
+        "text": [
+          "Dota 2 es un juego de acción y estrategia de Valve, lanzado en Steam en julio de 2013. Es gratuito: todos los héroes están disponibles para todo el mundo, y los cosméticos que coleccionan los fans no cambian lo que un jugador necesita para competir. Una partida es un enfrentamiento de cinco contra cinco, y cada equipo tiene un Ancient que defender; por eso Valve presenta el juego como una batalla de los Ancients.",
+          "Cada jugador controla un héroe elegido entre más de un centenar, desde lanzadores de hechizos hasta brutos y pícaros. Cualquier héroe puede asumir más de un rol, y una amplia variedad de objetos permite adaptarse a cada partida, así que no hay dos partidas iguales.",
+          "Valve actualiza el juego con regularidad, retocando la jugabilidad, las funciones y los héroes, de modo que las estrategias que se ven al más alto nivel no dejan de evolucionar."
+        ]
+      },
+      "de": {
+        "heading": "Dota 2 im Überblick",
+        "text": [
+          "Dota 2 ist ein Action- und Strategiespiel von Valve, das im Juli 2013 auf Steam erschien. Es ist kostenlos: Alle Helden stehen allen offen, und die kosmetischen Gegenstände, die Fans sammeln, ändern nichts daran, was man zum Mithalten braucht. Ein Match ist ein Duell fünf gegen fünf, und jedes Team hat einen Ancient zu verteidigen – deshalb nennt Valve das Spiel eine Schlacht der Ancients.",
+          "Jeder Spieler steuert einen Helden aus einem Pool von mehr als hundert, vom Zauberkundigen über den Haudrauf bis zum Schurken. Jeder Held kann mehr als eine Rolle übernehmen, und eine große Auswahl an Gegenständen erlaubt es, sich jeder Partie anzupassen – kein Match läuft wie das andere.",
+          "Valve aktualisiert das Spiel regelmäßig und überarbeitet dabei Gameplay, Funktionen und Helden; die Strategien auf höchstem Niveau entwickeln sich deshalb ständig weiter."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Dota 2 em resumo",
+        "text": [
+          "Dota 2 é um jogo de ação e estratégia da Valve, lançado no Steam em julho de 2013. É gratuito: todos os heróis estão liberados para todos, e os cosméticos que os fãs colecionam não mudam o que um jogador precisa para competir. Uma partida é um confronto de cinco contra cinco, e cada equipe tem um Ancient para defender; por isso a Valve apresenta o jogo como uma batalha dos Ancients.",
+          "Cada jogador controla um herói escolhido entre mais de cem, de conjuradores a brutamontes e trapaceiros. Qualquer herói pode assumir mais de uma função, e uma grande variedade de itens permite se adaptar a cada partida, de modo que nenhuma partida é igual à outra.",
+          "A Valve atualiza o jogo regularmente, mexendo na jogabilidade, nos recursos e nos heróis, por isso as estratégias vistas no mais alto nível estão sempre evoluindo."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "How Dota 2 esports works",
+        "text": [
+          "Valve stages its own world championship, The International. Around it, tournament organisers run their own circuits through the year.",
+          "ESL is one example. In recent seasons, its ESL Pro Tour has combined DreamLeague, a series of online tournaments, with ESL One, its LAN events, plus a second-tier series for teams trying to break through. Open qualifiers have been the way in for everyone, while points earned at its events have decided direct invitations to later ones.",
+          "Circuits are reshaped from one season to the next, so each organiser's official site is the place to check the current format."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne l'esport Dota 2",
+        "text": [
+          "Valve organise son propre championnat du monde, The International. Autour de lui, des organisateurs de tournois font vivre leurs propres circuits tout au long de l'année.",
+          "L'ESL en est un exemple. Ces dernières saisons, son ESL Pro Tour a associé DreamLeague, une série de tournois en ligne, à ESL One, ses événements en LAN, ainsi qu'à une série de second niveau pour les équipes qui cherchent à percer. Les qualifications ouvertes ont servi de porte d'entrée pour tous, tandis que les points gagnés lors de ses événements ont décidé des invitations directes aux suivants.",
+          "Les circuits sont remaniés d'une saison à l'autre : c'est donc sur le site officiel de chaque organisateur qu'il faut vérifier le format en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "Cómo funcionan los esports de Dota 2",
+        "text": [
+          "Valve organiza su propio campeonato del mundo, The International. A su alrededor, los organizadores de torneos mantienen sus propios circuitos a lo largo del año.",
+          "ESL es un ejemplo. En las últimas temporadas, su ESL Pro Tour ha combinado DreamLeague, una serie de torneos en línea, con ESL One, sus eventos en LAN, además de una serie de segundo nivel para equipos que buscan abrirse paso. Los clasificatorios abiertos han sido la puerta de entrada para todos, mientras que los puntos logrados en sus eventos han decidido las invitaciones directas a los siguientes.",
+          "Los circuitos se remodelan de una temporada a otra, así que la web oficial de cada organizador es el lugar donde consultar el formato vigente."
+        ]
+      },
+      "de": {
+        "heading": "So funktioniert der E-Sport in Dota 2",
+        "text": [
+          "Valve richtet eine eigene Weltmeisterschaft aus, The International. Daneben betreiben Turnierveranstalter das ganze Jahr über eigene Circuits.",
+          "Die ESL ist ein Beispiel. In den letzten Saisons verband ihre ESL Pro Tour DreamLeague, eine Reihe von Online-Turnieren, mit ESL One, ihren LAN-Events, und einer Tier-2-Serie für Teams, die den Durchbruch suchen. Offene Qualifikationen waren für alle der Einstieg, während die bei ihren Events gesammelten Punkte über direkte Einladungen zu späteren Events entschieden.",
+          "Die Circuits werden von Saison zu Saison umgebaut; das aktuelle Format steht deshalb auf der offiziellen Website des jeweiligen Veranstalters."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funcionam os esports de Dota 2",
+        "text": [
+          "A Valve organiza seu próprio campeonato mundial, The International. Em torno dele, organizadores de torneios mantêm seus próprios circuitos ao longo do ano.",
+          "A ESL é um exemplo. Nas últimas temporadas, seu ESL Pro Tour combinou a DreamLeague, uma série de torneios online, com o ESL One, seus eventos em LAN, além de uma série de segundo nível para equipes que tentam se firmar. As qualificatórias abertas foram a porta de entrada para todos, enquanto os pontos conquistados em seus eventos definiram os convites diretos para os seguintes.",
+          "Os circuitos são reformulados de uma temporada para outra, por isso o site oficial de cada organizador é o lugar para conferir o formato em vigor."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "The International and the big tournaments",
+        "text": [
+          "The International brings together the best teams in the world, who compete for the Aegis of Champions, which goes to the last team standing. At the 2026 edition, sixteen teams went through a group stage, and the eight still in contention moved to an arena for a double-elimination bracket that ended with a best-of-five grand final.",
+          "The event changes city: the 2018 edition was held at Rogers Arena in Vancouver and was followed online by millions of viewers at once, while the 2026 edition took place in Shanghai.",
+          "Among the events run by organisers, ESL One has in recent seasons been ESL's showcase LAN for Dota 2, played in front of a live audience, unlike the DreamLeague events."
+        ]
+      },
+      "fr": {
+        "heading": "The International et les grands tournois",
+        "text": [
+          "The International réunit les meilleures équipes du monde, qui se disputent l'Aegis of Champions, le trophée remis à la dernière équipe en course. Lors de l'édition 2026, seize équipes ont d'abord joué une phase de groupes, puis les huit encore en lice ont rejoint une grande salle pour un tableau à double élimination conclu par une grande finale au meilleur des cinq manches.",
+          "L'événement change de ville : l'édition 2018 s'est tenue à la Rogers Arena de Vancouver et a été suivie en ligne par des millions de spectateurs en même temps, tandis que l'édition 2026 a eu lieu à Shanghai.",
+          "Parmi les événements des organisateurs, ESL One a été ces dernières saisons la vitrine en LAN de l'ESL pour Dota 2, jouée devant un public, contrairement aux tournois DreamLeague."
+        ]
+      },
+      "es": {
+        "heading": "The International y los grandes torneos",
+        "text": [
+          "The International reúne a los mejores equipos del mundo, que luchan por el Aegis of Champions, reservado al último equipo en pie. En la edición de 2026, dieciséis equipos disputaron primero una fase de grupos, y los ocho que seguían en liza pasaron a un pabellón para jugar un cuadro de doble eliminación que terminó con una gran final al mejor de cinco partidas.",
+          "El evento cambia de ciudad: la edición de 2018 se celebró en el Rogers Arena de Vancouver y la siguieron en línea millones de espectadores a la vez, mientras que la de 2026 tuvo lugar en Shanghái.",
+          "Entre los eventos de los organizadores, ESL One ha sido en las últimas temporadas el gran escaparate en LAN de ESL para Dota 2, con público en directo, a diferencia de los torneos DreamLeague."
+        ]
+      },
+      "de": {
+        "heading": "The International und die großen Turniere",
+        "text": [
+          "The International vereint die besten Teams der Welt, die um die Aegis of Champions kämpfen; sie geht an das letzte Team, das übrig bleibt. Bei der Ausgabe 2026 spielten zunächst sechzehn Teams eine Gruppenphase; die acht verbliebenen zogen dann in eine Arena um, wo ein Double-Elimination-Bracket mit einem Grand Final im Best-of-five endete.",
+          "Das Event wechselt die Stadt: Die Ausgabe 2018 fand in der Rogers Arena in Vancouver statt und wurde online von Millionen Zuschauern gleichzeitig verfolgt, die Ausgabe 2026 in Shanghai.",
+          "Unter den Events der Veranstalter war ESL One in den letzten Saisons das LAN-Aushängeschild der ESL für Dota 2 und wurde vor Publikum gespielt, anders als die DreamLeague-Turniere."
+        ]
+      },
+      "pt-BR": {
+        "heading": "The International e os grandes torneios",
+        "text": [
+          "O The International reúne as melhores equipes do mundo, que disputam o Aegis of Champions, destinado à última equipe de pé. Na edição de 2026, dezesseis equipes jogaram primeiro uma fase de grupos, e as oito que seguiram vivas foram para uma arena disputar uma chave de dupla eliminação encerrada por uma grande final em melhor de cinco.",
+          "O evento muda de cidade: a edição de 2018 foi realizada na Rogers Arena, em Vancouver, e acompanhada online por milhões de espectadores ao mesmo tempo, enquanto a de 2026 aconteceu em Xangai.",
+          "Entre os eventos dos organizadores, o ESL One foi nas últimas temporadas a grande vitrine em LAN da ESL para Dota 2, disputado diante do público, ao contrário dos torneios da DreamLeague."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s5"],
+      "en": {
+        "heading": "How to watch Dota 2 esports",
+        "text": [
+          "The International is broadcast on the main streaming platforms and on Steam itself; the 2026 edition was shown in English, Chinese, Russian and Spanish. Valve announces the dates, schedule and viewing options of each edition in the news section of the official site, dota2.com.",
+          "Fans can also watch it in person in the arena. ESL, for its part, publishes streaming guidelines for community creators who want to cover its Dota 2 events on their own channels."
+        ]
+      },
+      "fr": {
+        "heading": "Comment suivre l'esport Dota 2",
+        "text": [
+          "The International est diffusé sur les principales plateformes de streaming et sur Steam lui-même ; l'édition 2026 l'a été en anglais, en chinois, en russe et en espagnol. Valve annonce les dates, le programme et les moyens de suivre chaque édition dans la rubrique actualités du site officiel, dota2.com.",
+          "Les fans peuvent aussi y assister sur place, dans la salle. L'ESL, de son côté, publie des consignes de streaming pour les créateurs de la communauté qui veulent couvrir ses événements Dota 2 sur leurs propres chaînes."
+        ]
+      },
+      "es": {
+        "heading": "Cómo ver los esports de Dota 2",
+        "text": [
+          "The International se emite en las principales plataformas de streaming y en el propio Steam; la edición de 2026 se ofreció en inglés, chino, ruso y español. Valve anuncia las fechas, el calendario y las formas de verlo de cada edición en la sección de noticias de la web oficial, dota2.com.",
+          "Los fans también pueden verlo en persona, en el pabellón. ESL, por su parte, publica unas normas de streaming para los creadores de la comunidad que quieran cubrir sus eventos de Dota 2 en sus propios canales."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du Dota-2-E-Sport",
+        "text": [
+          "The International wird auf den großen Streaming-Plattformen und direkt auf Steam übertragen; die Ausgabe 2026 lief auf Englisch, Chinesisch, Russisch und Spanisch. Termine, Spielplan und Übertragungswege jeder Ausgabe gibt Valve im News-Bereich der offiziellen Website dota2.com bekannt.",
+          "Fans können das Event auch vor Ort in der Arena erleben. Die ESL wiederum veröffentlicht Streaming-Richtlinien für Content Creator aus der Community, die ihre Dota-2-Events auf eigenen Kanälen begleiten möchten."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Dota 2",
+        "text": [
+          "O The International é transmitido nas principais plataformas de streaming e no próprio Steam; a edição de 2026 foi exibida em inglês, chinês, russo e espanhol. A Valve anuncia as datas, a programação e as formas de assistir a cada edição na seção de notícias do site oficial, dota2.com.",
+          "Os fãs também podem acompanhar o evento ao vivo, na arena. A ESL, por sua vez, publica diretrizes de streaming para criadores de conteúdo da comunidade que queiram cobrir seus eventos de Dota 2 nos próprios canais."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Dota 2 esports: the game and its pro scene",
+    "description": "How does Dota 2 esports work? The game, its tournament circuits, The International, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Dota 2 : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Dota 2 ? Le jeu, ses circuits de tournois, The International, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Dota 2: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Dota 2? El juego, sus circuitos de torneos, The International, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Dota 2: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Dota 2? Das Spiel, die Turnier-Circuits, The International und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Dota 2: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Dota 2? O jogo, seus circuitos de torneios, The International, e onde assistir, com as fontes usadas."
+  }
+}

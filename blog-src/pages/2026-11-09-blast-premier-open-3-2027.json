@@ -1,0 +1,119 @@
+{
+  "kind": "news",
+  "game": "counter-strike-2",
+  "date": "2026-11-09",
+  "updated": "2026-11-09",
+  "image": {
+    "kind": "ia",
+    "file": "counter-strike-2"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "title": "BLAST: Third BLAST Premier Open heads to the United States in 2027",
+      "url": "https://blast.tv/blast-premier-open-3-2027-announcement"
+    }
+  ],
+  "sections": [
+    {
+      "cite": [
+        "s1"
+      ],
+      "en": {
+        "heading": "A 16-team LAN in the United States",
+        "text": [
+          "BLAST is taking its third BLAST Premier Open of 2027 to the United States, the company said on 30 October 2026. The Counter-Strike event runs from 3 to 12 September 2027 and brings together 16 teams, with a combined $1.25 million shared between prize money and team payments.",
+          "Two main stages make up the tournament, and both are held on LAN in the US. The Play-In is a Swiss bracket run over five days, and the eight sides that come through it move into a single-elimination bracket. The Swiss group stage of the Main Event is booked for 5 to 9 September 2027, and the single-elimination playoff follows from 10 to 12 September 2027, with the last three days played in an arena in the USA. BLAST also plans to run dual-stream broadcasts for the Swiss format."
+        ]
+      },
+      "fr": {
+        "heading": "Un LAN à 16 équipes aux États-Unis",
+        "text": [
+          "BLAST emmène son troisième BLAST Premier Open de 2027 aux États-Unis, a annoncé l'entreprise le 30 octobre 2026. L'événement Counter-Strike se déroule du 3 au 12 septembre 2027 et réunit 16 équipes, avec 1,25 million de dollars répartis entre prize money et paiements aux équipes.",
+          "Le tournoi se compose de deux phases principales, toutes deux jouées en LAN aux États-Unis. Le Play-In est un tableau suisse disputé sur cinq jours, et les huit équipes qui en sortent rejoignent un tableau à élimination directe. La phase de groupes suisse du Main Event est prévue du 5 au 9 septembre 2027, et les play-offs à élimination directe suivent du 10 au 12 septembre 2027, les trois derniers jours se jouant dans une arène aux États-Unis. BLAST prévoit aussi des diffusions parallèles pour le format suisse."
+        ]
+      },
+      "es": {
+        "heading": "Un LAN de 16 equipos en Estados Unidos",
+        "text": [
+          "BLAST lleva su tercer BLAST Premier Open de 2027 a Estados Unidos, según anunció la empresa el 30 de octubre de 2026. El evento de Counter-Strike se disputa del 3 al 12 de septiembre de 2027 y reúne a 16 equipos, con 1,25 millones de dólares repartidos entre premios y pagos a los equipos.",
+          "El torneo se compone de dos fases principales, ambas en LAN en Estados Unidos. El Play-In es un cuadro suizo de cinco días, y los ocho equipos que lo superan pasan a un cuadro de eliminación directa. La fase de grupos suiza del Main Event está prevista del 5 al 9 de septiembre de 2027, y los play-offs de eliminación directa llegan del 10 al 12 de septiembre de 2027, con los tres últimos días en un recinto en Estados Unidos. BLAST también planea emisiones paralelas para el formato suizo."
+        ]
+      },
+      "de": {
+        "heading": "Ein LAN mit 16 Teams in den USA",
+        "text": [
+          "BLAST bringt sein drittes BLAST Premier Open 2027 in die USA, teilte das Unternehmen am 30. Oktober 2026 mit. Das Counter-Strike-Turnier läuft vom 3. bis 12. September 2027 und bringt 16 Teams zusammen, mit insgesamt 1,25 Millionen US-Dollar, aufgeteilt auf Preisgeld und Zahlungen an die Teams.",
+          "Das Turnier besteht aus zwei Hauptphasen, beide werden als LAN in den USA gespielt. Das Play-In ist ein Swiss Bracket über fünf Tage, und die acht Teams, die es überstehen, kommen in ein Bracket mit Einzelausscheidung. Die Schweizer Gruppenphase des Main Event ist für den 5. bis 9. September 2027 angesetzt, die Play-offs im K.-o.-System folgen vom 10. bis 12. September 2027, wobei die letzten drei Tage in einer Arena in den USA gespielt werden. BLAST plant zudem parallele Übertragungen für das Schweizer Format."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Um LAN de 16 equipes nos Estados Unidos",
+        "text": [
+          "A BLAST leva seu terceiro BLAST Premier Open de 2027 para os Estados Unidos, informou a empresa em 30 de outubro de 2026. O evento de Counter-Strike acontece de 3 a 12 de setembro de 2027 e reúne 16 equipes, com US$ 1,25 milhão divididos entre premiação e pagamentos às equipes.",
+          "O torneio tem duas fases principais, ambas disputadas em LAN nos Estados Unidos. O Play-In é um chaveamento suíço de cinco dias, e as oito equipes que avançam passam para um chaveamento de eliminação simples. A fase de grupos suíça do Main Event está marcada para 5 a 9 de setembro de 2027, e os play-offs de eliminação simples vêm em seguida, de 10 a 12 de setembro de 2027, com os três últimos dias em uma arena nos Estados Unidos. A BLAST também planeja transmissões em streams paralelos para o formato suíço."
+        ]
+      }
+    },
+    {
+      "cite": [
+        "s1"
+      ],
+      "en": {
+        "heading": "Eleven invites and five qualifiers",
+        "text": [
+          "Eleven of the 16 places go to teams invited directly on the Valve Global Rankings. Five more come through regional Closed Qualifiers, and North America also receives one extra slot as the host region. BLAST has set aside a $400,000 acceptance fee pot, paid to the teams that accept their invitations.",
+          "The North America Closed Qualifier runs from 8 to 11 July 2027, while the European, Asian and South American qualifiers follow from 9 to 11 July 2027. Each one fields eight teams, four of them invited through the regional Valve standings and four coming through Open Qualifiers. North America's qualifier uses a GSL-style format while the other regions play single elimination, and all Closed Qualifier matches are played as best-of-three series. Ticketing and further event details are to be announced in due course."
+        ]
+      },
+      "fr": {
+        "heading": "Onze invitations et cinq qualifiés",
+        "text": [
+          "Onze des 16 places reviennent à des équipes invitées directement sur le Valve Global Rankings. Cinq autres passent par les Closed Qualifiers régionaux, et North America reçoit aussi une place supplémentaire en tant que région hôte. BLAST a réservé une enveloppe de 400 000 dollars d'acceptance fees, versés aux équipes qui acceptent leur invitation.",
+          "Le Closed Qualifier North America se déroule du 8 au 11 juillet 2027, tandis que les qualifiers Europe, Asia et South America suivent du 9 au 11 juillet 2027. Chacun réunit huit équipes, dont quatre invitées via les classements Valve régionaux et quatre issues des Open Qualifiers. Le qualifier North America utilise un format de type GSL, les autres régions jouent en élimination directe, et tous les matchs des Closed Qualifiers se jouent en best-of-three. La billetterie et les autres détails de l'événement seront annoncés en temps utile."
+        ]
+      },
+      "es": {
+        "heading": "Once invitaciones y cinco clasificados",
+        "text": [
+          "Once de las 16 plazas son para equipos invitados directamente según el Valve Global Rankings. Otras cinco llegan por los Closed Qualifiers regionales, y North America recibe además una plaza extra como región anfitriona. BLAST ha reservado un fondo de 400 000 dólares en acceptance fees, que se paga a los equipos que aceptan su invitación.",
+          "El Closed Qualifier de North America se juega del 8 al 11 de julio de 2027, mientras que los qualifiers de Europe, Asia y South America llegan del 9 al 11 de julio de 2027. Cada uno reúne a ocho equipos, cuatro invitados por la clasificación regional de Valve y cuatro llegados de los Open Qualifiers. El qualifier de North America usa un formato tipo GSL, las otras regiones juegan a eliminación directa, y todos los partidos de los Closed Qualifiers son al mejor de tres. La venta de entradas y otros detalles del evento se anunciarán a su debido tiempo."
+        ]
+      },
+      "de": {
+        "heading": "Elf Einladungen und fünf Qualifier",
+        "text": [
+          "Elf der 16 Plätze gehen an Teams, die direkt über die Valve Global Rankings eingeladen werden. Fünf weitere kommen über regionale Closed Qualifiers, und North America erhält als Gastgeberregion zusätzlich einen Platz. BLAST hat einen Topf von 400 000 US-Dollar an Acceptance Fees zurückgelegt, der an die Teams geht, die ihre Einladung annehmen.",
+          "Der North America Closed Qualifier läuft vom 8. bis 11. Juli 2027, die Qualifier für Europe, Asia und South America folgen vom 9. bis 11. Juli 2027. Jeder hat acht Teams, vier davon über die regionalen Valve-Rankings eingeladen und vier über die Open Qualifiers. Der Qualifier in North America nutzt ein GSL-Format, die anderen Regionen spielen Einzelausscheidung, und alle Spiele der Closed Qualifiers werden als Best-of-three gespielt. Tickets und weitere Details zur Veranstaltung werden rechtzeitig angekündigt."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Onze convites e cinco classificados",
+        "text": [
+          "Onze das 16 vagas vão para equipes convidadas diretamente pelo Valve Global Rankings. Outras cinco vêm pelos Closed Qualifiers regionais, e a North America também recebe uma vaga extra como região anfitriã. A BLAST reservou um fundo de US$ 400 000 em acceptance fees, pago às equipes que aceitam o convite.",
+          "O North America Closed Qualifier acontece de 8 a 11 de julho de 2027, enquanto os qualifiers de Europe, Asia e South America vêm em seguida, de 9 a 11 de julho de 2027. Cada um tem oito equipes, quatro convidadas pelo ranking regional da Valve e quatro vindas dos Open Qualifiers. O qualifier da North America usa formato no estilo GSL, as outras regiões jogam em eliminação simples, e todas as partidas dos Closed Qualifiers são em melhor de três. Ingressos e outros detalhes do evento serão anunciados em breve."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "BLAST Premier Open 3 heads to the USA in September 2027",
+    "description": "BLAST announces the third BLAST Premier Open: 16 Counter-Strike teams in the US, 3 to 12 September 2027, for a combined $1.25 million."
+  },
+  "fr": {
+    "title": "BLAST Premier Open 3 : cap sur les États-Unis en septembre 2027",
+    "description": "BLAST annonce le troisième BLAST Premier Open : 16 équipes Counter-Strike aux États-Unis, du 3 au 12 septembre 2027, pour 1,25 million de dollars au total."
+  },
+  "es": {
+    "title": "BLAST Premier Open 3: a Estados Unidos en septiembre de 2027",
+    "description": "BLAST anuncia el tercer BLAST Premier Open: 16 equipos de Counter-Strike en Estados Unidos, del 3 al 12 de septiembre de 2027, por 1,25 millones de dólares."
+  },
+  "de": {
+    "title": "BLAST Premier Open 3 geht im September 2027 in die USA",
+    "description": "BLAST kündigt das dritte BLAST Premier Open an: 16 Counter-Strike-Teams in den USA, vom 3. bis 12. September 2027, für insgesamt 1,25 Millionen US-Dollar."
+  },
+  "pt-BR": {
+    "title": "BLAST Premier Open 3 vai aos Estados Unidos em setembro de 2027",
+    "description": "A BLAST anuncia o terceiro BLAST Premier Open: 16 equipes de Counter-Strike nos Estados Unidos, de 3 a 12 de setembro de 2027, por US$ 1,25 milhão no total."
+  }
+}

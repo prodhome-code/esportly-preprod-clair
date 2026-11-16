@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "valorant",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Riot Games: Who We Are", "url": "https://www.riotgames.com/en/who-we-are"},
+    {"id": "s2", "title": "VALORANT: Beginner's Guide", "url": "https://playvalorant.com/en-us/news/announcements/beginners-guide/"},
+    {"id": "s3", "title": "Riot Games Competitive Operations: VALORANT", "url": "https://competitiveops.riotgames.com/en-US/VALORANT"},
+    {"id": "s4", "title": "VALORANT Esports: VCT 2027, The Global Tour", "url": "https://valorantesports.com/en-US/news/vct-2027-the-global-tour"},
+    {"id": "s5", "title": "VALORANT Esports: Champions Shanghai, Watch and Earn", "url": "https://valorantesports.com/en-US/news/champions-shanghai-watch-and-earn"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "Valorant in brief",
+        "text": [
+          "Valorant is a first-person shooter from Riot Games, released in June 2020. It was the studio's first shooter and became its second major esport. Every match pits two teams of five against each other. Before the first round, each player selects an Agent, a character with abilities of its own; because those abilities are built to be combined, choosing Agents is a team decision. Agents fall into four roles, and a line-up that mixes them usually has better odds of winning.",
+          "A map is played over a series of rounds. One side attacks while the other defends, and they trade roles after 12 rounds. The attackers aim to plant a device called the Spike and let it detonate; the defenders have to defuse it once it is down. Every round opens with a buying phase in which players spend their credits on weapons and abilities.",
+          "Knowing each map, and the routes opponents can take, counts for a lot, and so does communication: teammates call out positions by voice or with pings."
+        ]
+      },
+      "fr": {
+        "heading": "Valorant en bref",
+        "text": [
+          "Valorant est un jeu de tir à la première personne de Riot Games, sorti en juin 2020. C'est le premier jeu de tir du studio, devenu son deuxième grand esport. Chaque match oppose deux équipes de cinq. Avant la première manche, chaque joueur choisit un Agent, un personnage doté de ses propres compétences ; comme ces compétences sont faites pour se combiner, le choix des Agents se décide en équipe. Les Agents se répartissent en quatre rôles, et une composition qui les mélange a en général plus de chances de gagner.",
+          "Une carte se joue en une série de manches. Un camp attaque pendant que l'autre défend, et ils échangent leurs rôles après 12 manches. Les attaquants veulent poser un engin appelé le Spike et le laisser exploser ; les défenseurs doivent le désamorcer une fois qu'il est posé. Chaque manche commence par une phase d'achat où les joueurs dépensent leurs crédits en armes et en compétences.",
+          "Connaître chaque carte, et les chemins que peuvent prendre les adversaires, compte beaucoup, tout comme la communication : les coéquipiers signalent les positions à la voix ou avec des pings."
+        ]
+      },
+      "es": {
+        "heading": "Valorant en pocas palabras",
+        "text": [
+          "Valorant es un juego de disparos en primera persona de Riot Games, lanzado en junio de 2020. Fue el primer shooter del estudio y se convirtió en su segundo gran esport. Cada partida enfrenta a dos equipos de cinco. Antes de la primera ronda, cada jugador elige un Agente, un personaje con habilidades propias; como esas habilidades están pensadas para combinarse, elegir Agentes es una decisión de equipo. Los Agentes se dividen en cuatro roles, y una alineación que los mezcla suele tener más opciones de ganar.",
+          "Un mapa se juega en una serie de rondas. Un bando ataca mientras el otro defiende, y se intercambian los papeles tras 12 rondas. Los atacantes buscan plantar un dispositivo llamado Spike y dejar que detone; los defensores deben desactivarlo una vez plantado. Cada ronda empieza con una fase de compra en la que los jugadores gastan sus créditos en armas y habilidades.",
+          "Conocer cada mapa, y las rutas que pueden tomar los rivales, cuenta mucho, igual que la comunicación: los compañeros avisan de posiciones por voz o con pings."
+        ]
+      },
+      "de": {
+        "heading": "Valorant im Überblick",
+        "text": [
+          "Valorant ist ein Ego-Shooter von Riot Games, erschienen im Juni 2020. Es war der erste Shooter des Studios und wurde zu seinem zweiten großen E-Sport. In jedem Match treten zwei Teams aus je fünf Spielern gegeneinander an. Vor der ersten Runde wählt jeder Spieler einen Agenten, eine Figur mit eigenen Fähigkeiten; weil diese Fähigkeiten aufeinander abgestimmt sind, ist die Wahl der Agenten eine Teamentscheidung. Die Agenten gehören zu vier Rollen, und eine Aufstellung, die sie mischt, hat meist bessere Gewinnchancen.",
+          "Eine Map wird über eine Reihe von Runden gespielt. Eine Seite greift an, die andere verteidigt, und nach 12 Runden werden die Rollen getauscht. Die Angreifer wollen ein Gerät namens Spike platzieren und detonieren lassen; die Verteidiger müssen es entschärfen, sobald es liegt. Jede Runde beginnt mit einer Kaufphase, in der die Spieler ihre Credits für Waffen und Fähigkeiten ausgeben.",
+          "Die Kenntnis jeder Map und der Wege, die Gegner nehmen können, zählt viel, ebenso die Kommunikation: Mitspieler melden Positionen per Sprachchat oder mit Pings."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Valorant em resumo",
+        "text": [
+          "Valorant é um jogo de tiro em primeira pessoa da Riot Games, lançado em junho de 2020. Foi o primeiro jogo de tiro do estúdio e se tornou seu segundo grande esport. Cada partida coloca frente a frente duas equipes de cinco. Antes da primeira rodada, cada jogador escolhe um Agente, um personagem com habilidades próprias; como essas habilidades foram feitas para se combinar, a escolha dos Agentes é uma decisão de equipe. Os Agentes se dividem em quatro funções, e uma formação que as mistura costuma ter mais chances de vencer.",
+          "Um mapa é jogado em uma série de rodadas. Um lado ataca enquanto o outro defende, e eles trocam de papel após 12 rodadas. Os atacantes querem plantar um dispositivo chamado Spike e deixá-lo detonar; os defensores precisam desarmá-lo depois de plantado. Cada rodada começa com uma fase de compra em que os jogadores gastam seus créditos em armas e habilidades.",
+          "Conhecer cada mapa, e os caminhos que os adversários podem tomar, conta muito, assim como a comunicação: os colegas de equipe avisam posições por voz ou com pings."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4"],
+      "en": {
+        "heading": "How Valorant esports works",
+        "text": [
+          "Riot Games runs the official professional circuit, the Valorant Champions Tour (VCT). Some organisations take part as partner teams, but they are not the only ones: teams outside the partnership can also earn a place through competition and reach the biggest events.",
+          "Results in regional competitions decide which teams go on to the international events. The details change from one season to the next, from the stages of the year to the way teams qualify, so the official site, valorantesports.com, is the place to check the current format.",
+          "Riot also runs Game Changers, a programme meant to make more room for women in competitive Valorant, with competitions organised by region."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne l'esport Valorant",
+        "text": [
+          "Riot Games organise le circuit professionnel officiel, le Valorant Champions Tour (VCT). Certaines organisations y participent comme équipes partenaires, mais elles ne sont pas les seules : des équipes extérieures au partenariat peuvent aussi gagner leur place par la compétition et atteindre les plus grands événements.",
+          "Les résultats dans les compétitions régionales décident des équipes qui accèdent aux événements internationaux. Les détails changent d'une saison à l'autre, des étapes de l'année jusqu'aux modes de qualification : c'est donc sur le site officiel, valorantesports.com, qu'il faut vérifier le format en vigueur.",
+          "Riot organise aussi Game Changers, un programme destiné à faire plus de place aux femmes dans le Valorant compétitif, avec des compétitions organisées par région."
+        ]
+      },
+      "es": {
+        "heading": "Cómo funcionan los esports de Valorant",
+        "text": [
+          "Riot Games organiza el circuito profesional oficial, el Valorant Champions Tour (VCT). Algunas organizaciones participan como equipos socios, pero no son las únicas: equipos ajenos a esa asociación también pueden ganarse un sitio compitiendo y llegar a los mayores eventos.",
+          "Los resultados en las competiciones regionales deciden qué equipos pasan a los eventos internacionales. Los detalles cambian de una temporada a otra, desde las etapas del año hasta la forma de clasificarse, así que la web oficial, valorantesports.com, es el lugar donde consultar el formato vigente.",
+          "Riot organiza también Game Changers, un programa pensado para dar más espacio a las mujeres en el Valorant competitivo, con competiciones organizadas por regiones."
+        ]
+      },
+      "de": {
+        "heading": "So funktioniert der E-Sport in Valorant",
+        "text": [
+          "Riot Games betreibt den offiziellen Profi-Circuit, die Valorant Champions Tour (VCT). Einige Organisationen nehmen als Partnerteams teil, aber sie sind nicht die einzigen: Auch Teams außerhalb der Partnerschaft können sich über Wettkämpfe einen Platz erspielen und die größten Events erreichen.",
+          "Die Ergebnisse in regionalen Wettbewerben entscheiden, welche Teams zu den internationalen Events kommen. Die Details ändern sich von Saison zu Saison, von den Abschnitten des Jahres bis zur Art der Qualifikation; das aktuelle Format steht deshalb auf der offiziellen Website valorantesports.com.",
+          "Außerdem veranstaltet Riot Game Changers, ein Programm, das Frauen mehr Raum im kompetitiven Valorant geben soll, mit Wettbewerben, die nach Regionen organisiert sind."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funcionam os esports de Valorant",
+        "text": [
+          "A Riot Games organiza o circuito profissional oficial, o Valorant Champions Tour (VCT). Algumas organizações participam como equipes parceiras, mas não são as únicas: equipes de fora da parceria também podem conquistar uma vaga competindo e chegar aos maiores eventos.",
+          "Os resultados nas competições regionais definem quais equipes avançam para os eventos internacionais. Os detalhes mudam de uma temporada para outra, das etapas do ano à forma de classificação, por isso o site oficial, valorantesports.com, é o lugar para conferir o formato em vigor.",
+          "A Riot também organiza o Game Changers, um programa criado para abrir mais espaço para as mulheres no Valorant competitivo, com competições organizadas por região."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "Masters, Champions and the major competitions",
+        "text": [
+          "During the season, Riot holds international tournaments called Masters, each in a different host city. They bring together teams from several regions, which meet there in the course of the year.",
+          "Champions closes every VCT season. The strongest teams of the year gather there, and the tournament crowns the Valorant world champion; no title on the circuit ranks higher."
+        ]
+      },
+      "fr": {
+        "heading": "Masters, Champions et les grandes compétitions",
+        "text": [
+          "Pendant la saison, Riot organise des tournois internationaux appelés Masters, chacun dans une ville hôte différente. Ils réunissent des équipes venues de plusieurs régions, qui s'y affrontent au fil de l'année.",
+          "Champions clôt chaque saison du VCT. Les meilleures équipes de l'année s'y retrouvent, et le tournoi couronne le champion du monde de Valorant ; aucun titre du circuit n'est plus important."
+        ]
+      },
+      "es": {
+        "heading": "Masters, Champions y las grandes competiciones",
+        "text": [
+          "Durante la temporada, Riot celebra torneos internacionales llamados Masters, cada uno en una ciudad anfitriona distinta. Reúnen a equipos de varias regiones, que se enfrentan allí a lo largo del año.",
+          "Champions cierra cada temporada del VCT. Allí se reúnen los mejores equipos del año, y el torneo corona al campeón mundial de Valorant; no hay título más alto en el circuito."
+        ]
+      },
+      "de": {
+        "heading": "Masters, Champions und die großen Turniere",
+        "text": [
+          "Während der Saison richtet Riot internationale Turniere namens Masters aus, jedes in einer anderen Gastgeberstadt. Dort treffen im Lauf des Jahres Teams aus mehreren Regionen aufeinander.",
+          "Champions schließt jede VCT-Saison ab. Dort kommen die stärksten Teams des Jahres zusammen, und das Turnier kürt den Valorant-Weltmeister; einen höheren Titel gibt es im Circuit nicht."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Masters, Champions e as grandes competições",
+        "text": [
+          "Durante a temporada, a Riot realiza torneios internacionais chamados Masters, cada um em uma cidade-sede diferente. Eles reúnem equipes de várias regiões, que se enfrentam ali ao longo do ano.",
+          "O Champions encerra cada temporada do VCT. As equipes mais fortes do ano se reúnem ali, e o torneio coroa o campeão mundial de Valorant; não há título maior no circuito."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s5"],
+      "en": {
+        "heading": "How to watch Valorant esports",
+        "text": [
+          "valorantesports.com is the official home of Valorant esports, with news and a calendar of upcoming matches and tournaments. Riot streams the matches live on its official Valorant Esports channels, which are present on the main video platforms.",
+          "At events such as Champions, watching the official live broadcast can unlock in-game items, under conditions such as a minimum viewing time that are set out on the event's page. Fans can also submit predictions, called Pick'Ems, in the game client or on the website; taking part requires a Riot account."
+        ]
+      },
+      "fr": {
+        "heading": "Comment suivre l'esport Valorant",
+        "text": [
+          "valorantesports.com est le site officiel de l'esport Valorant, avec l'actualité et un calendrier des matchs et tournois à venir. Riot diffuse les matchs en direct sur ses chaînes officielles Valorant Esports, présentes sur les principales plateformes vidéo.",
+          "Lors d'événements comme Champions, regarder la diffusion officielle en direct peut débloquer des objets en jeu, à certaines conditions, comme une durée minimale de visionnage, précisées sur la page de l'événement. Les fans peuvent aussi faire des pronostics, appelés Pick'Ems, dans le client du jeu ou sur le site ; il faut pour cela un compte Riot."
+        ]
+      },
+      "es": {
+        "heading": "Cómo ver los esports de Valorant",
+        "text": [
+          "valorantesports.com es la web oficial de los esports de Valorant, con noticias y un calendario de los próximos partidos y torneos. Riot emite los partidos en directo en sus canales oficiales de Valorant Esports, presentes en las principales plataformas de vídeo.",
+          "En eventos como Champions, ver la retransmisión oficial en directo puede desbloquear objetos del juego, con condiciones como un tiempo mínimo de visionado que se detallan en la página del evento. Los fans también pueden hacer pronósticos, llamados Pick'Ems, en el cliente del juego o en la web; para participar hace falta una cuenta de Riot."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du Valorant-E-Sport",
+        "text": [
+          "valorantesports.com ist die offizielle Website des Valorant-E-Sports, mit News und einem Kalender der kommenden Matches und Turniere. Riot überträgt die Matches live auf seinen offiziellen Valorant-Esports-Kanälen, die auf den großen Videoplattformen vertreten sind.",
+          "Bei Events wie Champions kann das Anschauen der offiziellen Live-Übertragung Gegenstände im Spiel freischalten, unter Bedingungen wie einer Mindestzuschauzeit, die auf der Seite des Events stehen. Fans können außerdem Tipps abgeben, die sogenannten Pick'Ems, im Spielclient oder auf der Website; dafür ist ein Riot-Konto nötig."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Valorant",
+        "text": [
+          "valorantesports.com é o site oficial dos esports de Valorant, com notícias e um calendário das próximas partidas e torneios. A Riot transmite as partidas ao vivo em seus canais oficiais Valorant Esports, presentes nas principais plataformas de vídeo.",
+          "Em eventos como o Champions, assistir à transmissão oficial ao vivo pode liberar itens no jogo, com condições como um tempo mínimo de visualização, detalhadas na página do evento. Os fãs também podem dar palpites, chamados Pick'Ems, no cliente do jogo ou no site; para participar, é preciso ter uma conta Riot."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Valorant esports: the game and its pro scene",
+    "description": "How does Valorant esports work? The game, the Valorant Champions Tour, Masters and Champions, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Valorant : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Valorant ? Le jeu, le Valorant Champions Tour, les Masters et Champions, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Valorant: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Valorant? El juego, el Valorant Champions Tour, los Masters y Champions, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Valorant: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Valorant? Das Spiel, die Valorant Champions Tour, Masters und Champions und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Valorant: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Valorant? O jogo, o Valorant Champions Tour, os Masters e o Champions, e onde assistir, com as fontes usadas."
+  }
+}

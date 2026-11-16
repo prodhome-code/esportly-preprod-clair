@@ -1,0 +1,197 @@
+{
+  "kind": "game",
+  "game": "call-of-duty",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Call of Duty League: About The Call of Duty League", "url": "https://callofdutyleague.com/en-us/about"},
+    {"id": "s2", "title": "Call of Duty League: 2026 Season Announcement", "url": "https://callofdutyleague.com/en-us/news/2026-season-announcement"},
+    {"id": "s3", "title": "Call of Duty League: 2027 Season Announcement", "url": "https://callofdutyleague.com/en-us/news/2027-season-announcement"},
+    {"id": "s4", "title": "Call of Duty: Black Ops 7 on Steam", "url": "https://store.steampowered.com/app/3606480/"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s4"],
+      "en": {
+        "heading": "What is Call of Duty esports?",
+        "text": [
+          "Call of Duty is Activision's series of shooters, and Call of Duty esports revolves around the Call of Duty League (CDL). In recent seasons, the league has played on the latest entry of the series: the 2026 season, for instance, used Call of Duty: Black Ops 7, released in November 2025 and developed by Treyarch, Raven Software and other Activision studios.",
+          "In a pro match, two teams play three different modes, each on its own map, in a best-of-five series where every game won counts as one point. In Hardpoint, teams fight to hold a zone that moves every sixty seconds, and the first to 250 points, or the team leading when time runs out, wins. Search and Destroy has no respawns: one side tries to plant a bomb at one of two sites while the other defends, and six round wins take the game.",
+          "The third mode varies from one game to the next; in the 2026 season, it was Overload."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce que l'esport Call of Duty ?",
+        "text": [
+          "Call of Duty est la série de jeux de tir d'Activision, et l'esport Call of Duty tourne autour de la Call of Duty League (CDL). Ces dernières saisons, la ligue a joué sur le dernier épisode de la série : la saison 2026, par exemple, s'est disputée sur Call of Duty: Black Ops 7, sorti en novembre 2025 et développé par Treyarch, Raven Software et d'autres studios d'Activision.",
+          "Dans un match pro, deux équipes jouent trois modes différents, chacun sur sa propre carte, dans une série au meilleur des cinq où chaque partie gagnée vaut un point. En Hardpoint, les équipes se battent pour tenir une zone qui se déplace toutes les soixante secondes, et la première à 250 points, ou celle qui mène quand le temps est écoulé, l'emporte. Search and Destroy se joue sans réapparition : un camp tente de poser une bombe sur l'un de deux sites pendant que l'autre défend, et six manches gagnées emportent la partie.",
+          "Le troisième mode change d'un jeu à l'autre ; lors de la saison 2026, c'était Overload."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué son los esports de Call of Duty?",
+        "text": [
+          "Call of Duty es la serie de juegos de disparos de Activision, y los esports de Call of Duty giran en torno a la Call of Duty League (CDL). En las últimas temporadas, la liga se ha jugado en la entrega más reciente de la serie: la temporada 2026, por ejemplo, usó Call of Duty: Black Ops 7, lanzado en noviembre de 2025 y desarrollado por Treyarch, Raven Software y otros estudios de Activision.",
+          "En un partido profesional, dos equipos juegan tres modos distintos, cada uno en su propio mapa, en una serie al mejor de cinco en la que cada partida ganada vale un punto. En Hardpoint, los equipos luchan por controlar una zona que cambia de sitio cada sesenta segundos, y gana el primero que llega a 250 puntos, o el que va por delante cuando se acaba el tiempo. Search and Destroy no tiene reapariciones: un bando intenta plantar una bomba en uno de dos puntos mientras el otro defiende, y seis rondas ganadas se llevan la partida.",
+          "El tercer modo cambia de un juego a otro; en la temporada 2026 fue Overload."
+        ]
+      },
+      "de": {
+        "heading": "Was ist Call-of-Duty-E-Sport?",
+        "text": [
+          "Call of Duty ist die Shooter-Reihe von Activision, und der E-Sport in Call of Duty dreht sich um die Call of Duty League (CDL). In den letzten Saisons spielte die Liga auf dem jeweils neuesten Teil der Reihe: Die Saison 2026 etwa lief auf Call of Duty: Black Ops 7, das im November 2025 erschien und von Treyarch, Raven Software und weiteren Activision-Studios entwickelt wurde.",
+          "In einem Profi-Match spielen zwei Teams drei verschiedene Modi, jeweils auf einer eigenen Map, in einer Best-of-five-Serie, in der jedes gewonnene Spiel einen Punkt zählt. In Hardpoint kämpfen die Teams um eine Zone, die alle sechzig Sekunden wandert, und wer zuerst 250 Punkte hat oder bei Ablauf der Zeit vorn liegt, gewinnt. In Search and Destroy gibt es kein Respawnen: Eine Seite versucht, an einem von zwei Orten eine Bombe zu legen, während die andere verteidigt, und sechs gewonnene Runden entscheiden das Spiel.",
+          "Der dritte Modus wechselt von Spiel zu Spiel; in der Saison 2026 war es Overload."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que são os esports de Call of Duty?",
+        "text": [
+          "Call of Duty é a série de jogos de tiro da Activision, e os esports de Call of Duty giram em torno da Call of Duty League (CDL). Nas últimas temporadas, a liga foi disputada no lançamento mais recente da série: a temporada 2026, por exemplo, usou Call of Duty: Black Ops 7, lançado em novembro de 2025 e desenvolvido pela Treyarch, pela Raven Software e por outros estúdios da Activision.",
+          "Em uma partida profissional, duas equipes jogam três modos diferentes, cada um em seu próprio mapa, em uma série melhor de cinco em que cada jogo vencido vale um ponto. No Hardpoint, as equipes brigam para segurar uma zona que muda de lugar a cada sessenta segundos, e vence quem chegar primeiro a 250 pontos, ou quem estiver na frente quando o tempo acabar. Search and Destroy não tem renascimento: um lado tenta plantar uma bomba em um de dois pontos enquanto o outro defende, e seis rodadas vencidas levam o jogo.",
+          "O terceiro modo muda de um jogo para outro; na temporada 2026, foi o Overload."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "How does the Call of Duty League work?",
+        "text": [
+          "The CDL is made up of professional teams that compete together across the whole season, several of them named after a city, such as Toronto KOI.",
+          "In recent seasons, the year has been organised around four Majors. Before each one, online qualifiers let teams collect CDL Points and set the seeding, then the Major itself is played on LAN; online Minor tournaments add more points between Majors. The points race decides who goes on to Championship Weekend at the end of the season.",
+          "Below the league, Call of Duty Challengers is the route for up-and-coming teams, with Challengers Cups, Opens held alongside the Majors and Pro-Am events where they meet CDL teams. The format is revised every year, so callofdutyleague.com is where to check the current one."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la Call of Duty League ?",
+        "text": [
+          "La CDL réunit des équipes professionnelles qui s'affrontent pendant toute la saison, plusieurs d'entre elles portant le nom d'une ville, comme Toronto KOI.",
+          "Ces dernières saisons, l'année s'est organisée autour de quatre Majors. Avant chacun, des qualifications en ligne permettent aux équipes d'accumuler des points CDL et fixent le classement de départ, puis le Major lui-même se joue en LAN ; des tournois Minor en ligne ajoutent des points entre les Majors. La course aux points décide qui accède au Championship Weekend en fin de saison.",
+          "Sous la ligue, Call of Duty Challengers est la voie des équipes montantes, avec des Challengers Cups, des Opens organisés en marge des Majors et des tournois Pro-Am où elles affrontent des équipes de la CDL. Le format est revu chaque année : c'est sur callofdutyleague.com qu'il faut vérifier celui en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la Call of Duty League?",
+        "text": [
+          "La CDL está formada por equipos profesionales que compiten juntos durante toda la temporada, varios de ellos con el nombre de una ciudad, como Toronto KOI.",
+          "En las últimas temporadas, el año se ha organizado en torno a cuatro Majors. Antes de cada uno, unos clasificatorios en línea permiten a los equipos sumar puntos CDL y fijan el orden de cabezas de serie; después, el Major se juega en LAN, y unos torneos Minor en línea añaden puntos entre Majors. La carrera por los puntos decide quién llega al Championship Weekend al final de la temporada.",
+          "Por debajo de la liga, Call of Duty Challengers es la vía para los equipos emergentes, con Challengers Cups, Opens celebrados junto a los Majors y torneos Pro-Am en los que se miden con equipos de la CDL. El formato se revisa cada año, así que callofdutyleague.com es el lugar donde consultar el vigente."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Call of Duty League?",
+        "text": [
+          "Die CDL besteht aus Profiteams, die die gesamte Saison gemeinsam bestreiten, mehrere davon nach einer Stadt benannt, etwa Toronto KOI.",
+          "In den letzten Saisons war das Jahr um vier Majors herum aufgebaut. Vor jedem sammeln die Teams in Online-Qualifikationen CDL-Punkte und spielen die Setzliste aus, dann wird das Major selbst im LAN gespielt; Online-Minor-Turniere bringen zwischen den Majors weitere Punkte. Das Punkterennen entscheidet, wer am Saisonende zum Championship Weekend fährt.",
+          "Unterhalb der Liga ist Call of Duty Challengers der Weg für aufstrebende Teams, mit Challengers Cups, Opens parallel zu den Majors und Pro-Am-Turnieren, in denen sie auf CDL-Teams treffen. Das Format wird jedes Jahr überarbeitet; das aktuelle steht auf callofdutyleague.com."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a Call of Duty League?",
+        "text": [
+          "A CDL é formada por equipes profissionais que competem juntas a temporada inteira, várias delas com o nome de uma cidade, como Toronto KOI.",
+          "Nas últimas temporadas, o ano foi organizado em torno de quatro Majors. Antes de cada um, qualificatórias online permitem às equipes somar pontos CDL e definem a ordem de classificação; depois, o Major em si é disputado em LAN, e torneios Minor online somam mais pontos entre os Majors. A corrida pelos pontos decide quem vai ao Championship Weekend no fim da temporada.",
+          "Abaixo da liga, o Call of Duty Challengers é o caminho para as equipes em ascensão, com Challengers Cups, Opens realizados junto aos Majors e torneios Pro-Am em que elas enfrentam equipes da CDL. O formato é revisto todo ano, por isso o callofdutyleague.com é o lugar para conferir o atual."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3"],
+      "en": {
+        "heading": "What are the biggest Call of Duty tournaments?",
+        "text": [
+          "The Majors are the high points of the regular season: LAN events that recent seasons have taken to cities in North America and Europe, sometimes hosted by one of the league's teams. Majors have ended with a grand final played as a best of seven.",
+          "Championship Weekend, known as Champs, closes the season and decides who becomes Call of Duty League champion; the 2026 edition took place in Las Vegas, hosted by FaZe Vegas."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois de Call of Duty ?",
+        "text": [
+          "Les Majors sont les temps forts de la saison régulière : des événements en LAN que les saisons récentes ont emmenés dans des villes d'Amérique du Nord et d'Europe, parfois accueillis par l'une des équipes de la ligue. Les Majors se sont terminés par une grande finale au meilleur des sept.",
+          "Le Championship Weekend, surnommé Champs, clôt la saison et désigne le champion de la Call of Duty League ; l'édition 2026 s'est tenue à Las Vegas, accueillie par FaZe Vegas."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de Call of Duty?",
+        "text": [
+          "Los Majors son los momentos culminantes de la temporada regular: eventos en LAN que las últimas temporadas han llevado a ciudades de Norteamérica y Europa, a veces con uno de los equipos de la liga como anfitrión. Los Majors han terminado con una gran final al mejor de siete.",
+          "El Championship Weekend, conocido como Champs, cierra la temporada y decide quién es el campeón de la Call of Duty League; la edición de 2026 se celebró en Las Vegas, con FaZe Vegas como anfitrión."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in Call of Duty?",
+        "text": [
+          "Die Majors sind die Höhepunkte der regulären Saison: LAN-Events, die in den letzten Saisons in Städte in Nordamerika und Europa führten, manchmal mit einem Team der Liga als Gastgeber. Die Majors endeten mit einem großen Finale im Best-of-seven.",
+          "Das Championship Weekend, kurz Champs, schließt die Saison ab und entscheidet, wer Champion der Call of Duty League wird; die Ausgabe 2026 fand in Las Vegas statt, mit FaZe Vegas als Gastgeber."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de Call of Duty?",
+        "text": [
+          "Os Majors são os pontos altos da temporada regular: eventos em LAN que as últimas temporadas levaram a cidades da América do Norte e da Europa, às vezes com uma das equipes da liga como anfitriã. Os Majors terminaram com uma grande final em melhor de sete.",
+          "O Championship Weekend, conhecido como Champs, encerra a temporada e define o campeão da Call of Duty League; a edição de 2026 foi realizada em Las Vegas, com a FaZe Vegas como anfitriã."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "How can you watch the Call of Duty League?",
+        "text": [
+          "The CDL streams its matches live on YouTube and Twitch, and fans can also follow them through co-streams and watch parties. The official site, callofdutyleague.com, gathers the league's news and the CDL Points standings.",
+          "Majors and Champs are also played in front of live, ticketed audiences."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder la Call of Duty League ?",
+        "text": [
+          "La CDL diffuse ses matchs en direct sur YouTube et Twitch, et les fans peuvent aussi les suivre via des co-streams et des watch parties. Le site officiel, callofdutyleague.com, rassemble l'actualité de la ligue et le classement des points CDL.",
+          "Les Majors et les Champs se jouent aussi devant un public payant, sur billetterie."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver la Call of Duty League?",
+        "text": [
+          "La CDL emite sus partidos en directo en YouTube y Twitch, y los fans también pueden seguirlos a través de co-streams y watch parties. La web oficial, callofdutyleague.com, reúne las noticias de la liga y la clasificación de puntos CDL.",
+          "Los Majors y los Champs se juegan además ante público presencial con entrada."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man die Call of Duty League schauen?",
+        "text": [
+          "Die CDL überträgt ihre Matches live auf YouTube und Twitch, und Fans können sie auch über Co-Streams und Watch-Partys verfolgen. Die offizielle Website callofdutyleague.com bündelt die News der Liga und die Tabelle der CDL-Punkte.",
+          "Majors und Champs finden zudem vor zahlendem Live-Publikum statt."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir à Call of Duty League?",
+        "text": [
+          "A CDL transmite suas partidas ao vivo no YouTube e na Twitch, e os fãs também podem acompanhá-las por co-streams e watch parties. O site oficial, callofdutyleague.com, reúne as notícias da liga e a classificação de pontos CDL.",
+          "Os Majors e o Champs também são disputados diante de público pagante."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Call of Duty esports: the game and its pro scene",
+    "description": "How does Call of Duty esports work? The game, the Call of Duty League, its Majors and Champs, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Call of Duty : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Call of Duty ? Le jeu, la Call of Duty League, ses Majors et les Champs, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Call of Duty: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Call of Duty? El juego, la Call of Duty League, sus Majors y los Champs, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Call of Duty: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Call of Duty? Das Spiel, die Call of Duty League, ihre Majors und Champs und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Call of Duty: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Call of Duty? O jogo, a Call of Duty League, seus Majors e o Champs, e onde assistir, com as fontes usadas."
+  }
+}

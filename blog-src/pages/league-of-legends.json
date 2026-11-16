@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "league-of-legends",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "League of Legends: How to Play", "url": "https://www.leagueoflegends.com/en-us/how-to-play/"},
+    {"id": "s2", "title": "Riot Games: Who We Are", "url": "https://www.riotgames.com/en/who-we-are"},
+    {"id": "s3", "title": "Riot Games Competitive Operations: League of Legends", "url": "https://competitiveops.riotgames.com/en-US/league-of-legends"},
+    {"id": "s4", "title": "LoL Esports: Celebrating 15 Years of LoL Esports", "url": "https://lolesports.com/en-US/news/celebrating-15-years-of-lol-esports"},
+    {"id": "s5", "title": "Riot Games Support: Esports Watch Missions", "url": "https://support.riotgames.com/en-us/league-of-legends/events/esports-watch-missions"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "League of Legends in brief",
+        "text": [
+          "League of Legends is a free-to-play team strategy game from Riot Games, and the title that started the studio; it has been going for more than a decade. Every match pits two teams of five against each other: each player controls a champion picked from a roster of more than 170, and the aim is to wipe out the opposing base.",
+          "Each base is built around a structure called the Nexus, and the first team to bring down the opposing Nexus takes the game. Getting there means pushing through at least one lane, where turrets and an inhibitor stand in the way. The jungle fills the space between the lanes and is home to neutral monsters; slaying the most important ones, Baron Nashor and the drakes, gives a team bonuses that can swing the game.",
+          "Over the course of a game, each champion levels up with experience and spends gold on items, which is how a team builds its strength. Teams usually split into five positions: top lane, jungle, mid lane, bot lane and support."
+        ]
+      },
+      "fr": {
+        "heading": "League of Legends en bref",
+        "text": [
+          "League of Legends est un jeu de stratégie en équipe gratuit de Riot Games, et le titre qui a lancé le studio ; il existe depuis plus de dix ans. Chaque match oppose deux équipes de cinq : chaque joueur contrôle un champion choisi parmi plus de 170, et le but est de raser la base adverse.",
+          "Chaque base s'organise autour d'une structure appelée le Nexus, et la première équipe qui abat le Nexus adverse remporte la partie. Pour y arriver, il faut forcer le passage dans au moins une voie, où se dressent des tourelles et un inhibiteur. La jungle occupe l'espace entre les voies et abrite des monstres neutres ; vaincre les plus importants, Baron Nashor et les dragons, donne à une équipe des bonus capables de faire basculer la partie.",
+          "Au fil de la partie, chaque champion monte de niveau grâce à l'expérience et dépense son or en objets : c'est ainsi qu'une équipe gagne en puissance. Les équipes se répartissent en général sur cinq postes : top, jungle, mid, bot et support."
+        ]
+      },
+      "es": {
+        "heading": "League of Legends en pocas palabras",
+        "text": [
+          "League of Legends es un juego de estrategia por equipos gratuito de Riot Games y el título con el que empezó el estudio; lleva más de una década en marcha. Cada partida enfrenta a dos equipos de cinco: cada jugador controla un campeón elegido entre más de 170, y el objetivo es arrasar la base rival.",
+          "Cada base gira en torno a una estructura llamada Nexo, y el primer equipo que derriba el Nexo rival gana la partida. Para llegar hasta él hay que abrirse paso por al menos una calle, donde esperan torretas y un inhibidor. La jungla ocupa el espacio entre las calles y alberga monstruos neutrales; derrotar a los más importantes, Baron Nashor y los dragones, da al equipo bonificaciones capaces de decantar la partida.",
+          "A lo largo de la partida, cada campeón sube de nivel con la experiencia y gasta su oro en objetos: así es como un equipo gana fuerza. Los equipos suelen repartirse en cinco posiciones: top, jungla, mid, bot y support."
+        ]
+      },
+      "de": {
+        "heading": "League of Legends im Überblick",
+        "text": [
+          "League of Legends ist ein kostenloses Team-Strategiespiel von Riot Games und der Titel, mit dem das Studio begann; es läuft seit mehr als zehn Jahren. In jedem Match stehen sich zwei Teams aus je fünf Spielern gegenüber: Jeder steuert einen von mehr als 170 Champions, und das Ziel ist, die gegnerische Basis zu vernichten.",
+          "Jede Basis ist um ein Bauwerk namens Nexus angelegt, und wer den gegnerischen Nexus zuerst einreißt, gewinnt die Partie. Der Weg dorthin führt durch mindestens eine Lane, in der Türme und ein Inhibitor im Weg stehen. Der Dschungel füllt den Raum zwischen den Lanes und beherbergt neutrale Monster; wer die wichtigsten davon besiegt, Baron Nashor und die Drachen, erhält Boni, die eine Partie entscheiden können.",
+          "Im Lauf einer Partie steigt jeder Champion durch Erfahrung im Level auf und gibt sein Gold für Gegenstände aus – so wird ein Team stärker. Die Teams verteilen sich meist auf fünf Positionen: Top, Jungle, Mid, Bot und Support."
+        ]
+      },
+      "pt-BR": {
+        "heading": "League of Legends em resumo",
+        "text": [
+          "League of Legends é um jogo de estratégia em equipe gratuito da Riot Games e o título com que o estúdio começou; existe há mais de uma década. Cada partida coloca frente a frente duas equipes de cinco: cada jogador controla um campeão escolhido entre mais de 170, e o objetivo é arrasar a base adversária.",
+          "Cada base é construída em torno de uma estrutura chamada Nexus, e a primeira equipe que derruba o Nexus adversário vence a partida. Para chegar lá, é preciso avançar por pelo menos uma rota, onde torres e um inibidor barram o caminho. A selva ocupa o espaço entre as rotas e abriga monstros neutros; derrotar os mais importantes, Baron Nashor e os dragões, rende à equipe bônus capazes de decidir a partida.",
+          "Ao longo da partida, cada campeão sobe de nível com a experiência e gasta seu ouro em itens: é assim que uma equipe ganha força. As equipes costumam se dividir em cinco posições: rota superior, selva, rota do meio, rota inferior e suporte."
+        ]
+      }
+    },
+    {
+      "cite": ["s3"],
+      "en": {
+        "heading": "How League of Legends esports works",
+        "text": [
+          "Riot Games runs the professional circuit, known as LoL Esports, and sets its rules. Its foundation is a network of regional leagues, among them the LCK in Korea, the LPL in China and the LEC, which covers Europe, the Middle East and Africa.",
+          "Each league divides its year into several stages called splits, usually with regular-season matches followed by playoffs. Results in these leagues decide which teams qualify for the international events, so every regular-season match carries weight.",
+          "A second tier of regional competitions sits below the top leagues and serves as an entry point for amateur and semi-professional players who hope to turn pro."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne l'esport League of Legends",
+        "text": [
+          "Riot Games organise le circuit professionnel, appelé LoL Esports, et en fixe les règles. Sa base est un réseau de ligues régionales, parmi lesquelles la LCK en Corée, la LPL en Chine et la LEC, qui couvre l'Europe, le Moyen-Orient et l'Afrique.",
+          "Chaque ligue découpe son année en plusieurs étapes appelées splits, en général avec des matchs de saison régulière suivis de playoffs. Les résultats dans ces ligues décident des équipes qualifiées pour les événements internationaux, si bien que chaque match de la saison régulière compte.",
+          "Sous les grandes ligues, un second niveau de compétitions régionales sert de porte d'entrée aux joueurs amateurs et semi-professionnels qui espèrent passer pro."
+        ]
+      },
+      "es": {
+        "heading": "Cómo funcionan los esports de League of Legends",
+        "text": [
+          "Riot Games organiza el circuito profesional, conocido como LoL Esports, y fija sus reglas. Su base es una red de ligas regionales, entre ellas la LCK en Corea, la LPL en China y la LEC, que abarca Europa, Oriente Medio y África.",
+          "Cada liga divide su año en varias etapas llamadas splits, normalmente con una fase regular seguida de playoffs. Los resultados en estas ligas deciden qué equipos se clasifican para los eventos internacionales, así que cada partido de la temporada regular cuenta.",
+          "Por debajo de las ligas principales, un segundo nivel de competiciones regionales sirve de puerta de entrada a jugadores amateurs y semiprofesionales que aspiran a dar el salto al profesionalismo."
+        ]
+      },
+      "de": {
+        "heading": "So funktioniert der E-Sport in League of Legends",
+        "text": [
+          "Riot Games betreibt den Profi-Circuit, LoL Esports genannt, und legt seine Regeln fest. Seine Grundlage ist ein Netz regionaler Ligen, darunter die LCK in Korea, die LPL in China und die LEC, die Europa, den Nahen Osten und Afrika abdeckt.",
+          "Jede Liga teilt ihr Jahr in mehrere Abschnitte, Splits genannt, meist mit regulären Spieltagen und anschließenden Playoffs. Die Ergebnisse in diesen Ligen entscheiden, welche Teams sich für die internationalen Events qualifizieren – deshalb zählt jedes Spiel der regulären Saison.",
+          "Unterhalb der großen Ligen dient eine zweite Ebene regionaler Wettbewerbe als Einstieg für Amateure und Halbprofis, die Profis werden wollen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funcionam os esports de League of Legends",
+        "text": [
+          "A Riot Games organiza o circuito profissional, chamado LoL Esports, e define suas regras. Sua base é uma rede de ligas regionais, entre elas a LCK, na Coreia, a LPL, na China, e a LEC, que abrange Europa, Oriente Médio e África.",
+          "Cada liga divide o ano em várias etapas chamadas splits, geralmente com uma fase regular seguida de playoffs. Os resultados nessas ligas definem quais equipes se classificam para os eventos internacionais, por isso cada partida da fase regular tem peso.",
+          "Abaixo das ligas principais, um segundo nível de competições regionais serve de porta de entrada para jogadores amadores e semiprofissionais que sonham em se profissionalizar."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4"],
+      "en": {
+        "heading": "Worlds, MSI and the major competitions",
+        "text": [
+          "The League of Legends World Championship, known as Worlds, is the most prestigious event in professional League of Legends. First held in 2011, it is the goal the whole season builds up to, and it brings together the strongest teams from every region. The title is decided in best-of-five knockout matches, and the winners lift the Summoner's Cup, the trophy that has come to symbolise the sport.",
+          "Halfway through the season, the Mid-Season Invitational (MSI) gathers the top teams from each league. Its own title is at stake, and a strong run there can leave a team, and its whole region, better placed for Worlds."
+        ]
+      },
+      "fr": {
+        "heading": "Les Worlds, le MSI et les grandes compétitions",
+        "text": [
+          "Les Worlds (League of Legends World Championship) sont l'événement le plus prestigieux de League of Legends professionnel. Organisés pour la première fois en 2011, ils sont l'horizon de toute la saison et réunissent les équipes les plus fortes de chaque région. Le titre se joue en matchs à élimination directe au meilleur des cinq manches, et les vainqueurs soulèvent la Summoner's Cup, le trophée devenu le symbole de ce sport.",
+          "À mi-saison, le Mid-Season Invitational (MSI) rassemble les meilleures équipes de chaque ligue. Il a son propre titre en jeu, et un beau parcours peut placer une équipe, et toute sa région, en meilleure position pour les Worlds."
+        ]
+      },
+      "es": {
+        "heading": "Worlds, el MSI y las grandes competiciones",
+        "text": [
+          "Worlds (League of Legends World Championship) es el evento más prestigioso del League of Legends profesional. Disputado por primera vez en 2011, es la meta hacia la que se encamina toda la temporada y reúne a los equipos más fuertes de cada región. El título se decide en eliminatorias al mejor de cinco partidas, y los ganadores levantan la Summoner's Cup, el trofeo que se ha convertido en el símbolo de este deporte.",
+          "A mitad de temporada, el Mid-Season Invitational (MSI) reúne a los mejores equipos de cada liga. Tiene su propio título en juego, y un buen papel allí puede dejar a un equipo, y a toda su región, mejor situado de cara a Worlds."
+        ]
+      },
+      "de": {
+        "heading": "Worlds, MSI und die großen Turniere",
+        "text": [
+          "Die Worlds (League of Legends World Championship) sind das prestigeträchtigste Turnier im professionellen League of Legends. Erstmals 2011 ausgetragen, sind sie das Ziel, auf das die ganze Saison hinausläuft, und vereinen die stärksten Teams aller Regionen. Der Titel wird in K.-o.-Spielen im Best-of-five entschieden, und die Sieger stemmen den Summoner's Cup, die Trophäe, die zum Symbol dieses Sports geworden ist.",
+          "Zur Saisonmitte bringt das Mid-Season Invitational (MSI) die besten Teams jeder Liga zusammen. Dort geht es um einen eigenen Titel, und ein starker Auftritt kann ein Team – und seine ganze Region – für die Worlds in eine bessere Ausgangslage bringen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Worlds, MSI e as grandes competições",
+        "text": [
+          "O Worlds (League of Legends World Championship) é o evento mais prestigiado do League of Legends profissional. Disputado pela primeira vez em 2011, é o objetivo para o qual toda a temporada converge e reúne as equipes mais fortes de cada região. O título é decidido em partidas eliminatórias em melhor de cinco, e os vencedores levantam a Summoner's Cup, o troféu que virou símbolo desse esporte.",
+          "No meio da temporada, o Mid-Season Invitational (MSI) reúne as melhores equipes de cada liga. Ele tem seu próprio título em jogo, e uma boa campanha pode deixar uma equipe, e toda a sua região, em melhor posição para o Worlds."
+        ]
+      }
+    },
+    {
+      "cite": ["s5"],
+      "en": {
+        "heading": "How to watch League of Legends esports",
+        "text": [
+          "The official site, lolesports.com, gathers the match schedule, live broadcasts, replays and news. The matches are also shown on other streaming platforms.",
+          "Viewers who watch on lolesports.com while signed in can also earn rewards: progress on in-game watch missions and, during some live broadcasts in selected regions and at global events, drops such as exclusive items, discounts or merchandise. These rewards are tied to watching on lolesports.com; fans may first need to opt in on lolesports.com/rewards, where they can also follow their missions and drops."
+        ]
+      },
+      "fr": {
+        "heading": "Comment suivre l'esport League of Legends",
+        "text": [
+          "Le site officiel, lolesports.com, rassemble le calendrier des matchs, les diffusions en direct, les rediffusions et l'actualité. Les matchs sont aussi diffusés sur d'autres plateformes de streaming.",
+          "Les spectateurs qui regardent sur lolesports.com en étant connectés peuvent aussi obtenir des récompenses : des progrès dans des missions de visionnage en jeu et, pendant certaines diffusions en direct de régions sélectionnées et des événements mondiaux, des drops, par exemple des objets exclusifs, des réductions ou des produits dérivés. Ces récompenses sont liées au visionnage sur lolesports.com ; il faut parfois d'abord s'inscrire sur lolesports.com/rewards, où l'on peut aussi suivre ses missions et ses drops."
+        ]
+      },
+      "es": {
+        "heading": "Cómo ver los esports de League of Legends",
+        "text": [
+          "La web oficial, lolesports.com, reúne el calendario de partidos, las retransmisiones en directo, las repeticiones y las noticias. Los partidos también se emiten en otras plataformas de streaming.",
+          "Quienes ven los partidos en lolesports.com con la sesión iniciada también pueden obtener recompensas: avances en misiones de visualización del juego y, durante algunas retransmisiones en directo de regiones seleccionadas y de los eventos globales, drops como objetos exclusivos, descuentos o productos oficiales. Estas recompensas están ligadas a ver los partidos en lolesports.com; puede que antes haya que activarlas en lolesports.com/rewards, donde también se siguen las misiones y los drops."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du League-of-Legends-E-Sport",
+        "text": [
+          "Die offizielle Website lolesports.com bündelt Spielplan, Live-Übertragungen, Aufzeichnungen und News. Die Matches laufen außerdem auf anderen Streaming-Plattformen.",
+          "Wer auf lolesports.com angemeldet zuschaut, kann zudem Belohnungen erhalten: Fortschritt bei Zuschauer-Missionen im Spiel und, bei manchen Live-Übertragungen ausgewählter Regionen und bei globalen Events, Drops wie exklusive Gegenstände, Rabatte oder Merchandise. Diese Belohnungen sind an das Zuschauen auf lolesports.com gebunden; unter Umständen muss die Teilnahme zuerst auf lolesports.com/rewards aktiviert werden, wo sich auch Missionen und Drops verfolgen lassen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de League of Legends",
+        "text": [
+          "O site oficial, lolesports.com, reúne o calendário de partidas, as transmissões ao vivo, as reprises e as notícias. As partidas também são exibidas em outras plataformas de streaming.",
+          "Quem assiste no lolesports.com com a conta conectada também pode ganhar recompensas: progresso em missões de visualização no jogo e, durante algumas transmissões ao vivo de regiões selecionadas e dos eventos globais, drops como itens exclusivos, descontos ou produtos oficiais. Essas recompensas estão ligadas a assistir no lolesports.com; talvez seja preciso ativá-las antes em lolesports.com/rewards, onde também dá para acompanhar as missões e os drops."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "League of Legends esports: the game and its pro scene",
+    "description": "How does League of Legends esports work? The game, its pro leagues, Worlds and MSI, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport League of Legends : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport League of Legends ? Le jeu, ses ligues pro, les Worlds et le MSI, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de League of Legends: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de League of Legends? El juego, sus ligas profesionales, los Worlds y el MSI, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in League of Legends: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in League of Legends? Das Spiel, die Profiligen, Worlds und MSI und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de League of Legends: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de League of Legends? O jogo, suas ligas profissionais, o Worlds e o MSI, e onde assistir, com as fontes usadas."
+  }
+}

@@ -1,0 +1,322 @@
+{
+ "mis_a_jour": "2026-11-08",
+ "note": "Flux officiels d'esport lus par eSportly (veille) : la même liste que blog-src/veille/sources.json. Un flux peut disparaître : l'app doit ignorer une source qui ne répond pas.",
+ "sources": [
+  {
+   "id": "esl",
+   "nom": "ESL (IEM, ESL Pro League)",
+   "flux": "https://esl.com/news/feed/",
+   "page": "https://esl.com/news/",
+   "type": "feed",
+   "jeux": [
+    "counter-strike-2"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "hltv",
+   "nom": "HLTV",
+   "flux": "https://www.hltv.org/rss/news",
+   "page": "https://www.hltv.org/news",
+   "type": "feed",
+   "jeux": [
+    "counter-strike-2"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": false
+  },
+  {
+   "id": "blast",
+   "nom": "BLAST",
+   "flux": null,
+   "page": "https://blast.tv/cs/news",
+   "type": "page",
+   "jeux": [
+    "counter-strike-2"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "lolesports",
+   "nom": "LoL Esports (Riot)",
+   "flux": null,
+   "page": "https://lolesports.com/en-US/news",
+   "type": "page",
+   "jeux": [
+    "league-of-legends"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "riot-lol",
+   "nom": "League of Legends — actualités (Riot)",
+   "flux": null,
+   "page": "https://www.leagueoflegends.com/en-us/news/",
+   "type": "page",
+   "jeux": [
+    "league-of-legends"
+   ],
+   "types": [
+    "patch",
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "valorant-esports",
+   "nom": "VALORANT Esports (Riot)",
+   "flux": null,
+   "page": "https://valorantesports.com/en-US/news",
+   "type": "page",
+   "jeux": [
+    "valorant"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "riot-valorant",
+   "nom": "VALORANT — actualités (Riot)",
+   "flux": null,
+   "page": "https://playvalorant.com/en-us/news/",
+   "type": "page",
+   "jeux": [
+    "valorant"
+   ],
+   "types": [
+    "patch",
+    "release"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "riot-wild-rift",
+   "nom": "Wild Rift — actualités (Riot)",
+   "flux": null,
+   "page": "https://wildrift.leagueoflegends.com/en-us/news/",
+   "type": "page",
+   "jeux": [
+    "wild-rift"
+   ],
+   "types": [
+    "patch",
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "ubisoft-r6",
+   "nom": "Rainbow Six Siege Esports (Ubisoft)",
+   "flux": null,
+   "page": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates",
+   "type": "page",
+   "jeux": [
+    "rainbow-six-siege"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "blizzard-overwatch",
+   "nom": "Overwatch 2 — actualités (Blizzard)",
+   "flux": null,
+   "page": "https://overwatch.blizzard.com/en-us/news/",
+   "type": "page",
+   "jeux": [
+    "overwatch-2"
+   ],
+   "types": [
+    "patch",
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "mp-l-id",
+   "nom": "MPL Indonesia (Moonton)",
+   "flux": null,
+   "page": "https://id-mpl.com/",
+   "type": "page",
+   "jeux": [
+    "mobile-legends"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "id",
+   "officiel": true
+  },
+  {
+   "id": "honor-of-kings",
+   "nom": "Honor of Kings (Level Infinite)",
+   "flux": null,
+   "page": "https://www.honorofkings.com/",
+   "type": "page",
+   "jeux": [
+    "honor-of-kings"
+   ],
+   "types": [
+    "patch",
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "ea-fc-pro",
+   "nom": "EA SPORTS FC Pro (EA)",
+   "flux": null,
+   "page": "https://www.ea.com/games/ea-sports-fc/fc-pro",
+   "type": "page",
+   "jeux": [
+    "ea-sports-fc"
+   ],
+   "types": [
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "ea-news",
+   "nom": "EA — actualités",
+   "flux": null,
+   "page": "https://www.ea.com/news",
+   "type": "page",
+   "jeux": [
+    "ea-sports-fc"
+   ],
+   "types": [
+    "release",
+    "patch"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "riot-games",
+   "nom": "Riot Games — actualités",
+   "flux": null,
+   "page": "https://www.riotgames.com/en/news",
+   "type": "page",
+   "jeux": [],
+   "types": [
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "steam-dota-2",
+   "nom": "Dota 2 — annonces (Valve, flux Steam)",
+   "flux": "https://store.steampowered.com/feeds/news/app/570/?cc=US&l=english",
+   "page": "https://store.steampowered.com/news/app/570",
+   "type": "feed",
+   "jeux": [
+    "dota-2"
+   ],
+   "types": [
+    "patch",
+    "release",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "steam-rocket-league",
+   "nom": "Rocket League — annonces (Psyonix, flux Steam)",
+   "flux": "https://store.steampowered.com/feeds/news/app/252950/?cc=US&l=english",
+   "page": "https://store.steampowered.com/news/app/252950",
+   "type": "feed",
+   "jeux": [
+    "rocket-league"
+   ],
+   "types": [
+    "patch",
+    "release"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "steam-call-of-duty",
+   "nom": "Call of Duty — annonces (Activision, flux Steam)",
+   "flux": "https://store.steampowered.com/feeds/news/app/1938090/?cc=US&l=english",
+   "page": "https://store.steampowered.com/news/app/1938090",
+   "type": "feed",
+   "jeux": [
+    "call-of-duty"
+   ],
+   "types": [
+    "patch",
+    "release"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "steam-counter-strike-2",
+   "nom": "Counter-Strike 2 — mises à jour (Valve, flux Steam)",
+   "flux": "https://store.steampowered.com/feeds/news/app/730/?cc=US&l=english",
+   "page": "https://store.steampowered.com/news/app/730",
+   "type": "feed",
+   "jeux": [
+    "counter-strike-2"
+   ],
+   "types": [
+    "patch",
+    "release"
+   ],
+   "langue": "en",
+   "officiel": true
+  },
+  {
+   "id": "blizzard-starcraft-2",
+   "nom": "StarCraft II — actualités (Blizzard)",
+   "flux": null,
+   "page": "https://starcraft2.blizzard.com/en-us/news/",
+   "type": "page",
+   "jeux": [
+    "starcraft-2",
+    "starcraft-brood-war"
+   ],
+   "types": [
+    "patch",
+    "esport"
+   ],
+   "langue": "en",
+   "officiel": true
+  }
+ ]
+}

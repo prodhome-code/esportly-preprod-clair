@@ -1,0 +1,29 @@
+{
+  "league-of-legends": [
+    {"id": "UCvqRdlKsE5Q8mf8YXbdIJLw", "name": "LoL Esports", "proof": "https://lolesports.com/en-US/vod/115660540726095013/1", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "valorant": [
+    {"id": "UCA1d3HFGFUmkKr2JIUA5Vlw", "name": "VALORANT Champions Tour", "proof": "https://playvalorant.com/en-us/news/esports/everything-you-need-to-know-champions-paris/", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "dota-2": [
+    {"id": "UCTQKT5QqO3h7y32G8VzuySQ", "name": "dota2", "proof": "https://www.dota2.com/newsentry/680758587997293716?l=english", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "overwatch-2": [
+    {"id": "UCiAInBL9kUzz1XRxk66v-gw", "name": "Overwatch Esports", "proof": "https://esports.overwatch.com/en-us", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "rainbow-six-siege": [
+    {"id": "UCWKHac5bjhsUtSnMDFCT-7A", "name": "Rainbow Six Esports", "proof": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/4yFeI3FrEjqkll0g20ifAp/r6se-r6-osaka-major-predictions-launch", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "call-of-duty": [
+    {"id": "UCbLIqv9Puhyp9_ZjVtfOy7w", "name": "Call of Duty League", "proof": "https://callofdutyleague.com/en-us/", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "mobile-legends": [
+    {"id": "UCMncR-XXNXhMyJELEgCrHlg", "name": "MLBB eSports", "proof": "https://en.moonton.com/news/311.html", "include": "^(?!.*\\b(?:anniversary|birthday|party|cosplay)\\b)(?:(?=.*\\b(?:vs\\.?|game \\d+|grand finals?|mpl|msc|mct|mwi|m\\d+)\\b).*\\bhighlights?\\b|.*\\b(?:top|best|game[- ]changing) plays?\\b|.*\\bbest moments?\\b)"}
+  ],
+  "honor-of-kings": [
+    {"id": "UCBqo62uoCQKO71QF6J2aNQA", "name": "HoK Esports", "proof": "https://press.levelinfinite.com/Honor-of-Kings-World-Cup-Kicks-Off-Featuring-the-Reveal-of-Honor-of-Ki", "include": "\\b(?:highlights?|top plays?|best plays?|game[- ]changing plays?|best moments?)\\b"}
+  ],
+  "wild-rift": [
+    {"id": "UCd0ZomI5mPkrV735wul5kiw", "name": "League of Legends: Wild Rift", "proof": "https://wildrift.leagueoflegends.com/en-us/news/dev/eyntk-wild-rounds-smash-2026", "include": "^(?!.*\\b(?:trailer|patch|cosplay|k/da)\\b)(?=.*\\b(?:smash|wild rounds|icons|wrl|finals?|vs\\.?)\\b).*\\b(?:highlights?|top plays?|best plays?|best moments?)\\b"}
+  ]
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eSportly — the blog</title>
+    <link>https://esportly.eu/blog</link>
+    <atom:link href="https://esportly.eu/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description>App news, behind the scenes and tips.</description>
+    <language>en</language>
+    <item>
+      <title>BLAST Premier Open 3 heads to the USA in September 2027</title>
+      <link>https://esportly.eu/blog/2026-11-09-blast-premier-open-3-2027</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/2026-11-09-blast-premier-open-3-2027</guid>
+      <description>BLAST announces the third BLAST Premier Open: 16 Counter-Strike teams in the US, 3 to 12 September 2027, for a combined $1.25 million.</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0100</pubDate>
+      <category>counter-strike-2</category>
+    </item>
+    <item>
+      <title>Esports Nations Cup postponed to November 2027</title>
+      <link>https://esportly.eu/blog/2026-11-09-enc-reporte-novembre-2027</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/2026-11-09-enc-reporte-novembre-2027</guid>
+      <description>The inaugural Esports Nations Cup, planned for November 2026 in Riyadh, is postponed to November 2027: the organisers' reasons, in one read.</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0100</pubDate>
+      <category>esportly</category>
+    </item>
+    <item>
+      <title>ALGS Split 2 Playoffs in Las Vegas: format, teams, prizes</title>
+      <link>https://esportly.eu/blog/algs-split-2-playoffs-2026</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/algs-split-2-playoffs-2026</guid>
+      <description>ALGS Split 2 playoffs in Las Vegas, October 29 to November 1: format, 40 teams, $2M prize pool, Paris viewing times and what comes next.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
+      <category>esportly</category>
+    </item>
+    <item>
+      <title>PGL Masters Bucharest 2026: FURIA and Nemiga in the final</title>
+      <link>https://esportly.eu/blog/pgl-masters-bucarest-2026</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/pgl-masters-bucarest-2026</guid>
+      <description>Nemiga vs FURIA in the PGL Masters Bucharest final on October 31: format, 16 teams, $1,250,000 prize pool, where to watch and the Singapore Major.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
+      <category>counter-strike-2</category>
+    </item>
+    <item>
+      <title>Worlds 2026 quarterfinals from Nov 3: teams, times, where to watch</title>
+      <link>https://esportly.eu/blog/worlds-2026-quarts</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/worlds-2026-quarts</guid>
+      <description>The Worlds 2026 quarterfinals start November 3 in Allen: qualified teams, the draw, best-of-five format, Paris times and where to watch, with sources.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
+      <category>league-of-legends</category>
+    </item>
+    <item>
+      <title>Call of Duty esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/call-of-duty</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/call-of-duty</guid>
+      <description>How does Call of Duty esports work? The game, the Call of Duty League, its Majors and Champs, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>call-of-duty</category>
+    </item>
+    <item>
+      <title>Counter-Strike 2 esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/counter-strike-2</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/counter-strike-2</guid>
+      <description>How does Counter-Strike 2 esports work? The game, its tournament scene, the Major, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>counter-strike-2</category>
+    </item>
+    <item>
+      <title>Dota 2 esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/dota-2</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/dota-2</guid>
+      <description>How does Dota 2 esports work? The game, its tournament circuits, The International, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>dota-2</category>
+    </item>
+    <item>
+      <title>EA Sports FC esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/ea-sports-fc</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/ea-sports-fc</guid>
+      <description>How does EA Sports FC esports work? The game, the FC Pro circuit and partner leagues, the FC Pro World Championship and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>ea-sports-fc</category>
+    </item>
+    <item>
+      <title>Honor of Kings esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/honor-of-kings</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/honor-of-kings</guid>
+      <description>How does Honor of Kings esports work? The game, the KPL and regional leagues, the Honor of Kings World Cup, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>honor-of-kings</category>
+    </item>
+    <item>
+      <title>League of Legends esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/league-of-legends</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/league-of-legends</guid>
+      <description>How does League of Legends esports work? The game, its pro leagues, Worlds and MSI, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>league-of-legends</category>
+    </item>
+    <item>
+      <title>Mobile Legends esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/mobile-legends</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/mobile-legends</guid>
+      <description>How does Mobile Legends esports work? The game, the MPL leagues, the M Series world championship and the MSC, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>mobile-legends</category>
+    </item>
+    <item>
+      <title>Overwatch 2 esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/overwatch-2</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/overwatch-2</guid>
+      <description>How does Overwatch 2 esports work? The game, the Overwatch Champions Series, its World Finals and the World Cup, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>overwatch-2</category>
+    </item>
+    <item>
+      <title>Rainbow Six Siege esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/rainbow-six-siege</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/rainbow-six-siege</guid>
+      <description>How does Rainbow Six Siege esports work? The game, Ubisoft's pro circuit, the Six Invitational and the Majors, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>rainbow-six-siege</category>
+    </item>
+    <item>
+      <title>Valorant esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/valorant</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/valorant</guid>
+      <description>How does Valorant esports work? The game, the Valorant Champions Tour, Masters and Champions, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>valorant</category>
+    </item>
+    <item>
+      <title>Wild Rift esports: the game and its pro scene</title>
+      <link>https://esportly.eu/blog/wild-rift</link>
+      <guid isPermaLink="true">https://esportly.eu/blog/wild-rift</guid>
+      <description>How does Wild Rift esports work? The game, Riot's leagues and Wild Rounds, the Icons championship and Smash, and where to watch, with our sources.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0100</pubDate>
+      <category>wild-rift</category>
+    </item>
+  </channel>
+</rss>

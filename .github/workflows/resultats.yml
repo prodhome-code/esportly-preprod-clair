@@ -1,0 +1,85 @@
+# Chaque soir : dire que la phase finale d'un grand événement a avancé, sans jamais publier un score ni un nom d'équipe.
+#
+# Le site savait annoncer le début d'une phase finale (« les quarts commencent le 3 novembre ») mais rien après : les News
+# restaient figées pendant qu'un tournoi se jouait. Ce robot lit le calendrier de chaque événement en phase finale (une requête
+# par événement, les mêmes calendriers que « Matchs du jour »), écrit une carte par événement dont des matchs ont été joués dans
+# la journée (resultats.py), puis refabrique les pages News (actualites.py) et envoie.
+#
+# Il ne publie ni score ni nom d'équipe : les scores restent cachés derrière un clic sur la page de chaque match. Sans match de
+# phase finale dans la journée, il n'écrit rien et ne commite rien.
+name: Résultats du soir
+on:
+  schedule:
+    - cron: "40 22 * * *"   # 23 h 40 à Paris en hiver : après les matchs du soir, avant minuit (la carte porte le bon jour)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: matchs   # le même que « Matchs du jour » et « Fins de matchs » : jamais deux robots dans le dépôt en même temps
+  cancel-in-progress: false
+jobs:
+  resultats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"   # les .pyc de __pycache__ sont suivis par git : sans cela, chaque passage aurait « quelque chose à envoyer »
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # la tête de main au démarrage, pas le commit du déclenchement
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Cartes des résultats du soir
+        id: maj
+        timeout-minutes: 3
+        run: |
+          python3 .github/scripts/resultats.py
+          # Seul news/news.json peut changer ici : c'est lui qui dit s'il y a quelque chose à refabriquer.
+          if [ -n "$(git status --porcelain -- news)" ]; then echo "change=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Mise à jour des news
+        if: steps.maj.outputs.change == 'true'
+        timeout-minutes: 3
+        run: python3 .github/scripts/actualites.py
+      # Les pages refabriquées repartent des modèles : mêmes retouches que dans « Matchs du jour ».
+      - name: Menu du site sur toutes les pages
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/menu_partout.py
+      # Refonte 2026 : thème clair par défaut sur les pages fabriquées plus haut (elles repartent de modèles
+      # qui ne l'ont pas). Rejouable, ne touche ni les scripts ni la CSP.
+      - name: Thème clair de la refonte
+        run: python3 .github/scripts/theme_clair.py
+      # Logos des équipes : les listes d'équipes fabriquées plus haut sont du texte ; on leur remet logo et nom. Rejouable.
+      - name: Logos sur les listes d'équipes
+        run: python3 .github/scripts/logos_equipes.py
+      # Logos sur les cartes de match : les listes fabriquées plus haut sont du texte ; on met le logo (ou les initiales) devant
+      # chaque équipe. Rejouable.
+      - name: Logos sur les cartes de match
+        run: python3 .github/scripts/logos_matchs.py
+      - name: Titles et métadescriptions SEO
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/titres_seo.py
+      - name: Mesure d'audience sur toutes les pages
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/analytics.py
+      - name: QR code sur ordinateur
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/qr_ordinateur.py
+      - name: App Store (après la sortie)
+        if: steps.maj.outputs.change == 'true'
+        run: python3 .github/scripts/bascule_appstore.py
+      - name: Envoi si quelque chose a changé
+        if: steps.maj.outputs.change == 'true'
+        run: |
+          git config user.name "eSportly (mise à jour automatique)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Résultats du soir"
+          # Johan ou une autre session a pu envoyer entre-temps : on se remet par-dessus avant d'envoyer.
+          for essai in 1 2 3; do
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1

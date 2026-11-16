@@ -1,0 +1,54 @@
+# Contrôle automatique des pull requests de la veille : le code décide, pas l'agent.
+# Spec : docs/superpowers/specs/2026-10-27-veille-design.md (§7). Toute branche « veille/… » est contrôlée :
+# chemins autorisés (contenu seul), format du Blog, sources de la liste blanche, extraits retrouvés, originalité,
+# volume (3 articles par jour au plus) et interrupteur STOP. Un seul problème refuse la pull request.
+name: Veille — contrôle
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: read
+  pull-requests: write
+concurrency:
+  group: veille-controle-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  controle:
+    # « veille/AAAA-MM-JJ » est le nom prévu ; « veille-AAAA-MM-JJ » est accepté aussi, pour qu'un tiret
+    # (une branche « veille » qui traîne, par exemple) ne fasse pas passer une PR sans contrôle.
+    if: startsWith(github.head_ref, 'veille/') || startsWith(github.head_ref, 'veille-')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"   # sinon Python écrit un .pyc non suivi et le contrôle le prend pour un fichier modifié
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0   # git diff origin/main...HEAD : la liste des fichiers de la pull request
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Base des fuseaux (jour de Paris)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tzdata
+      - name: Contrôle (veille.py gate)
+        id: gate
+        continue-on-error: true
+        run: |
+          set -o pipefail   # sans cela, le code de sortie de veille.py est avalé par tee et un refus passe pour un succès
+          python3 .github/scripts/veille.py gate 2>&1 | tee /tmp/gate.txt
+      - name: Commentaire dans la pull request
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ "${{ steps.gate.outcome }}" = "success" ]; then verdict="conforme"; else verdict="refusé"; fi
+          { echo "**Veille — contrôle : $verdict**"; echo; echo '```'; cat /tmp/gate.txt 2>/dev/null || true; echo '```'; } > /tmp/commentaire.md
+          gh pr comment "$PR" --body-file /tmp/commentaire.md || true
+      - name: Échec si le contrôle refuse
+        if: steps.gate.outcome != 'success'
+        run: |
+          echo "Le contrôle a refusé cette pull request (voir le commentaire)."
+          exit 1

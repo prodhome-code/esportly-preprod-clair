@@ -1,0 +1,203 @@
+{
+  "kind": "game",
+  "game": "counter-strike-2",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Counter-Strike 2 on Steam", "url": "https://store.steampowered.com/app/730/CounterStrike_2/"},
+    {"id": "s2", "title": "Valve: CS Major Supplemental Rulebook", "url": "https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/major-supplemental-rulebook.md"},
+    {"id": "s3", "title": "Valve: Counter-Strike Tournament Operation Requirements", "url": "https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md"},
+    {"id": "s4", "title": "ESL Pro Tour: Counter-Strike", "url": "https://pro.eslgaming.com/tour/cs/"},
+    {"id": "s5", "title": "ESL: Counter-Strike Community Broadcast Guidelines", "url": "https://esl.com/cs/community-broadcast-guidelines/"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "Counter-Strike 2 in brief",
+        "text": [
+          "Counter-Strike 2 is a free-to-play competitive action game developed and published by Valve; at the top level, it is played by teams of five. It carries on a series that has offered high-level competition for more than twenty years, built on the objective-based play the original Counter-Strike introduced in 1999. It arrived as a free upgrade to Counter-Strike: Global Offensive.",
+          "Recent Majors have used the maps of the Active Duty group, with the two teams taking turns striking and picking maps before each series. Matches deciding whether a team goes through or goes out have been a best of three, the others a single map."
+        ]
+      },
+      "fr": {
+        "heading": "Counter-Strike 2 en bref",
+        "text": [
+          "Counter-Strike 2 est un jeu d'action compétitif et gratuit, développé et édité par Valve ; au haut niveau, il se joue en équipes de cinq. Il prolonge une série qui offre une compétition de haut niveau depuis plus de vingt ans, fondée sur le jeu à objectifs que le premier Counter-Strike a introduit en 1999. Il est arrivé comme mise à jour gratuite de Counter-Strike: Global Offensive.",
+          "Les Majors récents se sont joués sur les cartes du groupe Active Duty, les deux équipes retirant et choisissant des cartes à tour de rôle avant chaque série. Les matchs qui décidaient si une équipe se qualifiait ou était éliminée se jouaient au meilleur des trois cartes, les autres sur une seule carte."
+        ]
+      },
+      "es": {
+        "heading": "Counter-Strike 2 en pocas palabras",
+        "text": [
+          "Counter-Strike 2 es un juego de acción competitivo y gratuito que Valve desarrolla y publica; en el más alto nivel se juega en equipos de cinco. Continúa una saga que lleva más de veinte años ofreciendo competición de alto nivel, basada en el juego por objetivos que introdujo el primer Counter-Strike en 1999. Llegó como actualización gratuita de Counter-Strike: Global Offensive.",
+          "Los Majors recientes se han jugado en los mapas del grupo Active Duty, y antes de cada serie los dos equipos se han turnado para descartar y elegir mapas. Los partidos que decidían si un equipo avanzaba o quedaba eliminado se jugaban al mejor de tres mapas; el resto, en un solo mapa."
+        ]
+      },
+      "de": {
+        "heading": "Counter-Strike 2 im Überblick",
+        "text": [
+          "Counter-Strike 2 ist ein kostenloses, kompetitives Actionspiel, das Valve entwickelt und veröffentlicht; auf höchstem Niveau wird es in Fünferteams gespielt. Es setzt eine Reihe fort, die seit mehr als zwanzig Jahren Wettkampf auf hohem Niveau bietet und auf dem zielbasierten Spielprinzip beruht, das das erste Counter-Strike 1999 einführte. Es erschien als kostenloses Upgrade von Counter-Strike: Global Offensive.",
+          "Bei den jüngsten Majors wurde auf den Maps der Gruppe Active Duty gespielt; vor jeder Serie strichen und wählten die beiden Teams abwechselnd Maps. Spiele, die über Weiterkommen oder Ausscheiden entschieden, liefen im Best-of-three, die übrigen auf nur einer Map."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Counter-Strike 2 em resumo",
+        "text": [
+          "Counter-Strike 2 é um jogo de ação competitivo e gratuito que a Valve desenvolve e publica; no mais alto nível, é jogado em equipes de cinco. Ele dá continuidade a uma série que oferece competição de alto nível há mais de vinte anos, baseada no jogo por objetivos que o primeiro Counter-Strike introduziu em 1999. Chegou como uma atualização gratuita de Counter-Strike: Global Offensive.",
+          "Os Majors recentes foram disputados nos mapas do grupo Active Duty, com as duas equipes se revezando para vetar e escolher mapas antes de cada série. As partidas que decidiam se uma equipe avançava ou era eliminada eram disputadas em melhor de três mapas; as demais, em um único mapa."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4"],
+      "en": {
+        "heading": "How Counter-Strike 2 esports works",
+        "text": [
+          "Counter-Strike tournaments, the Majors included, are staged by organisers who need a licence from Valve. In Valve's view, Counter-Strike must remain an open sport, so its rules for large tournaments limit direct invitations, require transparency on what teams are paid and forbid deals that would keep teams out of other competitions.",
+          "Invitations to the biggest events follow the Valve Regional Standings (VRS), Valve's official ranking of rosters, which is updated regularly from the results of the tournaments that count towards it.",
+          "Organisers also build their own circuits, such as the ESL Pro Tour, meant to lead from amateur level to the professional game. Valve revises its requirements from time to time and formats vary, so each competition's official site is the place to check how it currently works."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne l'esport Counter-Strike 2",
+        "text": [
+          "Les tournois de Counter-Strike, Majors compris, sont montés par des organisateurs qui doivent obtenir une licence de Valve. Pour Valve, Counter-Strike doit rester un sport ouvert : ses règles pour les grands tournois limitent donc les invitations directes, imposent la transparence sur ce que touchent les équipes et interdisent les accords qui empêcheraient des équipes de disputer d'autres compétitions.",
+          "Les invitations aux plus grands événements suivent le Valve Regional Standings (VRS), le classement officiel des effectifs établi par Valve, mis à jour régulièrement à partir des résultats des tournois qui comptent pour ce classement.",
+          "Les organisateurs construisent aussi leurs propres circuits, comme l'ESL Pro Tour, conçu pour mener du niveau amateur au jeu professionnel. Valve révise ses exigences de temps en temps et les formats varient : c'est donc sur le site officiel de chaque compétition qu'il faut vérifier son fonctionnement actuel."
+        ]
+      },
+      "es": {
+        "heading": "Cómo funcionan los esports de Counter-Strike 2",
+        "text": [
+          "Los torneos de Counter-Strike, Majors incluidos, los montan organizadores que necesitan una licencia de Valve. Para Valve, Counter-Strike debe seguir siendo un deporte abierto, así que sus normas para los grandes torneos limitan las invitaciones directas, exigen transparencia sobre lo que cobran los equipos y prohíben los acuerdos que impidan a un equipo disputar otras competiciones.",
+          "Las invitaciones a los mayores eventos siguen el Valve Regional Standings (VRS), la clasificación oficial de plantillas que elabora Valve y que se actualiza con regularidad a partir de los resultados de los torneos que cuentan para ella.",
+          "Los organizadores también crean sus propios circuitos, como el ESL Pro Tour, pensado para llevar del nivel amateur al juego profesional. Valve revisa sus requisitos de vez en cuando y los formatos varían, así que la web oficial de cada competición es el lugar donde comprobar cómo funciona en cada momento."
+        ]
+      },
+      "de": {
+        "heading": "So funktioniert der E-Sport in Counter-Strike 2",
+        "text": [
+          "Counter-Strike-Turniere, die Majors eingeschlossen, werden von Veranstaltern ausgerichtet, die dafür eine Lizenz von Valve brauchen. Nach Valves Auffassung muss Counter-Strike ein offener Sport bleiben; seine Regeln für große Turniere begrenzen deshalb direkte Einladungen, verlangen Transparenz darüber, was Teams bezahlt bekommen, und verbieten Vereinbarungen, die Teams von anderen Wettbewerben fernhalten würden.",
+          "Die Einladungen zu den größten Events richten sich nach den Valve Regional Standings (VRS), Valves offizieller Rangliste der Line-ups, die regelmäßig anhand der Ergebnisse der Turniere aktualisiert wird, die in sie einfließen.",
+          "Darüber hinaus bauen Veranstalter eigene Circuits auf, etwa die ESL Pro Tour, die vom Amateurbereich bis in den Profisport führen soll. Valve überarbeitet seine Vorgaben von Zeit zu Zeit, und die Formate unterscheiden sich; wie ein Wettbewerb aktuell funktioniert, steht daher auf seiner offiziellen Website."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funcionam os esports de Counter-Strike 2",
+        "text": [
+          "Os torneios de Counter-Strike, incluindo os Majors, são realizados por organizadores que precisam de uma licença da Valve. Para a Valve, Counter-Strike deve continuar sendo um esporte aberto, por isso suas regras para grandes torneios limitam os convites diretos, exigem transparência sobre o que as equipes recebem e proíbem acordos que impeçam equipes de disputar outras competições.",
+          "Os convites para os maiores eventos seguem o Valve Regional Standings (VRS), o ranking oficial de elencos elaborado pela Valve, atualizado regularmente com os resultados dos torneios que contam para ele.",
+          "Os organizadores também montam seus próprios circuitos, como o ESL Pro Tour, pensado para levar do nível amador ao jogo profissional. A Valve revisa suas exigências de tempos em tempos e os formatos variam, por isso o site oficial de cada competição é o lugar para conferir como ela funciona atualmente."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s4"],
+      "en": {
+        "heading": "The Major and the other big tournaments",
+        "text": [
+          "The Major is the Counter-Strike tournament sponsored by Valve. In Valve's words, it aims to gather the world's best players on LAN, let them fight for the title and show millions of players how high the level can go.",
+          "An organiser stages each Major, but Valve sets rules that must be identical at every one, from invitations, handed out according to the Valve Regional Standings, to the format. Recent Majors have whittled the field down over several Swiss-system stages, in which teams meet opponents with the same record, before the last eight play a knockout bracket.",
+          "Organisers also run big events of their own, such as ESL's Intel Extreme Masters (IEM), a series that Intel and ESL launched in 2006."
+        ]
+      },
+      "fr": {
+        "heading": "Le Major et les autres grands tournois",
+        "text": [
+          "Le Major est le tournoi de Counter-Strike parrainé par Valve. Selon Valve, il doit réunir les meilleurs joueurs du monde en LAN, leur permettre de se disputer le titre et montrer à des millions de joueurs jusqu'où peut aller le niveau.",
+          "Un organisateur met sur pied chaque Major, mais Valve fixe des règles qui doivent être identiques d'un Major à l'autre, des invitations, attribuées d'après le Valve Regional Standings, jusqu'au format. Les Majors récents ont réduit le plateau au fil de plusieurs étapes au système suisse, où chaque équipe rencontre des adversaires au même bilan, avant que les huit dernières ne s'affrontent dans un tableau à élimination directe.",
+          "Les organisateurs proposent aussi leurs propres grands événements, comme l'Intel Extreme Masters (IEM) de l'ESL, une série lancée par Intel et l'ESL en 2006."
+        ]
+      },
+      "es": {
+        "heading": "El Major y los demás grandes torneos",
+        "text": [
+          "El Major es el torneo de Counter-Strike patrocinado por Valve. Según Valve, su objetivo es reunir en LAN a los mejores jugadores del mundo, darles la ocasión de pelear por el título y mostrar a millones de jugadores hasta dónde puede llegar el nivel.",
+          "Cada Major lo monta un organizador, pero Valve fija unas normas que deben ser idénticas en todos, desde las invitaciones, que se reparten según el Valve Regional Standings, hasta el formato. Los Majors recientes han ido reduciendo el cuadro a lo largo de varias fases con sistema suizo, en las que cada equipo se mide con rivales que llevan el mismo balance, antes de que los ocho últimos jueguen un cuadro eliminatorio.",
+          "Los organizadores también celebran grandes eventos propios, como la Intel Extreme Masters (IEM) de ESL, una serie que Intel y ESL pusieron en marcha en 2006."
+        ]
+      },
+      "de": {
+        "heading": "Das Major und die anderen großen Turniere",
+        "text": [
+          "Das Major ist das von Valve gesponserte Counter-Strike-Turnier. Nach Valves Worten soll es die besten Spieler der Welt im LAN zusammenbringen, ihnen die Chance auf den Titel geben und Millionen von Spielern zeigen, wie hoch das Niveau reichen kann.",
+          "Jedes Major wird von einem Veranstalter ausgerichtet, doch Valve legt Regeln fest, die bei jedem Major gleich sein müssen – von den Einladungen, die nach den Valve Regional Standings vergeben werden, bis zum Format. Die jüngsten Majors haben das Feld über mehrere Phasen im Schweizer System verkleinert, in denen Teams auf Gegner mit derselben Bilanz treffen, bevor die letzten acht ein K.-o.-Bracket spielen.",
+          "Veranstalter richten auch eigene große Events aus, etwa die Intel Extreme Masters (IEM) der ESL, eine Reihe, die Intel und die ESL 2006 ins Leben riefen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O Major e os outros grandes torneios",
+        "text": [
+          "O Major é o torneio de Counter-Strike patrocinado pela Valve. Nas palavras da Valve, ele busca reunir os melhores jogadores do mundo em LAN, dar a eles a chance de disputar o título e mostrar a milhões de jogadores até onde o nível pode chegar.",
+          "Cada Major é realizado por um organizador, mas a Valve define regras que precisam ser idênticas em todos eles, dos convites, distribuídos de acordo com o Valve Regional Standings, ao formato. Os Majors recentes foram reduzindo o número de equipes ao longo de várias fases no sistema suíço, em que cada equipe enfrenta adversários com a mesma campanha, antes de as oito últimas disputarem uma chave eliminatória.",
+          "Os organizadores também promovem grandes eventos próprios, como a Intel Extreme Masters (IEM), da ESL, uma série que a Intel e a ESL lançaram em 2006."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4", "s5"],
+      "en": {
+        "heading": "How to watch Counter-Strike 2 esports",
+        "text": [
+          "Organisers broadcast their tournaments on their official channels on the main streaming platforms, often across several parallel streams. ESL, for one, lets community creators broadcast its open qualifiers on their own channels under its guidelines, while its main events are kept for the official broadcast and approved partners.",
+          "Valve's rules oblige organisers to publish key details in advance, such as the dates, which stages are online or on LAN, how teams are invited and how the prize pool is shared, so each tournament's official site is the best place to find them.",
+          "At a Major, match results also reach the game itself, whose client shows them to all players."
+        ]
+      },
+      "fr": {
+        "heading": "Comment suivre l'esport Counter-Strike 2",
+        "text": [
+          "Les organisateurs diffusent leurs tournois sur leurs chaînes officielles, sur les principales plateformes de streaming, souvent sur plusieurs flux en parallèle. L'ESL, par exemple, laisse les créateurs de la communauté diffuser ses qualifications ouvertes sur leurs propres chaînes en suivant ses consignes, tandis que ses événements principaux sont réservés à la diffusion officielle et aux partenaires agréés.",
+          "Les règles de Valve obligent les organisateurs à publier à l'avance les informations essentielles, comme les dates, les étapes jouées en ligne ou en LAN, la façon dont les équipes sont invitées et la répartition de la cagnotte : le site officiel de chaque tournoi est donc le meilleur endroit pour les trouver.",
+          "Lors d'un Major, les résultats des matchs arrivent aussi dans le jeu, dont le client les affiche à tous les joueurs."
+        ]
+      },
+      "es": {
+        "heading": "Cómo ver los esports de Counter-Strike 2",
+        "text": [
+          "Los organizadores retransmiten sus torneos en sus canales oficiales de las principales plataformas de streaming, a menudo en varias señales a la vez. ESL, por ejemplo, deja que los creadores de la comunidad emitan sus clasificatorios abiertos en sus propios canales siguiendo sus normas, mientras que sus eventos principales quedan reservados a la retransmisión oficial y a los socios autorizados.",
+          "Las normas de Valve obligan a los organizadores a publicar con antelación los datos clave, como las fechas, qué fases se juegan en línea o en LAN, cómo se invita a los equipos y cómo se reparte la bolsa de premios, así que la web oficial de cada torneo es el mejor sitio para consultarlos.",
+          "En un Major, los resultados de los partidos llegan también al propio juego, cuyo cliente los muestra a todos los jugadores."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du Counter-Strike-2-E-Sport",
+        "text": [
+          "Die Veranstalter übertragen ihre Turniere auf ihren offiziellen Kanälen auf den großen Streaming-Plattformen, oft über mehrere parallele Streams. Die ESL etwa lässt Content Creator aus der Community ihre offenen Qualifikationen nach ihren Richtlinien auf eigenen Kanälen übertragen, während die Hauptevents der offiziellen Übertragung und zugelassenen Partnern vorbehalten sind.",
+          "Valves Regeln verpflichten die Veranstalter, die wichtigsten Angaben vorab zu veröffentlichen, etwa die Termine, welche Phasen online oder im LAN stattfinden, wie Teams eingeladen werden und wie das Preisgeld verteilt wird; die offizielle Website eines Turniers ist daher die beste Anlaufstelle dafür.",
+          "Bei einem Major landen die Ergebnisse der Matches auch im Spiel selbst, dessen Client sie allen Spielern anzeigt."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Counter-Strike 2",
+        "text": [
+          "Os organizadores transmitem seus torneios em seus canais oficiais nas principais plataformas de streaming, muitas vezes em várias transmissões paralelas. A ESL, por exemplo, permite que criadores de conteúdo da comunidade transmitam suas qualificatórias abertas nos próprios canais, seguindo suas diretrizes, enquanto os eventos principais ficam reservados à transmissão oficial e a parceiros autorizados.",
+          "As regras da Valve obrigam os organizadores a publicar com antecedência as informações essenciais, como as datas, quais fases são jogadas online ou em LAN, como as equipes são convidadas e como a premiação é dividida; por isso, o site oficial de cada torneio é o melhor lugar para encontrá-las.",
+          "Em um Major, os resultados das partidas também chegam ao próprio jogo, cujo cliente os mostra a todos os jogadores."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Counter-Strike 2 esports: the game and its pro scene",
+    "description": "How does Counter-Strike 2 esports work? The game, its tournament scene, the Major, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Counter-Strike 2 : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Counter-Strike 2 ? Le jeu, sa scène de tournois, le Major, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Counter-Strike 2: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Counter-Strike 2? El juego, su escena de torneos, el Major, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Counter-Strike 2: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Counter-Strike 2? Das Spiel, die Turnierszene, das Major und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Counter-Strike 2: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Counter-Strike 2? O jogo, sua cena de torneios, o Major, e onde assistir, com as fontes usadas."
+  }
+}

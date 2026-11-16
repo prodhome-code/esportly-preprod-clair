@@ -1,0 +1,230 @@
+{
+  "kind": "news",
+  "game": "league-of-legends",
+  "date": "2026-10-31",
+  "updated": "2026-10-31",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "LoL Esports: Worlds 2026 Primer", "url": "https://lolesports.com/en-US/news/worlds-2026-primer"},
+    {"id": "s2", "title": "Timesaver: Worlds 2026 Swiss Stage Standings, Results and Format", "url": "https://timesaver.gg/blog/worlds-2026-swiss-stage-standings"},
+    {"id": "s3", "title": "ESTNN: Worlds 2026 Results and Standings Tracker", "url": "https://estnn.com/worlds-2026-results-standings-tracker/"},
+    {"id": "s4", "title": "Legendstracker: Worlds 2026 Schedule, Teams and Format", "url": "https://legendstracker.fr/en/lol/worlds"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "Worlds 2026 quarterfinals at a glance",
+        "text": [
+          "The Worlds 2026 quarterfinals (League of Legends) start on Tuesday, November 3, in Allen, Texas. One best-of-five quarterfinal is played each day until Friday, November 6, and matches start at 11 pm Paris time. The semifinals follow on November 7 and 8 in the same arena, and the final is on Saturday, November 14, in Brooklyn, at 8 pm Paris time.",
+          "Five teams are already through: Gen.G, Dplus KIA, T1, Invictus Gaming and Top Esports. The last three places are decided on October 31, the final day of the Swiss stage, and the quarterfinal draw takes place the same day."
+        ]
+      },
+      "fr": {
+        "heading": "Worlds 2026 : l'essentiel sur les quarts de finale",
+        "text": [
+          "Les quarts de finale des Worlds 2026 (League of Legends) commencent le mardi 3 novembre à Allen, au Texas. Un quart de finale au meilleur des 5 manches est joué chaque jour jusqu'au vendredi 6 novembre, avec un début à 23 h, heure de Paris. Les demi-finales suivent les 7 et 8 novembre dans la même salle, et la finale a lieu le samedi 14 novembre à Brooklyn, à 20 h, heure de Paris.",
+          "Cinq équipes sont déjà qualifiées : Gen.G, Dplus KIA, T1, Invictus Gaming et Top Esports. Les trois dernières places se jouent le 31 octobre, dernier jour de la phase suisse, et le tirage au sort des quarts a lieu le même jour."
+        ]
+      },
+      "es": {
+        "heading": "Los cuartos de final de Worlds 2026, en resumen",
+        "text": [
+          "Los cuartos de final de Worlds 2026 (League of Legends) empiezan el martes 3 de noviembre en Allen, Texas. Cada día se juega un cuarto al mejor de cinco partidas hasta el viernes 6 de noviembre, con inicio a las 23:00, hora de París. Las semifinales siguen el 7 y el 8 de noviembre en el mismo recinto, y la final es el sábado 14 de noviembre en Brooklyn, a las 20:00, hora de París.",
+          "Cinco equipos ya están clasificados: Gen.G, Dplus KIA, T1, Invictus Gaming y Top Esports. Las tres últimas plazas se deciden el 31 de octubre, último día de la fase suiza, y el sorteo de los cuartos se celebra ese mismo día."
+        ]
+      },
+      "de": {
+        "heading": "Die Viertelfinals der Worlds 2026 im Überblick",
+        "text": [
+          "Die Viertelfinals der Worlds 2026 (League of Legends) beginnen am Dienstag, 3. November, in Allen, Texas. Bis Freitag, 6. November, wird jeden Tag ein Viertelfinale im Best of 5 gespielt, Beginn ist um 23 Uhr Pariser Zeit. Die Halbfinals folgen am 7. und 8. November in derselben Halle, das Finale steigt am Samstag, 14. November, in Brooklyn, um 20 Uhr Pariser Zeit.",
+          "Fünf Teams sind schon qualifiziert: Gen.G, Dplus KIA, T1, Invictus Gaming und Top Esports. Die letzten drei Plätze werden am 31. Oktober vergeben, dem letzten Tag der Schweizer Phase, und die Auslosung der Viertelfinals findet am selben Tag statt."
+        ]
+      },
+      "pt-BR": {
+        "heading": "As quartas de final do Worlds 2026 em resumo",
+        "text": [
+          "As quartas de final do Worlds 2026 (League of Legends) começam na terça-feira, 3 de novembro, em Allen, no Texas. Uma quarta de final em melhor de cinco é disputada por dia até sexta-feira, 6 de novembro, com início às 23h, horário de Paris. As semifinais vêm em 7 e 8 de novembro no mesmo local, e a final acontece no sábado, 14 de novembro, no Brooklyn, às 20h, horário de Paris.",
+          "Cinco equipes já estão classificadas: Gen.G, Dplus KIA, T1, Invictus Gaming e Top Esports. As três últimas vagas são decididas em 31 de outubro, último dia da fase suíça, e o sorteio das quartas acontece no mesmo dia."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "The qualified teams and the draw",
+        "text": [
+          "Gen.G and Dplus KIA finished the Swiss stage at 3-0. T1, Invictus Gaming and Top Esports qualified at 3-1. For the three remaining places, six teams at 2-2 play best-of-three series on Saturday, October 31: Movistar KOI vs Karmine Corp (starting at 6 pm Paris time), LOS vs LYON (9 pm) and Hanwha Life Esports vs Bilibili Gaming (midnight). Each winner qualifies at 3-2 and each loser is out.",
+          "So the bracket was not set when we wrote this. The draw comes right after the Swiss stage: it pairs the two 3-0 teams with two of the 3-2 teams, then the remaining four teams are drawn into two more matches."
+        ]
+      },
+      "fr": {
+        "heading": "Les équipes qualifiées et le tirage",
+        "text": [
+          "Gen.G et Dplus KIA ont terminé la phase suisse sur un 3-0. T1, Invictus Gaming et Top Esports se sont qualifiées à 3-1. Pour les trois places restantes, six équipes à 2-2 jouent samedi 31 octobre des séries en deux manches gagnantes : Movistar KOI contre Karmine Corp (début à 18 h, heure de Paris), LOS contre LYON (21 h) et Hanwha Life Esports contre Bilibili Gaming (minuit). Chaque vainqueur se qualifie à 3-2, chaque perdant est éliminé.",
+          "Le tableau n'était donc pas connu au moment de la rédaction. Le tirage au sort suit la phase suisse : il oppose les deux équipes à 3-0 à deux des équipes à 3-2, puis les quatre équipes restantes sont tirées au sort pour former deux autres affiches."
+        ]
+      },
+      "es": {
+        "heading": "Los equipos clasificados y el sorteo",
+        "text": [
+          "Gen.G y Dplus KIA terminaron la fase suiza con un 3-0. T1, Invictus Gaming y Top Esports se clasificaron con un 3-1. Por las tres plazas restantes, seis equipos con 2-2 juegan el sábado 31 de octubre series al mejor de tres: Movistar KOI contra Karmine Corp (inicio a las 18:00, hora de París), LOS contra LYON (21:00) y Hanwha Life Esports contra Bilibili Gaming (medianoche). Cada ganador se clasifica con 3-2 y cada perdedor queda eliminado.",
+          "Por eso el cuadro no estaba definido cuando escribimos esto. El sorteo llega justo después de la fase suiza: empareja a los dos equipos con 3-0 con dos de los equipos con 3-2, y los cuatro restantes se sortean para formar otros dos cruces."
+        ]
+      },
+      "de": {
+        "heading": "Die qualifizierten Teams und die Auslosung",
+        "text": [
+          "Gen.G und Dplus KIA haben die Schweizer Phase mit 3-0 beendet. T1, Invictus Gaming und Top Esports sind mit 3-1 durch. Um die drei restlichen Plätze spielen sechs Teams mit 2-2 am Samstag, 31. Oktober, Best-of-3-Serien: Movistar KOI gegen Karmine Corp (Beginn 18 Uhr Pariser Zeit), LOS gegen LYON (21 Uhr) und Hanwha Life Esports gegen Bilibili Gaming (Mitternacht). Jeder Sieger qualifiziert sich mit 3-2, jeder Verlierer scheidet aus.",
+          "Der Spielplan stand beim Schreiben also noch nicht fest. Die Auslosung folgt direkt auf die Schweizer Phase: Sie paart die beiden Teams mit 3-0 mit zwei der Teams mit 3-2, die vier übrigen Teams werden dann für zwei weitere Partien gelost."
+        ]
+      },
+      "pt-BR": {
+        "heading": "As equipes classificadas e o sorteio",
+        "text": [
+          "Gen.G e Dplus KIA terminaram a fase suíça com 3-0. T1, Invictus Gaming e Top Esports se classificaram com 3-1. Pelas três vagas restantes, seis equipes com 2-2 jogam no sábado, 31 de outubro, séries melhor de três: Movistar KOI contra Karmine Corp (início às 18h, horário de Paris), LOS contra LYON (21h) e Hanwha Life Esports contra Bilibili Gaming (meia-noite). Cada vencedor se classifica com 3-2, e cada perdedor está eliminado.",
+          "Por isso a chave ainda não estava definida quando escrevemos este texto. O sorteio vem logo após a fase suíça: ele enfrenta as duas equipes com 3-0 contra duas das equipes com 3-2, e as quatro restantes são sorteadas para formar mais dois confrontos."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s2", "s4"],
+      "en": {
+        "heading": "Format, venues and calendar",
+        "text": [
+          "The knockout stage is single elimination: eight teams, every series best of five. The quarterfinals run from Tuesday, November 3 to Friday, November 6, and the semifinals on Saturday, November 7 and Sunday, November 8. All of them start at 11 pm Paris time at the Credit Union of Texas Event Center in Allen.",
+          "The final is played on Saturday, November 14, at the Barclays Center in Brooklyn, New York, at 8 pm Paris time. Europe moved to winter time on October 25, and all the times in this article already take that into account."
+        ]
+      },
+      "fr": {
+        "heading": "Format, lieux et calendrier",
+        "text": [
+          "La phase finale se joue en élimination directe : huit équipes, toutes les séries au meilleur des 5 manches. Les quarts vont du mardi 3 au vendredi 6 novembre, les demi-finales se jouent le samedi 7 et le dimanche 8 novembre. Tous ces matchs commencent à 23 h, heure de Paris, au Credit Union of Texas Event Center d'Allen.",
+          "La finale se joue le samedi 14 novembre au Barclays Center de Brooklyn, à New York, à 20 h, heure de Paris. L'Europe est passée à l'heure d'hiver le 25 octobre : tous les horaires de cet article en tiennent déjà compte."
+        ]
+      },
+      "es": {
+        "heading": "Formato, sedes y calendario",
+        "text": [
+          "La fase final es de eliminación directa: ocho equipos y todas las series al mejor de cinco partidas. Los cuartos van del martes 3 al viernes 6 de noviembre, y las semifinales se juegan el sábado 7 y el domingo 8 de noviembre. Todos esos partidos empiezan a las 23:00, hora de París, en el Credit Union of Texas Event Center de Allen.",
+          "La final se juega el sábado 14 de noviembre en el Barclays Center de Brooklyn, Nueva York, a las 20:00, hora de París. Europa cambió al horario de invierno el 25 de octubre, y todas las horas de este artículo ya lo tienen en cuenta."
+        ]
+      },
+      "de": {
+        "heading": "Format, Spielorte und Kalender",
+        "text": [
+          "Die Finalrunde wird im K.-o.-System gespielt: acht Teams, alle Serien im Best of 5. Die Viertelfinals laufen von Dienstag, 3., bis Freitag, 6. November, die Halbfinals werden am Samstag, 7., und Sonntag, 8. November, gespielt. Alle diese Spiele beginnen um 23 Uhr Pariser Zeit im Credit Union of Texas Event Center in Allen.",
+          "Das Finale findet am Samstag, 14. November, im Barclays Center in Brooklyn, New York, statt, Beginn 20 Uhr Pariser Zeit. Europa hat am 25. Oktober auf Winterzeit umgestellt, alle Uhrzeiten in diesem Artikel berücksichtigen das bereits."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Formato, locais e calendário",
+        "text": [
+          "A fase final é de eliminação simples: oito equipes, todas as séries em melhor de cinco. As quartas vão de terça-feira, 3, a sexta-feira, 6 de novembro, e as semifinais são no sábado, 7, e no domingo, 8 de novembro. Todas essas partidas começam às 23h, horário de Paris, no Credit Union of Texas Event Center, em Allen.",
+          "A final é disputada no sábado, 14 de novembro, no Barclays Center, no Brooklyn, em Nova York, às 20h, horário de Paris. A Europa passou para o horário de inverno em 25 de outubro, e todos os horários deste artigo já levam isso em conta."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s4"],
+      "en": {
+        "heading": "Where to watch Worlds 2026",
+        "text": [
+          "Riot's official broadcast is in English on Twitch, YouTube and Kick, and the schedule and results are on lolesports.com. In French, OTP, the official LEC broadcaster, covers Worlds on Twitch and YouTube, with co-streams from Kameto, Skyyart, Trayton and Zaboutine, announced by LoL Esports on October 14.",
+          "The Pick'Ems for the knockout stage opened on October 31 and lock on November 3, before the first quarterfinal. You play on lolesports.com/pickems or in the League of Legends client, with a Riot account."
+        ]
+      },
+      "fr": {
+        "heading": "Où regarder les Worlds 2026",
+        "text": [
+          "La diffusion officielle de Riot est en anglais sur Twitch, YouTube et Kick, avec le calendrier et les résultats sur lolesports.com. En français, OTP, le diffuseur officiel de la LEC, retransmet les Worlds sur Twitch et YouTube, avec les co-streams de Kameto, Skyyart, Trayton et Zaboutine, annoncés par LoL Esports le 14 octobre.",
+          "Les Pick'Ems de la phase finale ont ouvert le 31 octobre et se verrouillent le 3 novembre, avant le premier quart. Tu joues sur lolesports.com/pickems ou dans le client de League of Legends, avec un compte Riot."
+        ]
+      },
+      "es": {
+        "heading": "Dónde ver Worlds 2026",
+        "text": [
+          "La emisión oficial de Riot es en inglés, en Twitch, YouTube y Kick, y el calendario y los resultados están en lolesports.com. En francés, OTP, el emisor oficial de la LEC, retransmite Worlds en Twitch y YouTube, con los co-streams de Kameto, Skyyart, Trayton y Zaboutine, anunciados por LoL Esports el 14 de octubre.",
+          "Los Pick'Ems de la fase final se abrieron el 31 de octubre y se cierran el 3 de noviembre, antes del primer cuarto. Se juega en lolesports.com/pickems o en el cliente de League of Legends, con una cuenta de Riot."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du die Worlds 2026",
+        "text": [
+          "Die offizielle Übertragung von Riot läuft auf Englisch bei Twitch, YouTube und Kick, Spielplan und Ergebnisse stehen auf lolesports.com. Auf Französisch überträgt OTP, der offizielle Sender der LEC, die Worlds auf Twitch und YouTube, mit Co-Streams von Kameto, Skyyart, Trayton und Zaboutine, die LoL Esports am 14. Oktober angekündigt hat.",
+          "Die Pick'Ems für die K.-o.-Phase sind seit dem 31. Oktober offen und schließen am 3. November, vor dem ersten Viertelfinale. Du tippst auf lolesports.com/pickems oder im League-of-Legends-Client, mit einem Riot-Konto."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir ao Worlds 2026",
+        "text": [
+          "A transmissão oficial da Riot é em inglês, na Twitch, no YouTube e na Kick, e o calendário e os resultados estão em lolesports.com. Em francês, a OTP, emissora oficial da LEC, transmite o Worlds na Twitch e no YouTube, com co-streams de Kameto, Skyyart, Trayton e Zaboutine, anunciados pelo LoL Esports em 14 de outubro.",
+          "Os Pick'Ems da fase final abriram em 31 de outubro e fecham em 3 de novembro, antes da primeira quarta de final. Você joga em lolesports.com/pickems ou no cliente de League of Legends, com uma conta Riot."
+        ]
+      }
+    },
+    {
+      "cite": ["s1", "s3", "s4"],
+      "en": {
+        "heading": "Prize pool and what to know",
+        "text": [
+          "The official Worlds guide does not mention the prize pool. According to several trackers, it is 5 million dollars, with 1 million for the champion; treat those figures as unconfirmed by Riot until it announces them.",
+          "The tournament started with 19 teams: 15 went straight to the Swiss stage and 4 played the play-in for a single place, which Karmine Corp won. Karmine Corp, the only French team, is at its first Worlds and plays Movistar KOI on October 31 to stay alive.",
+          "Worlds Fan Fest runs at Pier 36 in Lower Manhattan from November 12 to 14."
+        ]
+      },
+      "fr": {
+        "heading": "Dotation et ce qu'il faut savoir",
+        "text": [
+          "Le guide officiel des Worlds ne mentionne pas la dotation. D'après plusieurs sites de suivi, elle atteint 5 millions de dollars, dont 1 million pour le champion ; considère ces chiffres comme non confirmés par Riot tant que l'éditeur ne les annonce pas.",
+          "Le tournoi a démarré avec 19 équipes : 15 sont entrées directement en phase suisse, 4 ont joué le play-in pour une seule place, que Karmine Corp a décrochée. Karmine Corp, seule équipe française, vit son premier Worlds et affronte Movistar KOI le 31 octobre pour rester en course.",
+          "Le Worlds Fan Fest se tient au Pier 36, dans le Lower Manhattan, du 12 au 14 novembre."
+        ]
+      },
+      "es": {
+        "heading": "Premios y lo que conviene saber",
+        "text": [
+          "La guía oficial de Worlds no menciona el premio total. Según varias webs de seguimiento, es de 5 millones de dólares, con 1 millón para el campeón; toma esas cifras como no confirmadas por Riot hasta que las anuncie.",
+          "El torneo arrancó con 19 equipos: 15 entraron directamente en la fase suiza y 4 jugaron el play-in por una sola plaza, que se llevó Karmine Corp. Karmine Corp, el único equipo francés, vive su primer Worlds y se mide a Movistar KOI el 31 de octubre para seguir con vida.",
+          "El Worlds Fan Fest se celebra en el Pier 36, en el Lower Manhattan, del 12 al 14 de noviembre."
+        ]
+      },
+      "de": {
+        "heading": "Preisgeld und was du wissen solltest",
+        "text": [
+          "Der offizielle Worlds-Leitfaden nennt das Preisgeld nicht. Mehreren Tracking-Seiten zufolge liegt es bei 5 Millionen Dollar, davon 1 Million für den Meister; nimm diese Zahlen als von Riot unbestätigt, bis Riot sie bekannt gibt.",
+          "Das Turnier startete mit 19 Teams: 15 zogen direkt in die Schweizer Phase ein, 4 spielten das Play-in um einen einzigen Platz, den sich Karmine Corp holte. Karmine Corp, das einzige französische Team, erlebt seine erste Worlds und trifft am 31. Oktober auf Movistar KOI, um im Turnier zu bleiben.",
+          "Das Worlds Fan Fest findet vom 12. bis 14. November am Pier 36 in Lower Manhattan statt."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Premiação e o que vale saber",
+        "text": [
+          "O guia oficial do Worlds não menciona a premiação. Segundo vários sites de acompanhamento, ela é de 5 milhões de dólares, com 1 milhão para o campeão; trate esses números como não confirmados pela Riot até que ela os anuncie.",
+          "O torneio começou com 19 equipes: 15 entraram direto na fase suíça e 4 disputaram o play-in por uma única vaga, que a Karmine Corp conquistou. A Karmine Corp, única equipe francesa, vive seu primeiro Worlds e enfrenta a Movistar KOI em 31 de outubro para continuar na disputa.",
+          "O Worlds Fan Fest acontece no Pier 36, no Lower Manhattan, de 12 a 14 de novembro."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Worlds 2026 quarterfinals from Nov 3: teams, times, where to watch",
+    "description": "The Worlds 2026 quarterfinals start November 3 in Allen: qualified teams, the draw, best-of-five format, Paris times and where to watch, with sources."
+  },
+  "fr": {
+    "title": "Worlds 2026 : quarts de finale le 3 novembre, horaires, diffusion",
+    "description": "Les quarts des Worlds 2026 commencent le 3 novembre à Allen : équipes qualifiées, tirage, format au meilleur des 5, horaires à Paris et où regarder."
+  },
+  "es": {
+    "title": "Worlds 2026: cuartos de final desde el 3 de noviembre y dónde verlos",
+    "description": "Los cuartos de Worlds 2026 empiezan el 3 de noviembre en Allen: equipos clasificados, sorteo, formato al mejor de cinco, horarios de París y dónde verlos."
+  },
+  "de": {
+    "title": "Worlds 2026: Viertelfinale ab 3. November, Zeiten und Übertragung",
+    "description": "Die Viertelfinals der Worlds 2026 beginnen am 3. November in Allen: Teams, Auslosung, Best of 5, Zeiten in Paris und wo du zuschaust, mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Worlds 2026: quartas de final em 3 de novembro, horários e onde ver",
+    "description": "As quartas do Worlds 2026 começam em 3 de novembro em Allen: equipes classificadas, sorteio, formato melhor de cinco, horários de Paris e onde assistir."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "sources": [
+    {
+      "id": "esl",
+      "name": "ESL (IEM, ESL Pro League)",
+      "url": "https://esl.com/news/",
+      "feed": "https://esl.com/news/feed/",
+      "kind": "feed",
+      "games": [
+        "counter-strike-2"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Organisateur des IEM et de l'ESL Pro League : source officielle. Flux RSS vérifié le 08/11/2026 (200, application/rss+xml) ; robots.txt autorise esportly-veille/1.0."
+    },
+    {
+      "id": "hltv",
+      "name": "HLTV",
+      "url": "https://www.hltv.org/news",
+      "feed": "https://www.hltv.org/rss/news",
+      "kind": "feed",
+      "games": [
+        "counter-strike-2"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Média de référence du CS2, PAS officiel : sert à repérer un sujet, jamais de preuve d'un fait (le tableau d'affirmations exige une source officielle). Flux vérifié le 08/11/2026 (200, application/rss+xml)."
+    },
+    {
+      "id": "blast",
+      "name": "BLAST",
+      "url": "https://blast.tv/cs/news",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "counter-strike-2"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Organisateur des BLAST Premier / BLAST Slam : source officielle. Page vérifiée le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "lolesports",
+      "name": "LoL Esports (Riot)",
+      "url": "https://lolesports.com/en-US/news",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "league-of-legends"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Site officiel des compétitions League of Legends (LEC, LCK, LPL, Worlds, MSI) : source officielle. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "riot-lol",
+      "name": "League of Legends — actualités (Riot)",
+      "url": "https://www.leagueoflegends.com/en-us/news/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "league-of-legends"
+      ],
+      "types": [
+        "patch",
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur du jeu : notes de patch, annonces, articles esport. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "valorant-esports",
+      "name": "VALORANT Esports (Riot)",
+      "url": "https://valorantesports.com/en-US/news",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "valorant"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Site officiel du VCT (Masters, Champions, ligues régionales) : source officielle. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "riot-valorant",
+      "name": "VALORANT — actualités (Riot)",
+      "url": "https://playvalorant.com/en-us/news/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "valorant"
+      ],
+      "types": [
+        "patch",
+        "release"
+      ],
+      "lang": "en",
+      "note": "Éditeur du jeu : notes de patch et annonces. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "riot-wild-rift",
+      "name": "Wild Rift — actualités (Riot)",
+      "url": "https://wildrift.leagueoflegends.com/en-us/news/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "wild-rift"
+      ],
+      "types": [
+        "patch",
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur du jeu : notes de patch, annonces, esport Wild Rift. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "ubisoft-r6",
+      "name": "Rainbow Six Siege Esports (Ubisoft)",
+      "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "rainbow-six-siege"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur et organisateur (Six Invitational, Six Major) : source officielle. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "blizzard-overwatch",
+      "name": "Overwatch 2 — actualités (Blizzard)",
+      "url": "https://overwatch.blizzard.com/en-us/news/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "overwatch-2"
+      ],
+      "types": [
+        "patch",
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur du jeu : notes de patch, saison, Overwatch Champions Series. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "mp-l-id",
+      "name": "MPL Indonesia (Moonton)",
+      "url": "https://id-mpl.com/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "mobile-legends"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "id",
+      "note": "Ligue officielle Mobile Legends: Bang Bang en Indonésie (Moonton) : source officielle. Vérifié le 08/11/2026 (200, robots.txt autorise). La source est en indonésien : le fait retenu doit être vérifiable dans une page officielle en anglais ou être traduit avec sa preuve."
+    },
+    {
+      "id": "honor-of-kings",
+      "name": "Honor of Kings (Level Infinite)",
+      "url": "https://www.honorofkings.com/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "honor-of-kings"
+      ],
+      "types": [
+        "patch",
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur du jeu : annonces, notes de patch, esport (KPL, Worlds). Vérifié le 08/11/2026 (200, robots.txt autorise) ; page d'accueil, pas de rubrique actualités dédiée."
+    },
+    {
+      "id": "ea-fc-pro",
+      "name": "EA SPORTS FC Pro (EA)",
+      "url": "https://www.ea.com/games/ea-sports-fc/fc-pro",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "ea-sports-fc"
+      ],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Circuit officiel EA SPORTS FC Pro (FC Pro Open, eChampions League) : source officielle. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "ea-news",
+      "name": "EA — actualités",
+      "url": "https://www.ea.com/news",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "ea-sports-fc"
+      ],
+      "types": [
+        "release",
+        "patch"
+      ],
+      "lang": "en",
+      "note": "Éditeur : annonces et mises à jour des jeux EA SPORTS FC. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "riot-games",
+      "name": "Riot Games — actualités",
+      "url": "https://www.riotgames.com/en/news",
+      "feed": null,
+      "kind": "page",
+      "games": [],
+      "types": [
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur généraliste (annonces de Riot, calendrier esport, eSportly et ses jeux Riot) : source officielle, aucun jeu imposé. Vérifié le 08/11/2026 (200, robots.txt autorise)."
+    },
+    {
+      "id": "steam-dota-2",
+      "name": "Dota 2 — annonces (Valve, flux Steam)",
+      "url": "https://store.steampowered.com/news/app/570",
+      "feed": "https://store.steampowered.com/feeds/news/app/570/?cc=US&l=english",
+      "kind": "feed",
+      "games": [
+        "dota-2"
+      ],
+      "types": [
+        "patch",
+        "release",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Annonces publiées par Valve sur Steam (notes de patch, saison, International) : source officielle de l'éditeur. Flux vérifié le 08/11/2026 (200, text/xml, 10 éléments, robots.txt autorise)."
+    },
+    {
+      "id": "steam-rocket-league",
+      "name": "Rocket League — annonces (Psyonix, flux Steam)",
+      "url": "https://store.steampowered.com/news/app/252950",
+      "feed": "https://store.steampowered.com/feeds/news/app/252950/?cc=US&l=english",
+      "kind": "feed",
+      "games": [
+        "rocket-league"
+      ],
+      "types": [
+        "patch",
+        "release"
+      ],
+      "lang": "en",
+      "note": "Annonces de l'éditeur sur Steam (notes de patch, saisons). Vérifié le 08/11/2026 (200, text/xml, 10 éléments, robots.txt autorise). Le site rocketleague.com répond 403 à notre agent : l'esport RLCS n'est donc pas couvert par une source officielle lisible."
+    },
+    {
+      "id": "steam-call-of-duty",
+      "name": "Call of Duty — annonces (Activision, flux Steam)",
+      "url": "https://store.steampowered.com/news/app/1938090",
+      "feed": "https://store.steampowered.com/feeds/news/app/1938090/?cc=US&l=english",
+      "kind": "feed",
+      "games": [
+        "call-of-duty"
+      ],
+      "types": [
+        "patch",
+        "release"
+      ],
+      "lang": "en",
+      "note": "Annonces de l'éditeur sur Steam (saisons, Battle Pass, essais). Vérifié le 08/11/2026 (200, text/xml, 8 éléments, robots.txt autorise). callofdutyleague.com ne répond pas à notre agent : la scène CDL n'est pas couverte."
+    },
+    {
+      "id": "steam-counter-strike-2",
+      "name": "Counter-Strike 2 — mises à jour (Valve, flux Steam)",
+      "url": "https://store.steampowered.com/news/app/730",
+      "feed": "https://store.steampowered.com/feeds/news/app/730/?cc=US&l=english",
+      "kind": "feed",
+      "games": [
+        "counter-strike-2"
+      ],
+      "types": [
+        "patch",
+        "release"
+      ],
+      "lang": "en",
+      "note": "Notes de mise à jour publiées par Valve sur Steam : source officielle de l'éditeur. Vérifié le 08/11/2026 (200, text/xml, 10 éléments, robots.txt autorise)."
+    },
+    {
+      "id": "blizzard-starcraft-2",
+      "name": "StarCraft II — actualités (Blizzard)",
+      "url": "https://starcraft2.blizzard.com/en-us/news/",
+      "feed": null,
+      "kind": "page",
+      "games": [
+        "starcraft-2",
+        "starcraft-brood-war"
+      ],
+      "types": [
+        "patch",
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Éditeur : notes de patch et actualités StarCraft II (Brood War inclus). Vérifié le 08/11/2026 (200 ; la page redirige vers news.blizzard.com, autorisé par « also » ; 4 liens d'articles lus, robots.txt de blizzard.com autorise, celui de news.blizzard.com est absent — donc rien n'est interdit).",
+      "also": [
+        "news.blizzard.com"
+      ]
+    },
+    {
+      "id": "esports-nations-cup",
+      "name": "Esports Nations Cup (Esports Foundation)",
+      "url": "https://esportsnationscup.com/en/press-releases",
+      "feed": null,
+      "kind": "page",
+      "games": [],
+      "types": [
+        "esport"
+      ],
+      "lang": "en",
+      "note": "Organisateur de l'Esports Nations Cup (une compétition par nations, 16 jeux) : communiqués de presse officiels. Vérifié le 09/11/2026 (200 ; 21 liens lus ; robots.txt autorise esportly-veille/1.0)."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "kind": "game",
+  "game": "overwatch-2",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Overwatch: official website", "url": "https://overwatch.blizzard.com/en-us/"},
+    {"id": "s2", "title": "Overwatch: The Future of Overwatch Esports", "url": "https://overwatch.blizzard.com/en-us/news/24033788/the-future-of-overwatch-esports/"},
+    {"id": "s3", "title": "Overwatch Esports: official website", "url": "https://esports.overwatch.com/en-us"},
+    {"id": "s4", "title": "Overwatch Esports: Overwatch Esports is better than ever before in 2026", "url": "https://esports.overwatch.com/news/overwatch-esports-2026-announcement"},
+    {"id": "s5", "title": "Overwatch Esports: OWCS 2026 Stage 3 Viewers Guide", "url": "https://esports.overwatch.com/news/owcs-2026-stage-3-viewers-guide"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2"],
+      "en": {
+        "heading": "Overwatch 2 in brief",
+        "text": [
+          "Overwatch 2 is a free-to-play team action game from Blizzard, set in an optimistic vision of the future. Blizzard's earlier announcements call it Overwatch 2, while its official site now presents it simply as Overwatch. Its standard format pits two teams of five against each other, and each player controls a hero, with abilities and a play style of their own, from a large roster that keeps growing.",
+          "Heroes belong to three roles. Tanks take the brunt of enemy fire, break through fortified positions and lead the way. Damage heroes track down and eliminate opponents, but they are fragile and need backing to survive. Support heroes keep their team going: they heal and shield allies, boost their damage and hamper enemies.",
+          "The game supports cross-play, so friends on different platforms can play together, and unlocks and progress follow players from one device to another."
+        ]
+      },
+      "fr": {
+        "heading": "Overwatch 2 en bref",
+        "text": [
+          "Overwatch 2 est un jeu d'action en équipe gratuit de Blizzard, qui se déroule dans une vision optimiste du futur. Les annonces passées de Blizzard l'appellent Overwatch 2, tandis que son site officiel le présente désormais simplement comme Overwatch. Son format standard oppose deux équipes de cinq, et chaque joueur contrôle un héros, avec ses propres capacités et son propre style de jeu, choisi dans un vaste effectif qui ne cesse de s'agrandir.",
+          "Les héros se répartissent en trois rôles. Les Tanks encaissent le feu adverse, enfoncent les positions fortifiées et ouvrent la voie. Les héros de Dégâts traquent et éliminent les adversaires, mais ils sont fragiles et ont besoin de soutien pour survivre. Les héros de Soutien maintiennent leur équipe en vie : ils soignent et protègent leurs alliés, augmentent leurs dégâts et gênent l'ennemi.",
+          "Le cross-play est pris en charge : des amis inscrits sur des plateformes différentes peuvent faire équipe, et les déblocages comme la progression suivent les joueurs d'un appareil à l'autre."
+        ]
+      },
+      "es": {
+        "heading": "Overwatch 2 en pocas palabras",
+        "text": [
+          "Overwatch 2 es un juego de acción por equipos gratuito de Blizzard, ambientado en una visión optimista del futuro. Los anuncios anteriores de Blizzard lo llaman Overwatch 2, mientras que su web oficial lo presenta ahora simplemente como Overwatch. Su formato estándar enfrenta a dos equipos de cinco, y cada jugador controla un héroe, con habilidades y un estilo de juego propios, elegido de una amplia lista que no deja de crecer.",
+          "Los héroes se dividen en tres roles. Los tanques absorben el fuego enemigo, rompen posiciones fortificadas y abren camino. Los héroes de daño persiguen y eliminan a los rivales, pero son frágiles y necesitan respaldo para sobrevivir. Los héroes de apoyo mantienen a su equipo en pie: curan y protegen a sus aliados, aumentan su daño y entorpecen a los enemigos.",
+          "El título admite el juego cruzado: amigos en plataformas distintas pueden jugar juntos, y los desbloqueos y el progreso acompañan al jugador de un dispositivo a otro."
+        ]
+      },
+      "de": {
+        "heading": "Overwatch 2 im Überblick",
+        "text": [
+          "Overwatch 2 ist ein kostenloses Team-Actionspiel von Blizzard, angesiedelt in einer optimistischen Zukunft. Frühere Ankündigungen von Blizzard nennen es Overwatch 2, die offizielle Website präsentiert es inzwischen schlicht als Overwatch. Im Standardformat treten zwei Teams zu je fünf gegeneinander an, und jeder Spieler steuert einen Helden mit eigenen Fähigkeiten und eigenem Spielstil aus einer großen, stetig wachsenden Auswahl.",
+          "Die Helden gehören zu drei Rollen. Tanks stecken gegnerisches Feuer ein, brechen befestigte Stellungen auf und gehen voran. Schadenshelden spüren Gegner auf und schalten sie aus, sind aber zerbrechlich und brauchen Rückendeckung, um zu überleben. Unterstützungshelden halten ihr Team am Leben: Sie heilen und schützen Verbündete, verstärken ihren Schaden und behindern Gegner.",
+          "Das Spiel unterstützt Crossplay, sodass Freunde auf verschiedenen Plattformen zusammen spielen können, und Freischaltungen und Fortschritt begleiten die Spieler von Gerät zu Gerät."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Overwatch 2 em resumo",
+        "text": [
+          "Overwatch 2 é um jogo de ação em equipe gratuito da Blizzard, ambientado em uma visão otimista do futuro. Os anúncios anteriores da Blizzard o chamam de Overwatch 2, enquanto o site oficial agora o apresenta simplesmente como Overwatch. Seu formato padrão coloca duas equipes de cinco frente a frente, e cada jogador controla um herói, com habilidades e estilo de jogo próprios, escolhido em um grande elenco que não para de crescer.",
+          "Os heróis se dividem em três funções. Os tanques aguentam o fogo inimigo, rompem posições fortificadas e abrem caminho. Os heróis de dano caçam e eliminam os adversários, mas são frágeis e precisam de cobertura para sobreviver. Os heróis de suporte mantêm a equipe de pé: curam e protegem os aliados, aumentam o dano deles e atrapalham os inimigos.",
+          "O jogo tem crossplay, então amigos em plataformas diferentes podem jogar juntos, e os desbloqueios e o progresso acompanham o jogador de um dispositivo para outro."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4"],
+      "en": {
+        "heading": "How Overwatch 2 esports works",
+        "text": [
+          "Since 2024, Blizzard's main professional circuit has been the Overwatch Champions Series (OWCS). Blizzard designed it as an open ecosystem in which any team with enough skill can try to earn its place, and the competition is organised by region: the official site lists North America, EMEA (Europe, the Middle East and North Africa), Asia (Korea, Japan and the Pacific) and China.",
+          "In recent seasons, Blizzard has run the series with partners that provide the competition platforms, FACEIT Group, WDG and NetEase, and in North America and EMEA the FACEIT League has been the pathway into OWCS.",
+          "A season is divided into regional stages. The best teams of each region earn a place at international live events, and a season champion is crowned at the close of the year. Blizzard sets out each season's format in a dedicated announcement, so the official Overwatch esports site is the place to check how the current one works."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne l'esport Overwatch 2",
+        "text": [
+          "Depuis 2024, le principal circuit professionnel de Blizzard est l'Overwatch Champions Series (OWCS). Blizzard l'a conçue comme un écosystème ouvert, où toute équipe qui en a le niveau peut tenter de gagner sa place, et la compétition est organisée par région : le site officiel cite l'Amérique du Nord, la zone EMEA (Europe, Moyen-Orient et Afrique du Nord), l'Asie (Corée, Japon et Pacifique) et la Chine.",
+          "Ces dernières saisons, Blizzard a mené la série avec des partenaires qui fournissent les plateformes de compétition, FACEIT Group, WDG et NetEase, et en Amérique du Nord comme en EMEA, la FACEIT League a servi de voie d'accès à l'OWCS.",
+          "Une saison se divise en étapes régionales. Les meilleures équipes de chaque région décrochent une place pour des événements internationaux devant le public, et un champion de la saison est couronné quand l'année touche à sa fin. Blizzard présente le format de chaque saison dans une annonce dédiée : c'est donc sur le site officiel de l'esport Overwatch qu'il faut vérifier le fonctionnement de la saison en cours."
+        ]
+      },
+      "es": {
+        "heading": "Cómo funcionan los esports de Overwatch 2",
+        "text": [
+          "Desde 2024, el principal circuito profesional de Blizzard es la Overwatch Champions Series (OWCS). Blizzard la concibió como un ecosistema abierto en el que cualquier equipo con nivel suficiente puede intentar ganarse un sitio, y la competición se organiza por regiones: la web oficial enumera Norteamérica, EMEA (Europa, Oriente Medio y el norte de África), Asia (Corea, Japón y el Pacífico) y China.",
+          "En las últimas temporadas, Blizzard ha gestionado la serie con socios que aportan las plataformas de competición, FACEIT Group, WDG y NetEase, y en Norteamérica y EMEA la FACEIT League ha sido la vía de acceso a la OWCS.",
+          "Una temporada se divide en etapas regionales. Los mejores equipos de cada región se ganan una plaza en eventos internacionales presenciales, y al cierre del año se corona a un campeón de la temporada. Blizzard detalla el formato de cada temporada en un anuncio propio, así que la web oficial de los esports de Overwatch es el lugar donde consultar cómo funciona la actual."
+        ]
+      },
+      "de": {
+        "heading": "So funktioniert der E-Sport in Overwatch 2",
+        "text": [
+          "Seit 2024 ist die Overwatch Champions Series (OWCS) Blizzards wichtigster Profi-Circuit. Blizzard hat sie als offenes Ökosystem angelegt, in dem jedes Team mit genug Können versuchen kann, sich seinen Platz zu erspielen, und der Wettbewerb ist nach Regionen organisiert: Die offizielle Website nennt Nordamerika, EMEA (Europa, Naher Osten und Nordafrika), Asien (Korea, Japan und Pazifik) und China.",
+          "In den letzten Saisons hat Blizzard die Serie mit Partnern betrieben, die die Wettkampfplattformen stellen, FACEIT Group, WDG und NetEase; in Nordamerika und EMEA führte der Weg in die OWCS über die FACEIT League.",
+          "Eine Saison ist in regionale Stages unterteilt. Die besten Teams jeder Region erspielen sich einen Platz bei internationalen Live-Events, und zum Jahresende wird ein Saisonchampion gekürt. Blizzard stellt das Format jeder Saison in einer eigenen Ankündigung vor; wie die aktuelle Saison funktioniert, steht deshalb auf der offiziellen Overwatch-Esports-Website."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funcionam os esports de Overwatch 2",
+        "text": [
+          "Desde 2024, o principal circuito profissional da Blizzard é a Overwatch Champions Series (OWCS). A Blizzard a concebeu como um ecossistema aberto, em que qualquer equipe com nível suficiente pode tentar conquistar seu lugar, e a competição é organizada por região: o site oficial lista América do Norte, EMEA (Europa, Oriente Médio e Norte da África), Ásia (Coreia, Japão e Pacífico) e China.",
+          "Nas últimas temporadas, a Blizzard conduziu a série com parceiros que fornecem as plataformas de competição, FACEIT Group, WDG e NetEase, e na América do Norte e na EMEA a FACEIT League foi o caminho de acesso à OWCS.",
+          "Uma temporada se divide em etapas regionais. As melhores equipes de cada região garantem vaga em eventos internacionais presenciais, e um campeão da temporada é coroado no fim do ano. A Blizzard apresenta o formato de cada temporada em um anúncio próprio, por isso o site oficial dos esports de Overwatch é o lugar para conferir como funciona a atual."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4"],
+      "en": {
+        "heading": "World Finals, World Cup and other competitions",
+        "text": [
+          "The international live events bring the leading teams of every region together, and the last of them, the World Finals, decides the season's OWCS champion.",
+          "In some years, Blizzard also stages the Overwatch World Cup, in which players represent their home country. It runs through qualifiers and a group stage before the finals.",
+          "Beyond the professional tier, Blizzard supports other programmes, including Calling All Heroes, which backs initiatives for gender inclusivity in the game's competitive scene, as well as collegiate and school competitions."
+        ]
+      },
+      "fr": {
+        "heading": "Les World Finals, l'Overwatch World Cup et autres compétitions",
+        "text": [
+          "Les événements internationaux réunissent les meilleures équipes de chaque région, et le dernier d'entre eux, les World Finals, désigne le champion OWCS de la saison.",
+          "Certaines années, Blizzard organise aussi l'Overwatch World Cup, où les joueurs représentent leur pays. Elle passe par des qualifications et une phase de groupes avant la phase finale.",
+          "Au-delà du niveau professionnel, Blizzard soutient d'autres programmes, dont Calling All Heroes, qui appuie des initiatives en faveur de l'inclusion des genres dans la scène compétitive du jeu, ainsi que des compétitions universitaires et scolaires."
+        ]
+      },
+      "es": {
+        "heading": "Las World Finals, la Overwatch World Cup y otras competiciones",
+        "text": [
+          "Los eventos internacionales reúnen a los mejores equipos de cada región, y el último de ellos, las World Finals, decide quién se corona campeón de la OWCS en la temporada.",
+          "Algunos años, Blizzard organiza además la Overwatch World Cup, en la que los jugadores representan a su país. Pasa por clasificatorios y una fase de grupos antes de la fase final.",
+          "Más allá del nivel profesional, Blizzard apoya otros programas, como Calling All Heroes, que respalda iniciativas a favor de la inclusión de género en la escena competitiva del juego, además de competiciones universitarias y escolares."
+        ]
+      },
+      "de": {
+        "heading": "Die World Finals, der Overwatch World Cup und weitere Wettbewerbe",
+        "text": [
+          "Die internationalen Events bringen die führenden Teams aller Regionen zusammen, und das letzte von ihnen, die World Finals, entscheidet, wer OWCS-Champion der Saison wird.",
+          "In manchen Jahren veranstaltet Blizzard zudem den Overwatch World Cup, bei dem Spieler ihr Heimatland vertreten. Er führt über Qualifikationen und eine Gruppenphase bis zu den Finals.",
+          "Über den Profibereich hinaus unterstützt Blizzard weitere Programme, darunter Calling All Heroes, das Initiativen für geschlechtliche Inklusion in der kompetitiven Szene des Spiels fördert, sowie Wettbewerbe für Hochschulen und Schulen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "As World Finals, a Overwatch World Cup e outras competições",
+        "text": [
+          "Os eventos internacionais reúnem as principais equipes de cada região, e o último deles, as World Finals, define quem é coroado campeão da OWCS na temporada.",
+          "Em alguns anos, a Blizzard também realiza a Overwatch World Cup, em que os jogadores representam seu país. Ela passa por qualificatórias e uma fase de grupos antes das finais.",
+          "Além do nível profissional, a Blizzard apoia outros programas, como o Calling All Heroes, que incentiva iniciativas de inclusão de gênero na cena competitiva do jogo, além de competições universitárias e escolares."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s5"],
+      "en": {
+        "heading": "How to watch Overwatch 2 esports",
+        "text": [
+          "The official site, esports.overwatch.com, is the home of Blizzard's competitive programmes, with the season's news and a viewers' guide for each stage. Matches are streamed on the official Overwatch Esports channels on the main video platforms; recent seasons have also had a separate channel for Japan and a media partner for Korea.",
+          "Watching can also pay off: during the season, viewers can unlock in-game items by watching the broadcasts for a set number of hours, with rewards that change from one campaign to the next."
+        ]
+      },
+      "fr": {
+        "heading": "Comment suivre l'esport Overwatch 2",
+        "text": [
+          "Le site officiel, esports.overwatch.com, réunit les programmes compétitifs de Blizzard, avec l'actualité de la saison et un guide du spectateur pour chaque étape. Les matchs sont diffusés sur les chaînes officielles Overwatch Esports des principales plateformes vidéo ; ces dernières saisons, il y a eu aussi une chaîne à part pour le Japon et un partenaire médias pour la Corée.",
+          "Regarder peut aussi rapporter : pendant la saison, les spectateurs peuvent débloquer des objets en jeu en suivant les diffusions pendant un certain nombre d'heures, avec des récompenses qui changent d'une campagne à l'autre."
+        ]
+      },
+      "es": {
+        "heading": "Cómo ver los esports de Overwatch 2",
+        "text": [
+          "La web oficial, esports.overwatch.com, es la casa de los programas competitivos de Blizzard, con las noticias de la temporada y una guía para espectadores de cada etapa. Los partidos se emiten en los canales oficiales Overwatch Esports de las principales plataformas de vídeo; en las últimas temporadas ha habido además un canal propio para Japón y un socio audiovisual para Corea.",
+          "Ver los partidos también tiene premio: durante la temporada, los espectadores pueden desbloquear objetos del juego viendo las retransmisiones durante un número determinado de horas, con recompensas que cambian de una campaña a otra."
+        ]
+      },
+      "de": {
+        "heading": "So schaust du Overwatch-2-E-Sport",
+        "text": [
+          "Die offizielle Website esports.overwatch.com ist die Heimat von Blizzards Wettbewerbsprogrammen, mit den News der Saison und einem Zuschauerguide für jede Stage. Die Matches laufen auf den offiziellen Overwatch-Esports-Kanälen auf den großen Videoplattformen; in den letzten Saisons gab es zudem einen eigenen Kanal für Japan und einen Medienpartner für Korea.",
+          "Zuschauen kann sich auch lohnen: Während der Saison lassen sich Gegenstände im Spiel freischalten, wenn man die Übertragungen eine bestimmte Anzahl Stunden verfolgt; die Belohnungen wechseln von Kampagne zu Kampagne."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Overwatch 2",
+        "text": [
+          "O site oficial, esports.overwatch.com, é a casa dos programas competitivos da Blizzard, com as notícias da temporada e um guia para espectadores de cada etapa. As partidas são transmitidas nos canais oficiais Overwatch Esports das principais plataformas de vídeo; nas últimas temporadas, houve também um canal próprio para o Japão e um parceiro de mídia para a Coreia.",
+          "Assistir também pode render prêmios: durante a temporada, os espectadores podem desbloquear itens no jogo acompanhando as transmissões por um certo número de horas, com recompensas que mudam de uma campanha para outra."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Overwatch 2 esports: the game and its pro scene",
+    "description": "How does Overwatch 2 esports work? The game, the Overwatch Champions Series, its World Finals and the World Cup, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Overwatch 2 : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Overwatch 2 ? Le jeu, l'Overwatch Champions Series, ses World Finals et la World Cup, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Overwatch 2: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Overwatch 2? El juego, la Overwatch Champions Series, sus World Finals y la World Cup, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Overwatch 2: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Overwatch 2? Das Spiel, die Overwatch Champions Series, World Finals und World Cup und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Overwatch 2: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Overwatch 2? O jogo, a Overwatch Champions Series, as World Finals e a World Cup, e onde assistir, com as fontes usadas."
+  }
+}

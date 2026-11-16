@@ -1,0 +1,207 @@
+{
+  "kind": "game",
+  "game": "rainbow-six-siege",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Tom Clancy's Rainbow Six Siege on Steam", "url": "https://store.steampowered.com/app/359550/"},
+    {"id": "s2", "title": "Rainbow Six Siege Esports (Ubisoft): Esports Circuit 2026", "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/page/5MuwHkMD3n6XESfqg4lY3M"},
+    {"id": "s3", "title": "Rainbow Six Siege Esports (Ubisoft): how to co-stream R6 esports", "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/page/5PlEazBa6EEft6tNcDsaLp"},
+    {"id": "s4", "title": "Rainbow Six Siege Esports (Ubisoft): Match predictions are live for the BLAST R6 Osaka Major", "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/4yFeI3FrEjqkll0g20ifAp/r6se-r6-osaka-major-predictions-launch"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1"],
+      "en": {
+        "heading": "What is Rainbow Six Siege?",
+        "text": [
+          "Rainbow Six Siege esports is built on Tom Clancy's Rainbow Six Siege, a tactical team shooter that Ubisoft Montreal developed and Ubisoft released in December 2015. In each round, one squad of five attacks while the other defends, and the sides swap roles during the match.",
+          "Defenders fortify rooms with reinforced walls, barricades and traps; attackers send drones ahead to find enemies and the bomb site, then force their way in, sometimes through a window or the floor above. Much of the scenery can be destroyed, so blasting open a wall to create a new angle is part of the plan, and each team adapts its approach to its operators and the map.",
+          "A free access mode offers quick and unranked matches with a selection of operators; ranked play, the other operators and cosmetics are paid content."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce que Rainbow Six Siege ?",
+        "text": [
+          "L'esport Rainbow Six Siege repose sur Tom Clancy's Rainbow Six Siege, un jeu de tir tactique en équipe développé par Ubisoft Montréal et sorti chez Ubisoft en décembre 2015. À chaque manche, une escouade de cinq attaque pendant que l'autre défend, et les camps échangent leurs rôles au fil du match.",
+          "Les défenseurs fortifient les pièces avec des murs renforcés, des barricades et des pièges ; les attaquants envoient des drones repérer les ennemis et le site de la bombe, puis forcent le passage, parfois par une fenêtre ou par le plancher du dessus. Une grande partie du décor est destructible : faire sauter un mur pour ouvrir un nouvel angle fait partie du plan, et chaque équipe adapte son approche à ses opérateurs et à la carte.",
+          "Un mode d'accès gratuit propose des parties rapides et non classées avec une sélection d'opérateurs ; le jeu classé, les autres opérateurs et les cosmétiques sont payants."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué es Rainbow Six Siege?",
+        "text": [
+          "Los esports de Rainbow Six Siege se basan en Tom Clancy's Rainbow Six Siege, un juego de disparos táctico por equipos que desarrolló Ubisoft Montreal y que Ubisoft lanzó en diciembre de 2015. En cada ronda, un escuadrón de cinco ataca mientras el otro defiende, y los bandos intercambian los papeles a lo largo del partido.",
+          "Los defensores fortifican las salas con paredes reforzadas, barricadas y trampas; los atacantes envían drones por delante para localizar a los enemigos y el punto de la bomba, y luego se abren paso, a veces por una ventana o por el piso de arriba. Gran parte del escenario se puede destruir, así que volar una pared para abrir un nuevo ángulo forma parte del plan, y cada equipo adapta su enfoque a sus operadores y al mapa.",
+          "Un modo de acceso gratuito ofrece partidas rápidas y no clasificatorias con una selección de operadores; el modo clasificatorio, el resto de operadores y los cosméticos son de pago."
+        ]
+      },
+      "de": {
+        "heading": "Was ist Rainbow Six Siege?",
+        "text": [
+          "Der E-Sport in Rainbow Six Siege beruht auf Tom Clancy's Rainbow Six Siege, einem taktischen Team-Shooter, den Ubisoft Montreal entwickelt und Ubisoft im Dezember 2015 veröffentlicht hat. In jeder Runde greift ein Fünferteam an, während das andere verteidigt, und im Lauf des Matches tauschen die Seiten die Rollen.",
+          "Die Verteidiger befestigen Räume mit verstärkten Wänden, Barrikaden und Fallen; die Angreifer schicken Drohnen voraus, um Gegner und den Bombenplatz aufzuspüren, und bahnen sich dann den Weg hinein, manchmal durch ein Fenster oder über das Stockwerk darüber. Ein großer Teil der Umgebung ist zerstörbar, also gehört es zum Plan, eine Wand aufzusprengen, um einen neuen Blickwinkel zu schaffen, und jedes Team richtet sein Vorgehen nach seinen Operatoren und der Map aus.",
+          "Ein kostenloser Zugangsmodus bietet schnelle und ungewertete Matches mit einer Auswahl an Operatoren; Ranglistenspiele, die übrigen Operatoren und kosmetische Inhalte kosten Geld."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que é Rainbow Six Siege?",
+        "text": [
+          "Os esports de Rainbow Six Siege se apoiam em Tom Clancy's Rainbow Six Siege, um jogo de tiro tático em equipe desenvolvido pela Ubisoft Montreal e lançado pela Ubisoft em dezembro de 2015. Em cada rodada, um esquadrão de cinco ataca enquanto o outro defende, e os lados trocam de papel ao longo da partida.",
+          "Os defensores fortificam os cômodos com paredes reforçadas, barricadas e armadilhas; os atacantes mandam drones na frente para achar os inimigos e o local da bomba e depois forçam a entrada, às vezes por uma janela ou pelo andar de cima. Grande parte do cenário pode ser destruída, então explodir uma parede para abrir um novo ângulo faz parte do plano, e cada equipe adapta sua abordagem aos seus operadores e ao mapa.",
+          "Um modo de acesso gratuito oferece partidas rápidas e sem ranking com uma seleção de operadores; o modo ranqueado, os demais operadores e os cosméticos são pagos."
+        ]
+      }
+    },
+    {
+      "cite": ["s2"],
+      "en": {
+        "heading": "How does the Rainbow Six Siege pro scene work?",
+        "text": [
+          "Ubisoft runs the professional circuit. Each season starts in April and ends the following February at the Six Invitational, where the world champions are crowned. Along the way, teams compete in regional leagues, at the Majors and at the Esports World Cup.",
+          "In the 2026 season, Ubisoft lists five regional leagues: North America, South America, Europe and the Middle East, Asia-Pacific and China. League and Major results earn SI points in a Global Standings ranking that hands out most Six Invitational places; the Esports World Cup winner and the winners of open Last Chance qualifiers take the rest. Between seasons, regional Challenger series give new teams a way into the leagues.",
+          "Official matches usually go to a single map or a best of three or five. A map is won by the first team to seven rounds with a two-round margin; at six-all, the first to reach eight takes it. Ubisoft reworks the circuit each season, so check its esports site for the current format."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la scène pro de Rainbow Six Siege ?",
+        "text": [
+          "Ubisoft gère le circuit professionnel. Chaque saison commence en avril et se termine en février suivant au Six Invitational, où sont couronnés les champions du monde. En chemin, les équipes disputent des ligues régionales, les Majors et l'Esports World Cup.",
+          "Pour la saison 2026, Ubisoft liste cinq ligues régionales : Amérique du Nord, Amérique du Sud, Europe et Moyen-Orient, Asie-Pacifique et Chine. Les résultats en ligue et en Major rapportent des points SI dans un classement mondial, le Global Standings, qui attribue la plupart des places du Six Invitational ; le vainqueur de l'Esports World Cup et les vainqueurs des qualifications ouvertes Last Chance prennent les autres. Entre deux saisons, des Challenger series régionales offrent aux nouvelles équipes une porte d'entrée vers les ligues.",
+          "Les matchs officiels se jouent d'ordinaire sur une seule carte ou au meilleur des trois ou des cinq. Une carte revient à la première équipe qui atteint sept manches avec deux manches d'écart ; à six partout, la première à huit l'emporte. Ubisoft remanie le circuit à chaque saison : son site esport permet de vérifier le format en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la escena profesional de Rainbow Six Siege?",
+        "text": [
+          "Ubisoft gestiona el circuito profesional. Cada temporada arranca en abril y termina en febrero del año siguiente con el Six Invitational, donde se corona a los campeones del mundo. Por el camino, los equipos compiten en ligas regionales, en los Majors y en la Esports World Cup.",
+          "En la temporada 2026, Ubisoft enumera cinco ligas regionales: Norteamérica, Sudamérica, Europa y Oriente Medio, Asia-Pacífico y China. Los resultados en las ligas y en los Majors dan puntos SI en una clasificación mundial, el Global Standings, que reparte la mayoría de las plazas del Six Invitational; el ganador de la Esports World Cup y los ganadores de los clasificatorios abiertos Last Chance se quedan con el resto. Entre temporadas, unas Challenger series regionales ofrecen a los equipos nuevos una vía de acceso a las ligas.",
+          "Los partidos oficiales suelen jugarse a un solo mapa o al mejor de tres o de cinco. Un mapa lo gana el primer equipo que llega a siete rondas con dos de ventaja; con empate a seis, gana el primero que llega a ocho. Ubisoft rehace el circuito cada temporada, así que conviene consultar su web de esports para conocer el formato vigente."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Profiszene von Rainbow Six Siege?",
+        "text": [
+          "Ubisoft betreibt den Profi-Circuit. Jede Saison beginnt im April und endet im darauffolgenden Februar beim Six Invitational, bei dem die Weltmeister gekürt werden. Unterwegs treten die Teams in regionalen Ligen, bei den Majors und beim Esports World Cup an.",
+          "In der Saison 2026 führt Ubisoft fünf regionale Ligen: Nordamerika, Südamerika, Europa und Naher Osten, Asien-Pazifik und China. Ergebnisse in Ligen und Majors bringen SI-Punkte in einer weltweiten Rangliste, den Global Standings, die die meisten Plätze beim Six Invitational vergibt; den Rest erhalten der Sieger des Esports World Cup und die Gewinner offener Last-Chance-Qualifikationen. Zwischen den Saisons bieten regionale Challenger-Serien neuen Teams einen Weg in die Ligen.",
+          "Offizielle Matches gehen meist über eine einzige Map oder als Best-of-three bzw. Best-of-five. Eine Map gewinnt das Team, das zuerst sieben Runden mit zwei Runden Vorsprung erreicht; bei sechs zu sechs entscheidet, wer zuerst acht holt. Ubisoft baut den Circuit jede Saison um, das aktuelle Format steht deshalb auf seiner E-Sport-Website."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a cena profissional de Rainbow Six Siege?",
+        "text": [
+          "A Ubisoft comanda o circuito profissional. Cada temporada começa em abril e termina em fevereiro do ano seguinte no Six Invitational, onde os campeões mundiais são coroados. No caminho, as equipes disputam ligas regionais, os Majors e a Esports World Cup.",
+          "Na temporada 2026, a Ubisoft lista cinco ligas regionais: América do Norte, América do Sul, Europa e Oriente Médio, Ásia-Pacífico e China. Os resultados nas ligas e nos Majors dão pontos SI em um ranking mundial, o Global Standings, que distribui a maioria das vagas do Six Invitational; o campeão da Esports World Cup e os vencedores das qualificatórias abertas Last Chance ficam com o resto. Entre as temporadas, Challenger series regionais dão às equipes novas um caminho até as ligas.",
+          "As partidas oficiais costumam ser disputadas em um só mapa ou em melhor de três ou de cinco. Um mapa é vencido pela primeira equipe que chega a sete rodadas com duas de vantagem; no empate em seis, vence quem chegar primeiro a oito. A Ubisoft reformula o circuito a cada temporada, por isso vale conferir o formato atual no site de esports dela."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s4"],
+      "en": {
+        "heading": "What are the biggest Rainbow Six Siege tournaments?",
+        "text": [
+          "The Six Invitational closes the season and crowns the world champions.",
+          "The Majors are the season's international events. In 2026, the four strongest teams of each region qualify for them; the Osaka Major, run under the BLAST banner in November 2026, is set to go from a play-in to a Swiss phase, then a knockout stage ending in a grand final.",
+          "The game also appears at the Esports World Cup, and in the 2026 season its winner earns a direct ticket to the Six Invitational."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois de Rainbow Six Siege ?",
+        "text": [
+          "Le Six Invitational clôt la saison et couronne les champions du monde.",
+          "Les Majors sont les événements internationaux de la saison. En 2026, les quatre meilleures équipes de chaque région s'y qualifient ; l'Osaka Major, organisé sous la bannière BLAST en novembre 2026, doit passer d'un play-in à une phase suisse, puis à une phase à élimination directe conclue par une grande finale.",
+          "Le jeu figure aussi à l'Esports World Cup, et lors de la saison 2026 son vainqueur gagne un billet direct pour le Six Invitational."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de Rainbow Six Siege?",
+        "text": [
+          "El Six Invitational cierra la temporada y corona a los campeones del mundo.",
+          "Los Majors son los eventos internacionales de la temporada. En 2026 se clasifican para ellos los cuatro mejores equipos de cada región; el Osaka Major, organizado bajo la marca BLAST en noviembre de 2026, debe pasar de un play-in a una fase suiza y después a una fase eliminatoria que termina con una gran final.",
+          "El juego también está presente en la Esports World Cup, y en la temporada 2026 su ganador obtiene un billete directo para el Six Invitational."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in Rainbow Six Siege?",
+        "text": [
+          "Das Six Invitational schließt die Saison ab und kürt die Weltmeister.",
+          "Die Majors sind die internationalen Events der Saison. 2026 qualifizieren sich die vier stärksten Teams jeder Region dafür; das Osaka Major unter dem Banner von BLAST im November 2026 soll von einem Play-in über eine Swiss-Phase zu einer K.-o.-Phase mit einem großen Finale führen.",
+          "Das Spiel ist auch beim Esports World Cup vertreten, und in der Saison 2026 erhält dessen Sieger ein direktes Ticket für das Six Invitational."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de Rainbow Six Siege?",
+        "text": [
+          "O Six Invitational encerra a temporada e coroa os campeões mundiais.",
+          "Os Majors são os eventos internacionais da temporada. Em 2026, as quatro melhores equipes de cada região se classificam para eles; o Osaka Major, realizado sob a marca BLAST em novembro de 2026, deve passar de um play-in para uma fase suíça e depois para uma fase eliminatória encerrada com uma grande final.",
+          "O jogo também está na Esports World Cup, e na temporada 2026 o campeão ganha uma vaga direta no Six Invitational."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4"],
+      "en": {
+        "heading": "How can you watch Rainbow Six Siege esports?",
+        "text": [
+          "Ubisoft's official esports site is the reference for news about the circuit and its formats. Matches are broadcast live on the official Rainbow Six Esports channels on the main streaming platforms.",
+          "Streamers accepted into the Ubisoft Creator Program can also co-stream the competitions, using a clean feed of the broadcast.",
+          "For the 2026 Osaka Major, Ubisoft opened online predictions (27 October to 15 November) that unlock in-game rewards for correct picks."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder l'esport Rainbow Six Siege ?",
+        "text": [
+          "Le site esport officiel d'Ubisoft est la référence pour l'actualité du circuit et ses formats. Les matchs sont diffusés en direct sur les chaînes officielles Rainbow Six Esports des principales plateformes de streaming.",
+          "Les streameurs acceptés dans l'Ubisoft Creator Program peuvent aussi co-diffuser les compétitions, à partir d'un flux propre de la retransmission.",
+          "Pour l'Osaka Major 2026, Ubisoft a ouvert des pronostics en ligne (du 27 octobre au 15 novembre), qui débloquent des récompenses en jeu pour les pronostics justes."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver los esports de Rainbow Six Siege?",
+        "text": [
+          "La web oficial de esports de Ubisoft es la referencia para las noticias del circuito y sus formatos. Los partidos se emiten en directo en los canales oficiales Rainbow Six Esports de las principales plataformas de streaming.",
+          "Los streamers aceptados en el Ubisoft Creator Program también pueden retransmitir las competiciones en sus canales, con una señal limpia de la emisión.",
+          "Para el Osaka Major de 2026, Ubisoft abrió pronósticos en línea (del 27 de octubre al 15 de noviembre) que desbloquean recompensas en el juego por cada acierto."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man Rainbow-Six-Siege-E-Sport schauen?",
+        "text": [
+          "Ubisofts offizielle E-Sport-Website ist die Anlaufstelle für Neuigkeiten zum Circuit und seinen Formaten. Die Matches laufen live auf den offiziellen Rainbow-Six-Esports-Kanälen der großen Streaming-Plattformen.",
+          "Streamer, die ins Ubisoft Creator Program aufgenommen wurden, können die Wettbewerbe zudem mitstreamen und erhalten dafür ein sauberes Signal der Übertragung.",
+          "Für das Osaka Major 2026 hat Ubisoft Online-Tipps geöffnet (27. Oktober bis 15. November), die für richtige Tipps Belohnungen im Spiel freischalten."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Rainbow Six Siege?",
+        "text": [
+          "O site oficial de esports da Ubisoft é a referência para as notícias do circuito e seus formatos. As partidas são transmitidas ao vivo nos canais oficiais Rainbow Six Esports das principais plataformas de streaming.",
+          "Streamers aceitos no Ubisoft Creator Program também podem fazer co-streaming das competições, usando um sinal limpo da transmissão.",
+          "Para o Osaka Major de 2026, a Ubisoft abriu palpites online (de 27 de outubro a 15 de novembro) que desbloqueiam recompensas no jogo para cada acerto."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Rainbow Six Siege esports: the game and its pro scene",
+    "description": "How does Rainbow Six Siege esports work? The game, Ubisoft's pro circuit, the Six Invitational and the Majors, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Rainbow Six Siege : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Rainbow Six Siege ? Le jeu, le circuit pro d'Ubisoft, le Six Invitational et les Majors, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Rainbow Six Siege: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Rainbow Six Siege? El juego, el circuito de Ubisoft, el Six Invitational y los Majors, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Rainbow Six Siege: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Rainbow Six Siege? Das Spiel, Ubisofts Profi-Circuit, das Six Invitational und die Majors und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Rainbow Six Siege: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Rainbow Six Siege? O jogo, o circuito da Ubisoft, o Six Invitational e os Majors, e onde assistir, com as fontes usadas."
+  }
+}

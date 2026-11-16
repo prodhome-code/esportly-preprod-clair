@@ -1,0 +1,71 @@
+{
+  "call-of-duty": {
+    "fetched": "2026-11-16",
+    "videos": []
+  },
+  "dota-2": {
+    "fetched": "2026-11-16",
+    "videos": []
+  },
+  "honor-of-kings": {
+    "fetched": "2026-11-16",
+    "videos": []
+  },
+  "league-of-legends": {
+    "fetched": "2026-11-16",
+    "videos": [
+      {
+        "channel": "LoL Esports",
+        "id": "DPAay3UOWsc",
+        "published": "2026-11-15",
+        "title": "Finals Highlights | Worlds 2026"
+      }
+    ]
+  },
+  "mobile-legends": {
+    "fetched": "2026-11-16",
+    "videos": []
+  },
+  "overwatch-2": {
+    "fetched": "2026-11-16",
+    "videos": []
+  },
+  "rainbow-six-siege": {
+    "fetched": "2026-11-16",
+    "videos": [
+      {
+        "channel": "Rainbow Six Esports",
+        "id": "aw8WTSOoWx8",
+        "published": "2026-11-15",
+        "title": "Highlights: DarkZero Esports vs. FaZe Clan | BLAST R6 Osaka Major Grand Finals"
+      },
+      {
+        "channel": "Rainbow Six Esports",
+        "id": "HntlcqGjopU",
+        "published": "2026-11-14",
+        "title": "Highlights: Team Falcons vs. FaZe Clan - BLAST R6 Osaka Major | Playoffs - Day 2"
+      },
+      {
+        "channel": "Rainbow Six Esports",
+        "id": "56gWLNIUz4o",
+        "published": "2026-11-14",
+        "title": "Highlights: DarkZero Esports vs. Virtus.pro - BLAST R6 Osaka Major | Playoffs - Day 2"
+      }
+    ]
+  },
+  "valorant": {
+    "fetched": "2026-11-16",
+    "videos": [
+      {
+        "channel": "VALORANT Champions Tour",
+        "id": "HtTdO58Ic4M",
+        "published": "2026-11-02",
+        "title": "M8 vs. KRU | MATCH HIGHLIGHTS | VALORANT Game Changers Championship - Grand Finals"
+      }
+    ]
+  },
+  "wild-rift": {
+    "fetched": "2026-11-16",
+    "videos": []
+  }
+}

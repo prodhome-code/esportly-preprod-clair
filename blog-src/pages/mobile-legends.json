@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "mobile-legends",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Mobile Legends: Bang Bang on Google Play", "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en"},
+    {"id": "s2", "title": "Moonton Games: About Us", "url": "https://en.moonton.com/about/index.html"},
+    {"id": "s3", "title": "Moonton Games: Esports", "url": "https://en.moonton.com/match/index.html"},
+    {"id": "s4", "title": "Moonton Games: M8 World Championship to set sail from Bangkok to Istanbul", "url": "https://en.moonton.com/news/388.html"},
+    {"id": "s5", "title": "Moonton Games: Mobile Legends: Bang Bang returns to Esports World Cup for third straight year", "url": "https://en.moonton.com/news/311.html"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "What is Mobile Legends: Bang Bang?",
+        "text": [
+          "Mobile Legends: Bang Bang (MLBB) is a multiplayer online battle arena, or MOBA, made for phones by Moonton Games and released worldwide in November 2016. MLBB esports grew up in Southeast Asia before spreading to other parts of the world.",
+          "Two teams of five meet in real time on a classic map with three lanes, jungle areas, towers and bosses. Players pick heroes from roles such as tank, mage, marksman, assassin and support, and new heroes keep arriving. Games are short, about ten minutes, and nothing can be bought to raise a hero's stats, so skill and strategy decide the winner."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce que Mobile Legends: Bang Bang ?",
+        "text": [
+          "Mobile Legends: Bang Bang (MLBB) est une arène de bataille en ligne multijoueur, ou MOBA, conçue pour téléphone par Moonton Games et sortie dans le monde entier en novembre 2016. L'esport MLBB a grandi en Asie du Sud-Est avant de gagner d'autres régions du monde.",
+          "Deux équipes de cinq s'affrontent en temps réel sur une carte classique, avec trois voies, des zones de jungle, des tours et des boss. Les joueurs choisissent des héros dans des rôles comme tank, mage, tireur, assassin ou soutien, et de nouveaux héros arrivent sans cesse. Les parties sont courtes, une dizaine de minutes, et rien ne s'achète pour augmenter les statistiques d'un héros : le talent et la stratégie font la différence."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué es Mobile Legends: Bang Bang?",
+        "text": [
+          "Mobile Legends: Bang Bang (MLBB) es un juego de arena de batalla en línea multijugador, o MOBA, creado para móviles por Moonton Games y lanzado en todo el mundo en noviembre de 2016. Los esports de MLBB crecieron en el Sudeste Asiático antes de extenderse a otras partes del mundo.",
+          "Dos equipos de cinco se enfrentan en tiempo real en un mapa clásico con tres calles, zonas de jungla, torres y jefes. Los jugadores eligen héroes de roles como tanque, mago, tirador, asesino o apoyo, y no dejan de llegar héroes nuevos. Las partidas son cortas, de unos diez minutos, y no se puede comprar nada para subir las estadísticas de un héroe, así que deciden la habilidad y la estrategia."
+        ]
+      },
+      "de": {
+        "heading": "Was ist Mobile Legends: Bang Bang?",
+        "text": [
+          "Mobile Legends: Bang Bang (MLBB) ist eine Multiplayer-Online-Battle-Arena, kurz MOBA, die Moonton Games für Smartphones entwickelt und im November 2016 weltweit veröffentlicht hat. Der E-Sport in MLBB ist in Südostasien groß geworden, bevor er sich in andere Teile der Welt ausbreitete.",
+          "Zwei Fünferteams treten in Echtzeit auf einer klassischen Map mit drei Lanes, Dschungelbereichen, Türmen und Bossen gegeneinander an. Die Spieler wählen Helden aus Rollen wie Tank, Magier, Schütze, Assassine oder Support, und es kommen ständig neue Helden hinzu. Partien sind kurz, etwa zehn Minuten, und nichts lässt sich kaufen, um die Werte eines Helden zu erhöhen: Können und Strategie entscheiden."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que é Mobile Legends: Bang Bang?",
+        "text": [
+          "Mobile Legends: Bang Bang (MLBB) é uma arena de batalha online multijogador, ou MOBA, criada para celulares pela Moonton Games e lançada no mundo todo em novembro de 2016. Os esports de MLBB cresceram no Sudeste Asiático antes de chegar a outras partes do mundo.",
+          "Duas equipes de cinco se enfrentam em tempo real em um mapa clássico com três rotas, áreas de selva, torres e chefes. Os jogadores escolhem heróis de funções como tanque, mago, atirador, assassino ou suporte, e heróis novos não param de chegar. As partidas são curtas, cerca de dez minutos, e não dá para comprar nada que aumente os atributos de um herói: habilidade e estratégia decidem o vencedor."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4", "s5"],
+      "en": {
+        "heading": "How does the Mobile Legends: Bang Bang pro scene work?",
+        "text": [
+          "Moonton launched the MLBB Professional League (MPL) in November 2017 in Indonesia, Malaysia and Singapore. National MPL leagues now sit at the top of the game in several countries, among them Indonesia, the Philippines, Malaysia, Singapore and Cambodia, and the brand has travelled beyond Southeast Asia with MPL MENA and MPL LATAM.",
+          "For the 2026 season, Moonton organises its international scene around five regions: Southeast Asia, East Asia, the Americas, EMEA, and Eastern Europe and Central Asia. Regional circuits called the MLBB Championship Tour (MCT) feed the world championship, with their best teams qualifying directly or through a wild card stage.",
+          "Moonton also invites public institutions and companies to host their own MLBB tournaments. The structure changes from one season to the next, so the official channels are where to check the current road to the world stage."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la scène pro de Mobile Legends: Bang Bang ?",
+        "text": [
+          "Moonton a lancé la MLBB Professional League (MPL) en novembre 2017 en Indonésie, en Malaisie et à Singapour. Les MPL nationales sont aujourd'hui le plus haut niveau du jeu dans plusieurs pays, dont l'Indonésie, les Philippines, la Malaisie, Singapour et le Cambodge, et la marque a dépassé l'Asie du Sud-Est avec la MPL MENA et la MPL LATAM.",
+          "Pour la saison 2026, Moonton organise sa scène internationale autour de cinq régions : Asie du Sud-Est, Asie de l'Est, Amériques, EMEA, et Europe de l'Est et Asie centrale. Des circuits régionaux, le MLBB Championship Tour (MCT), mènent au championnat du monde, leurs meilleures équipes s'y qualifiant directement ou par une phase de wild card.",
+          "Moonton invite aussi institutions publiques et entreprises à organiser leurs propres tournois MLBB. La structure change d'une saison à l'autre : ce sont les canaux officiels qui indiquent le chemin actuel vers la scène mondiale."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la escena profesional de Mobile Legends: Bang Bang?",
+        "text": [
+          "Moonton lanzó la MLBB Professional League (MPL) en noviembre de 2017 en Indonesia, Malasia y Singapur. Las MPL nacionales son hoy el máximo nivel del juego en varios países, entre ellos Indonesia, Filipinas, Malasia, Singapur y Camboya, y la marca ha salido del Sudeste Asiático con la MPL MENA y la MPL LATAM.",
+          "Para la temporada 2026, Moonton organiza su escena internacional en torno a cinco regiones: Sudeste Asiático, Asia Oriental, América, EMEA, y Europa del Este y Asia Central. Unos circuitos regionales, el MLBB Championship Tour (MCT), conducen al campeonato del mundo, y sus mejores equipos se clasifican directamente o a través de una fase de wild card.",
+          "Moonton invita además a instituciones públicas y empresas a organizar sus propios torneos de MLBB. La estructura cambia de una temporada a otra, así que los canales oficiales son el lugar donde consultar el camino actual hacia la escena mundial."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Profiszene von Mobile Legends: Bang Bang?",
+        "text": [
+          "Moonton startete die MLBB Professional League (MPL) im November 2017 in Indonesien, Malaysia und Singapur. Nationale MPL-Ligen bilden heute in mehreren Ländern die Spitze des Spiels, darunter Indonesien, die Philippinen, Malaysia, Singapur und Kambodscha, und mit der MPL MENA und der MPL LATAM hat die Marke über Südostasien hinaus Fuß gefasst.",
+          "Für die Saison 2026 gliedert Moonton seine internationale Szene in fünf Regionen: Südostasien, Ostasien, Amerika, EMEA sowie Osteuropa und Zentralasien. Regionale Circuits unter dem Namen MLBB Championship Tour (MCT) führen zur Weltmeisterschaft, ihre besten Teams qualifizieren sich direkt oder über eine Wildcard-Phase.",
+          "Moonton lädt außerdem öffentliche Einrichtungen und Unternehmen ein, eigene MLBB-Turniere auszurichten. Die Struktur ändert sich von Saison zu Saison; den aktuellen Weg zur Weltbühne zeigen die offiziellen Kanäle."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a cena profissional de Mobile Legends: Bang Bang?",
+        "text": [
+          "A Moonton lançou a MLBB Professional League (MPL) em novembro de 2017 na Indonésia, na Malásia e em Singapura. As MPL nacionais são hoje o nível mais alto do jogo em vários países, entre eles Indonésia, Filipinas, Malásia, Singapura e Camboja, e a marca saiu do Sudeste Asiático com a MPL MENA e a MPL LATAM.",
+          "Para a temporada 2026, a Moonton organiza sua cena internacional em torno de cinco regiões: Sudeste Asiático, Leste Asiático, Américas, EMEA, e Leste Europeu e Ásia Central. Circuitos regionais chamados MLBB Championship Tour (MCT) levam ao campeonato mundial, com as melhores equipes se classificando diretamente ou por uma fase de wild card.",
+          "A Moonton também convida instituições públicas e empresas a organizar seus próprios torneios de MLBB. A estrutura muda de uma temporada para outra, por isso os canais oficiais são o lugar para conferir o caminho atual até o palco mundial."
+        ]
+      }
+    },
+    {
+      "cite": ["s2", "s3", "s4"],
+      "en": {
+        "heading": "What are the biggest Mobile Legends tournaments?",
+        "text": [
+          "The M Series is the MLBB world championship and the game's flagship international event. Its first edition, M1, took place in Kuala Lumpur in November 2019 with 16 teams from 14 countries; later editions have been staged in Singapore, Indonesia, the Philippines and Malaysia.",
+          "Since M6, the main stage has opened with a Swiss format, which M8 (January 2027) keeps, before a double-elimination knockout bracket.",
+          "The MLBB Mid Season Cup (MSC), first held in 2017 as a Southeast Asia Cup, has been part of the Esports World Cup since 2024, alongside a women's tournament, the MWI. MLBB has also been a medal event at the Southeast Asian Games and, in 2026, at the Asian Games."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois de Mobile Legends ?",
+        "text": [
+          "Le M Series est le championnat du monde de MLBB et le tournoi international phare du jeu. Sa première édition, le M1, s'est tenue à Kuala Lumpur en novembre 2019 avec 16 équipes de 14 pays ; les éditions suivantes ont eu lieu à Singapour, en Indonésie, aux Philippines et en Malaisie.",
+          "Depuis le M6, la phase principale s'ouvre par un format suisse, que le M8 (janvier 2027) conserve, avant un tableau final à double élimination.",
+          "La MLBB Mid Season Cup (MSC), disputée pour la première fois en 2017 sous le nom de Southeast Asia Cup, fait partie de l'Esports World Cup depuis 2024, aux côtés d'un tournoi féminin, la MWI. MLBB a aussi été discipline à médaille aux Jeux d'Asie du Sud-Est et, en 2026, aux Jeux asiatiques."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de Mobile Legends?",
+        "text": [
+          "El M Series es el campeonato del mundo de MLBB y el torneo internacional estrella del juego. Su primera edición, el M1, se celebró en Kuala Lumpur en noviembre de 2019 con 16 equipos de 14 países; las siguientes se han disputado en Singapur, Indonesia, Filipinas y Malasia.",
+          "Desde el M6, la fase principal se abre con un formato suizo, que el M8 (enero de 2027) mantiene, antes de un cuadro de doble eliminación.",
+          "La MLBB Mid Season Cup (MSC), que se disputó por primera vez en 2017 como Southeast Asia Cup, forma parte de la Esports World Cup desde 2024, junto a un torneo femenino, la MWI. MLBB también ha sido disciplina con medalla en los Juegos del Sudeste Asiático y, en 2026, en los Juegos Asiáticos."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in Mobile Legends?",
+        "text": [
+          "Die M Series ist die Weltmeisterschaft von MLBB und das wichtigste internationale Turnier des Spiels. Die erste Ausgabe, M1, fand im November 2019 in Kuala Lumpur mit 16 Teams aus 14 Ländern statt; spätere Ausgaben wurden in Singapur, Indonesien, auf den Philippinen und in Malaysia ausgetragen.",
+          "Seit M6 beginnt die Hauptphase mit einem Swiss-Format, das auch M8 (Januar 2027) beibehält, vor einem K.-o.-Bracket mit Double Elimination.",
+          "Der MLBB Mid Season Cup (MSC), erstmals 2017 als Southeast Asia Cup ausgetragen, gehört seit 2024 zum Esports World Cup, zusammen mit einem Frauenturnier, dem MWI. MLBB war außerdem Medaillendisziplin bei den Südostasienspielen und 2026 bei den Asienspielen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de Mobile Legends?",
+        "text": [
+          "O M Series é o campeonato mundial de MLBB e o principal torneio internacional do jogo. A primeira edição, o M1, aconteceu em Kuala Lumpur em novembro de 2019, com 16 equipes de 14 países; as seguintes foram realizadas em Singapura, na Indonésia, nas Filipinas e na Malásia.",
+          "Desde o M6, a fase principal começa com um formato suíço, que o M8 (janeiro de 2027) mantém, antes de uma chave eliminatória com dupla eliminação.",
+          "A MLBB Mid Season Cup (MSC), disputada pela primeira vez em 2017 como Southeast Asia Cup, faz parte da Esports World Cup desde 2024, ao lado de um torneio feminino, o MWI. MLBB também foi modalidade com medalha nos Jogos do Sudeste Asiático e, em 2026, nos Jogos Asiáticos."
+        ]
+      }
+    },
+    {
+      "cite": ["s4", "s5"],
+      "en": {
+        "heading": "How can you watch Mobile Legends esports?",
+        "text": [
+          "Moonton publishes a list of official channels: a global MLBB Esports account on YouTube, TikTok, Facebook and Instagram, plus channels for national leagues such as MPL Indonesia, MPL Philippines and MPL Malaysia.",
+          "The biggest events are also played before live crowds in arenas; for the M8 World Championship, Moonton announced ticketing alongside the format and venue."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder l'esport Mobile Legends ?",
+        "text": [
+          "Moonton publie une liste de chaînes officielles : un compte mondial MLBB Esports sur YouTube, TikTok, Facebook et Instagram, ainsi que des chaînes pour les ligues nationales, comme MPL Indonesia, MPL Philippines et MPL Malaysia.",
+          "Les plus grands événements se jouent aussi devant le public, dans des arènes ; pour le M8 World Championship, Moonton a annoncé la billetterie en même temps que le format et le lieu."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver los esports de Mobile Legends?",
+        "text": [
+          "Moonton publica una lista de canales oficiales: una cuenta global MLBB Esports en YouTube, TikTok, Facebook e Instagram, además de canales de las ligas nacionales, como MPL Indonesia, MPL Philippines y MPL Malaysia.",
+          "Los mayores eventos se juegan también ante el público en estadios; para el M8 World Championship, Moonton anunció la venta de entradas junto con el formato y la sede."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man Mobile-Legends-E-Sport schauen?",
+        "text": [
+          "Moonton veröffentlicht eine Liste offizieller Kanäle: einen weltweiten Account MLBB Esports auf YouTube, TikTok, Facebook und Instagram sowie Kanäle nationaler Ligen wie MPL Indonesia, MPL Philippines und MPL Malaysia.",
+          "Die größten Events finden zudem vor Publikum in Arenen statt; für die M8 World Championship kündigte Moonton den Ticketverkauf zusammen mit Format und Austragungsort an."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Mobile Legends?",
+        "text": [
+          "A Moonton publica uma lista de canais oficiais: uma conta global MLBB Esports no YouTube, TikTok, Facebook e Instagram, além de canais das ligas nacionais, como MPL Indonesia, MPL Philippines e MPL Malaysia.",
+          "Os maiores eventos também são disputados diante do público em arenas; para o M8 World Championship, a Moonton anunciou a venda de ingressos junto com o formato e o local."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Mobile Legends esports: the game and its pro scene",
+    "description": "How does Mobile Legends esports work? The game, the MPL leagues, the M Series world championship and the MSC, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Mobile Legends : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Mobile Legends ? Le jeu, les ligues MPL, le championnat du monde M Series et la MSC, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Mobile Legends: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Mobile Legends? El juego, las ligas MPL, el mundial M Series y la MSC, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Mobile Legends: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Mobile Legends? Das Spiel, die MPL-Ligen, die Weltmeisterschaft M Series und der MSC und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Mobile Legends: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Mobile Legends? O jogo, as ligas MPL, o mundial M Series e a MSC, e onde assistir, com as fontes usadas."
+  }
+}

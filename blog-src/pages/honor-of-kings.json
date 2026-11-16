@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "honor-of-kings",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "Honor of Kings: official website", "url": "https://www.honorofkings.com/"},
+    {"id": "s2", "title": "Level Infinite press room: Honor of Kings product information", "url": "https://press.levelinfinite.com/Honor-of-Kings-27823"},
+    {"id": "s3", "title": "Level Infinite: Honor of Kings World Cup Kicks Off, Featuring the Reveal of Honor of Kings: ACE", "url": "https://press.levelinfinite.com/Honor-of-Kings-World-Cup-Kicks-Off-Featuring-the-Reveal-of-Honor-of-Ki"},
+    {"id": "s4", "title": "Level Infinite: Black Shrew Esports Crowned Winners of the 2024 Honor of Kings Championship", "url": "https://press.levelinfinite.com/en/Black-Shrew-Esports-Crowned-Winners-of-the-2024-Honor-of-Kings-Champio"},
+    {"id": "s5", "title": "Esports World Cup: Kuaishou Gaming defy odds to win Honor of Kings World Cup at EWC 2026", "url": "https://esportsworldcup.com/en/press-releases/kuaishou-gaming-defy-odds-to-win-kwc-at-ewc26"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "What is Honor of Kings?",
+        "text": [
+          "Honor of Kings esports is played on Honor of Kings, a five-on-five multiplayer online battle arena (MOBA) for mobile phones developed by TiMi Studio Group. It first came out in China in 2015; outside China, it is published by Level Infinite, Tencent's global games brand, which dates its release to June 2024.",
+          "The goal is to destroy the enemy crystal. Towers along the lanes shield each side from minions and opponents, a river crosses the middle of the map, and jungle monsters offer useful advantages. Each player picks a hero, many drawn from mythology, with signature skills and a role such as warrior, assassin, mage, marksman or support.",
+          "Level Infinite stresses that the game costs nothing to play and that victories depend on skill and tactics, not on spending."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce que Honor of Kings ?",
+        "text": [
+          "L'esport Honor of Kings se joue sur Honor of Kings, une arène de bataille en ligne multijoueur (MOBA) à cinq contre cinq pour téléphone, développée par TiMi Studio Group. Le jeu est d'abord sorti en Chine en 2015 ; hors de Chine, il est édité par Level Infinite, la marque mondiale de jeux de Tencent, qui date sa sortie de juin 2024.",
+          "Le but est de détruire le cristal adverse. Des tours le long des voies protègent chaque camp des sbires et des adversaires, une rivière traverse le milieu de la carte et les monstres de la jungle procurent des avantages utiles. Chaque joueur choisit un héros, souvent tiré de la mythologie, avec ses compétences propres et un rôle comme guerrier, assassin, mage, tireur ou soutien.",
+          "Level Infinite insiste sur le fait que le jeu ne coûte rien et que les victoires reposent sur le talent et la tactique, pas sur les dépenses."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué es Honor of Kings?",
+        "text": [
+          "Los esports de Honor of Kings se juegan en Honor of Kings, un juego de arena de batalla en línea multijugador (MOBA) de cinco contra cinco para móviles desarrollado por TiMi Studio Group. Salió primero en China en 2015; fuera de China lo publica Level Infinite, la marca global de juegos de Tencent, que sitúa su lanzamiento en junio de 2024.",
+          "El objetivo es destruir el cristal enemigo. Las torres a lo largo de las calles protegen a cada bando de los súbditos y de los rivales, un río cruza el centro del mapa y los monstruos de la jungla dan ventajas útiles. Cada jugador elige un héroe, muchos sacados de la mitología, con habilidades propias y un rol como guerrero, asesino, mago, tirador o apoyo.",
+          "Level Infinite subraya que jugar no cuesta nada y que las victorias dependen de la habilidad y la táctica, no del gasto."
+        ]
+      },
+      "de": {
+        "heading": "Was ist Honor of Kings?",
+        "text": [
+          "Der E-Sport in Honor of Kings wird auf Honor of Kings gespielt, einer Multiplayer-Online-Battle-Arena (MOBA) fünf gegen fünf für Smartphones, entwickelt von TiMi Studio Group. Das Spiel erschien zuerst 2015 in China; außerhalb Chinas veröffentlicht es Level Infinite, die weltweite Spielemarke von Tencent, die den Start auf Juni 2024 datiert.",
+          "Ziel ist es, den gegnerischen Kristall zu zerstören. Türme entlang der Lanes schützen jede Seite vor Minions und Gegnern, ein Fluss durchquert die Mitte der Map, und Dschungelmonster bringen nützliche Vorteile. Jeder Spieler wählt einen Helden, viele davon aus der Mythologie, mit eigenen Fähigkeiten und einer Rolle wie Krieger, Assassine, Magier, Schütze oder Support.",
+          "Level Infinite betont, dass das Spiel nichts kostet und Siege von Können und Taktik abhängen, nicht von Ausgaben."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que é Honor of Kings?",
+        "text": [
+          "Os esports de Honor of Kings são disputados em Honor of Kings, uma arena de batalha online multijogador (MOBA) de cinco contra cinco para celulares, desenvolvida pelo TiMi Studio Group. O jogo saiu primeiro na China, em 2015; fora da China, é publicado pela Level Infinite, a marca global de jogos da Tencent, que data o lançamento em junho de 2024.",
+          "O objetivo é destruir o cristal inimigo. Torres ao longo das rotas protegem cada lado dos minions e dos adversários, um rio corta o meio do mapa e os monstros da selva dão vantagens úteis. Cada jogador escolhe um herói, muitos tirados da mitologia, com habilidades próprias e uma função como guerreiro, assassino, mago, atirador ou suporte.",
+          "A Level Infinite ressalta que jogar não custa nada e que as vitórias dependem de habilidade e tática, não de gastos."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "How does the Honor of Kings pro scene work?",
+        "text": [
+          "Level Infinite describes an esports ecosystem that covers everyone from amateur players at grassroots level to top professionals. Regional leagues form its base: the King Pro League (KPL) in China, plus leagues in Indonesia, Malaysia, the Philippines, Brazil and other markets, which in 2026 sent their best teams to the World Cup.",
+          "The international program has changed shape almost every year. In 2024, it was built around an Invitational series; for 2025, Level Infinite announced a new pro-league system, HoK Major East and HoK Major West. The official channels are the place to check the current format."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la scène pro de Honor of Kings ?",
+        "text": [
+          "Level Infinite décrit un écosystème esport qui va des joueurs amateurs de la base jusqu'aux meilleurs professionnels. Des ligues régionales en forment le socle : la King Pro League (KPL) en Chine, ainsi que des ligues en Indonésie, en Malaisie, aux Philippines, au Brésil et sur d'autres marchés, qui ont envoyé leurs meilleures équipes à la World Cup en 2026.",
+          "Le programme international a changé de forme presque chaque année. En 2024, il s'organisait autour d'une série Invitational ; pour 2025, Level Infinite a annoncé un nouveau système de ligues pro, HoK Major East et HoK Major West. Ce sont les canaux officiels qui donnent le format en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la escena profesional de Honor of Kings?",
+        "text": [
+          "Level Infinite describe un ecosistema de esports que abarca desde los jugadores aficionados de base hasta los mejores profesionales. Las ligas regionales son su cimiento: la King Pro League (KPL) en China, además de ligas en Indonesia, Malasia, Filipinas, Brasil y otros mercados, que en 2026 enviaron a sus mejores equipos a la World Cup.",
+          "El programa internacional ha cambiado de forma casi cada año. En 2024 giraba en torno a una serie Invitational; para 2025, Level Infinite anunció un nuevo sistema de ligas profesionales, HoK Major East y HoK Major West. Los canales oficiales son el lugar donde consultar el formato vigente."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Profiszene von Honor of Kings?",
+        "text": [
+          "Level Infinite beschreibt ein E-Sport-Ökosystem, das von Amateuren an der Basis bis zu den besten Profis reicht. Regionale Ligen bilden sein Fundament: die King Pro League (KPL) in China sowie Ligen in Indonesien, Malaysia, auf den Philippinen, in Brasilien und auf weiteren Märkten, die 2026 ihre besten Teams zum World Cup schickten.",
+          "Das internationale Programm hat fast jedes Jahr seine Form geändert. 2024 war es um eine Invitational-Serie aufgebaut; für 2025 kündigte Level Infinite ein neues Profiligasystem an, HoK Major East und HoK Major West. Das aktuelle Format steht in den offiziellen Kanälen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a cena profissional de Honor of Kings?",
+        "text": [
+          "A Level Infinite descreve um ecossistema de esports que vai dos jogadores amadores da base até os melhores profissionais. Ligas regionais formam a base: a King Pro League (KPL) na China, além de ligas na Indonésia, na Malásia, nas Filipinas, no Brasil e em outros mercados, que em 2026 mandaram suas melhores equipes para a World Cup.",
+          "O programa internacional mudou de formato quase todo ano. Em 2024, girava em torno de uma série Invitational; para 2025, a Level Infinite anunciou um novo sistema de ligas profissionais, HoK Major East e HoK Major West. Os canais oficiais são o lugar para conferir o formato atual."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "What are the biggest Honor of Kings tournaments?",
+        "text": [
+          "Honor of Kings has featured at the Esports World Cup since its first edition in 2024, and the 2026 tournament there, in Paris, carried the name Honor of Kings World Cup (KWC). It brought together 20 teams from Honor of Kings and from Arena of Valor, on a version of the game prepared for the event.",
+          "That edition moved from a play-in to a group stage, then to an eight-team single-elimination bracket of best-of-seven matches (the third-place match was a best of five), with a draft rule called Global Ban & Pick in every stage.",
+          "In 2024, the season ended with the Honor of Kings Championship in Jakarta, where the 16 best teams in the world played for the title of annual champion."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois de Honor of Kings ?",
+        "text": [
+          "Honor of Kings figure à l'Esports World Cup depuis sa première édition, en 2024, et le tournoi 2026, à Paris, portait le nom d'Honor of Kings World Cup (KWC). Il a réuni 20 équipes d'Honor of Kings et d'Arena of Valor, sur une version du jeu préparée pour l'événement.",
+          "Cette édition est passée d'un play-in à une phase de groupes, puis à un tableau final à élimination directe à huit équipes, en matchs au meilleur des sept (la petite finale se jouait au meilleur des cinq), avec une règle de draft appelée Global Ban & Pick à toutes les étapes.",
+          "En 2024, la saison s'est achevée avec l'Honor of Kings Championship à Jakarta, où les 16 meilleures équipes du monde se sont disputé le titre de champion de l'année."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de Honor of Kings?",
+        "text": [
+          "Honor of Kings está en la Esports World Cup desde su primera edición, en 2024, y el torneo de 2026, en París, llevó el nombre de Honor of Kings World Cup (KWC). Reunió a 20 equipos de Honor of Kings y de Arena of Valor, en una versión del juego preparada para el evento.",
+          "Esa edición pasó de un play-in a una fase de grupos y después a un cuadro final de eliminación directa de ocho equipos con partidas al mejor de siete (el partido por el tercer puesto fue al mejor de cinco), con una regla de draft llamada Global Ban & Pick en todas las fases.",
+          "En 2024, la temporada terminó con el Honor of Kings Championship en Yakarta, donde los 16 mejores equipos del mundo se disputaron el título de campeón del año."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in Honor of Kings?",
+        "text": [
+          "Honor of Kings ist seit der ersten Ausgabe 2024 beim Esports World Cup vertreten, und das Turnier 2026 in Paris trug den Namen Honor of Kings World Cup (KWC). Es brachte 20 Teams aus Honor of Kings und Arena of Valor zusammen, auf einer eigens für das Event vorbereiteten Version des Spiels.",
+          "Diese Ausgabe führte von einem Play-in über eine Gruppenphase zu einem K.-o.-Bracket mit acht Teams und Best-of-seven-Matches (das Spiel um Platz drei war ein Best-of-five), mit einer Draft-Regel namens Global Ban & Pick in allen Phasen.",
+          "2024 endete die Saison mit der Honor of Kings Championship in Jakarta, bei der die 16 besten Teams der Welt um den Titel des Jahressiegers spielten."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de Honor of Kings?",
+        "text": [
+          "Honor of Kings está na Esports World Cup desde a primeira edição, em 2024, e o torneio de 2026, em Paris, levou o nome de Honor of Kings World Cup (KWC). Ele reuniu 20 equipes de Honor of Kings e de Arena of Valor, em uma versão do jogo preparada para o evento.",
+          "Essa edição passou de um play-in para uma fase de grupos e depois para uma chave final de eliminação simples com oito equipes em partidas melhor de sete (a disputa de terceiro lugar foi melhor de cinco), com uma regra de draft chamada Global Ban & Pick em todas as fases.",
+          "Em 2024, a temporada terminou com o Honor of Kings Championship em Jacarta, onde as 16 melhores equipes do mundo disputaram o título de campeã do ano."
+        ]
+      }
+    },
+    {
+      "cite": ["s3"],
+      "en": {
+        "heading": "How can you watch Honor of Kings esports?",
+        "text": [
+          "Level Infinite points fans to the official HoK Esports channels on YouTube, Twitch, TikTok, X and Instagram, along with a HoK Global Esports page on Facebook.",
+          "The big international events also welcome fans on site: at the 2026 World Cup, the program included showmatches and meet-and-greets with KPL teams."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder l'esport Honor of Kings ?",
+        "text": [
+          "Level Infinite renvoie les fans vers les chaînes officielles HoK Esports sur YouTube, Twitch, TikTok, X et Instagram, ainsi que vers une page HoK Global Esports sur Facebook.",
+          "Les grands événements internationaux accueillent aussi le public sur place : à la World Cup 2026, le programme comprenait des matchs d'exhibition et des rencontres avec des équipes de la KPL."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver los esports de Honor of Kings?",
+        "text": [
+          "Level Infinite remite a los fans a los canales oficiales HoK Esports en YouTube, Twitch, TikTok, X e Instagram, además de una página HoK Global Esports en Facebook.",
+          "Los grandes eventos internacionales también reciben público en persona: en la World Cup de 2026, el programa incluyó partidas de exhibición y encuentros con equipos de la KPL."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man Honor-of-Kings-E-Sport schauen?",
+        "text": [
+          "Level Infinite verweist Fans auf die offiziellen HoK-Esports-Kanäle auf YouTube, Twitch, TikTok, X und Instagram sowie auf eine Seite HoK Global Esports auf Facebook.",
+          "Die großen internationalen Events empfangen auch Publikum vor Ort: Beim World Cup 2026 gehörten Showmatches und Meet-and-Greets mit KPL-Teams zum Programm."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de Honor of Kings?",
+        "text": [
+          "A Level Infinite indica aos fãs os canais oficiais HoK Esports no YouTube, Twitch, TikTok, X e Instagram, além de uma página HoK Global Esports no Facebook.",
+          "Os grandes eventos internacionais também recebem público presencial: na World Cup de 2026, a programação incluiu partidas de exibição e encontros com equipes da KPL."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "Honor of Kings esports: the game and its pro scene",
+    "description": "How does Honor of Kings esports work? The game, the KPL and regional leagues, the Honor of Kings World Cup, and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport Honor of Kings : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport Honor of Kings ? Le jeu, la KPL et les ligues régionales, l'Honor of Kings World Cup, et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de Honor of Kings: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de Honor of Kings? El juego, la KPL y las ligas regionales, la Honor of Kings World Cup, y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in Honor of Kings: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in Honor of Kings? Das Spiel, die KPL und regionale Ligen, der Honor of Kings World Cup und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de Honor of Kings: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de Honor of Kings? O jogo, a KPL e as ligas regionais, a Honor of Kings World Cup, e onde assistir, com as fontes usadas."
+  }
+}

@@ -1,0 +1,99 @@
+# Chaque matin : prochains matchs des pages d'équipes et pages « Les matchs de la semaine ».
+# Sans appel à PandaScore : lit les calendriers publics du serveur d'eSportly (cache du relais).
+name: Matchs du jour
+on:
+  schedule:
+    - cron: "15 4 * * *"   # 6 h 15, heure de Paris (été)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: matchs
+  cancel-in-progress: false
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"   # les .pyc de __pycache__ sont suivis par git : ne pas les réécrire à chaque passage (voir live.yml)
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # la tête de main au démarrage (« Fins de matchs (Live) » a pu envoyer pendant l'attente de la file)
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Réveil des calendriers (le serveur relit les équipes)
+        run: |
+          for slug in $(ls fr/equipes/*.html | xargs -n1 basename | sed 's/\.html$//'); do
+            curl -s --max-time 10 -o /dev/null "https://lmavqchwevcvvneblqld.supabase.co/functions/v1/calendrier/equipe/$slug.ics" || true
+          done
+          sleep 240
+      - name: Mise à jour des pages
+        run: python3 .github/scripts/matchs.py
+      # Partie News (matchs importants et infos) : un échec ici ne doit pas empêcher d'envoyer les pages de matchs.
+      - name: Mise à jour des news
+        continue-on-error: true
+        timeout-minutes: 3
+        run: python3 .github/scripts/actualites.py
+      # Partie Blog (top plays du moment) : un échec ici ne doit empêcher ni le blog, ni l'envoi des pages de matchs.
+      - name: Top plays du moment
+        continue-on-error: true
+        timeout-minutes: 3
+        run: python3 .github/scripts/topplays.py
+      # Partie Blog (pages du blog) : un échec ici ne doit pas empêcher d'envoyer les pages de matchs.
+      - name: Mise à jour du blog
+        continue-on-error: true
+        timeout-minutes: 1
+        run: python3 .github/scripts/blog.py
+      # Flux du blog : articles.json (lu par l'app iOS) et les feed.xml de chaque langue.
+      # Rejouable, et sans effet si les pages n'ont pas bougé.
+      - name: Flux du blog (articles.json et RSS)
+        continue-on-error: true
+        timeout-minutes: 1
+        run: python3 .github/scripts/blog_feed.py
+      # Panneau des jeux des cinq accueils : ils portent leur menu à la main et sont recopiés depuis le dépôt de l'application,
+      # ce qui effacerait le panneau. Le script est rejouable : il ne fait rien quand le panneau est déjà là.
+      - name: Panneau des jeux sur les accueils
+        run: python3 .github/scripts/mega_accueils.py
+      # Menu du site : les pages fabriquées plus haut repartent de modèles qui l'ont ; on le remet là où il manquerait.
+      - name: Menu du site sur toutes les pages
+        run: python3 .github/scripts/menu_partout.py
+      # Refonte 2026 : thème clair par défaut sur les pages fabriquées plus haut (elles repartent de modèles
+      # qui ne l'ont pas). Rejouable, ne touche ni les scripts ni la CSP.
+      - name: Thème clair de la refonte
+        run: python3 .github/scripts/theme_clair.py
+      # Logos des équipes : les listes d'équipes fabriquées plus haut sont du texte ; on leur remet logo et nom. Rejouable.
+      - name: Logos sur les listes d'équipes
+        run: python3 .github/scripts/logos_equipes.py
+      # Logos sur les cartes de match : les listes fabriquées plus haut sont du texte ; on met le logo (ou les initiales) devant
+      # chaque équipe. Rejouable.
+      - name: Logos sur les cartes de match
+        run: python3 .github/scripts/logos_matchs.py
+      # Titles et métadescriptions SEO (seo/titres.json) : les pages fabriquées plus haut les lisent déjà ; ici pour les pages de jeux
+      # et d'équipes, au cas où une page recopiée d'ailleurs aurait perdu les siens.
+      - name: Titles et métadescriptions SEO
+        run: python3 .github/scripts/titres_seo.py
+      # Mesure d'audience : les pages fabriquées plus haut repartent des modèles, on leur remet la CSP et la balise de analytics.js.
+      - name: Mesure d'audience sur toutes les pages
+        run: python3 .github/scripts/analytics.py
+      # QR code flottant sur ordinateur : même chose, il repart des modèles.
+      - name: QR code sur ordinateur
+        run: python3 .github/scripts/qr_ordinateur.py
+      # Après la sortie, les pages refabriquées ci-dessus reparlent de la bêta : on les remet à l'App Store (sans effet avant la sortie).
+      - name: App Store (après la sortie)
+        run: python3 .github/scripts/bascule_appstore.py
+      - name: Envoi si quelque chose a changé
+        run: |
+          git config user.name "eSportly (mise à jour automatique)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Matchs du jour"
+          # Johan ou une autre session a pu envoyer entre-temps : on se remet par-dessus avant d'envoyer.
+          for essai in 1 2 3; do
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1

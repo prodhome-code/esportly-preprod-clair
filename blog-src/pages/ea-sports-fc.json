@@ -1,0 +1,198 @@
+{
+  "kind": "game",
+  "game": "ea-sports-fc",
+  "date": "2026-10-27",
+  "updated": "2026-10-27",
+  "image": {"kind": "ia"},
+  "sources": [
+    {"id": "s1", "title": "EA SPORTS FC 26: official game page (Electronic Arts)", "url": "https://www.ea.com/games/ea-sports-fc/fc-26"},
+    {"id": "s2", "title": "EA SPORTS FC 26 on Steam", "url": "https://store.steampowered.com/app/3405690/"},
+    {"id": "s3", "title": "EA SPORTS FC Pro: EA SPORTS FC 27 | FC Pro 27 Deep Dive", "url": "https://www.ea.com/games/ea-sports-fc/fc-pro/news/fc-pro-27-deep-dive"},
+    {"id": "s4", "title": "EA SPORTS FC Pro: FC Pro World Championship 2026", "url": "https://www.fcpro.com/games/ea-sports-fc/fc-pro/competitions/fc-pro-world-championship-2026"},
+    {"id": "s5", "title": "EA SPORTS FC Pro: ePremier League", "url": "https://www.ea.com/games/ea-sports-fc/fc-pro/epremier-league"}
+  ],
+  "sections": [
+    {
+      "cite": ["s1", "s2", "s3"],
+      "en": {
+        "heading": "What is EA Sports FC?",
+        "text": [
+          "EA Sports FC esports is played on Electronic Arts' football series, released in numbered editions. EA Sports FC 26, developed by EA Canada and EA Romania, came out in September 2025; the FC Pro 27 competitive season is played on its successor, EA Sports FC 27.",
+          "Official licences are central to the series: EA Sports FC 26 puts the UEFA Champions League, the Premier League, the Bundesliga and LaLiga EA Sports alongside women's competitions such as Liga F. Fans can run a club in Manager Career, join friends in Clubs or build a dream squad in Football Ultimate Team, the mode where the pro circuit opens its online qualifying ladder."
+        ]
+      },
+      "fr": {
+        "heading": "Qu'est-ce qu'EA Sports FC ?",
+        "text": [
+          "L'esport EA Sports FC se joue sur la série de football d'Electronic Arts, publiée en éditions numérotées. EA Sports FC 26, développé par EA Canada et EA Romania, est sorti en septembre 2025 ; la saison compétitive FC Pro 27 se dispute sur son successeur, EA Sports FC 27.",
+          "Les licences officielles sont au cœur de la série : EA Sports FC 26 réunit l'UEFA Champions League, la Premier League, la Bundesliga et LaLiga EA Sports, aux côtés de compétitions féminines comme la Liga F. On peut diriger un club en Manager Career, jouer entre amis dans Clubs ou bâtir l'équipe de ses rêves dans Football Ultimate Team, le mode où le circuit pro ouvre son ladder de qualification en ligne."
+        ]
+      },
+      "es": {
+        "heading": "¿Qué es EA Sports FC?",
+        "text": [
+          "Los esports de EA Sports FC se juegan en la serie de fútbol de Electronic Arts, que sale en ediciones numeradas. EA Sports FC 26, desarrollado por EA Canada y EA Romania, se lanzó en septiembre de 2025; la temporada competitiva FC Pro 27 se disputa en su sucesor, EA Sports FC 27.",
+          "Las licencias oficiales son el eje de la serie: EA Sports FC 26 reúne la UEFA Champions League, la Premier League, la Bundesliga y LaLiga EA Sports junto a competiciones femeninas como la Liga F. Se puede dirigir un club en Manager Career, jugar con amigos en Clubs o montar el equipo soñado en Football Ultimate Team, el modo donde el circuito profesional abre su escalera de clasificación en línea."
+        ]
+      },
+      "de": {
+        "heading": "Was ist EA Sports FC?",
+        "text": [
+          "Der E-Sport in EA Sports FC wird mit der Fußballreihe von Electronic Arts gespielt, die in nummerierten Ausgaben erscheint. EA Sports FC 26, entwickelt von EA Canada und EA Romania, kam im September 2025 heraus; die Wettkampfsaison FC Pro 27 wird mit dem Nachfolger EA Sports FC 27 ausgetragen.",
+          "Offizielle Lizenzen sind das Herzstück der Reihe: EA Sports FC 26 vereint die UEFA Champions League, die Premier League, die Bundesliga und LaLiga EA Sports mit Frauenwettbewerben wie der Liga F. Man kann im Manager Career einen Verein führen, in Clubs mit Freunden spielen oder in Football Ultimate Team sein Traumteam zusammenstellen, dem Modus, in dem der Profi-Circuit seine Online-Qualifikationsrangliste eröffnet."
+        ]
+      },
+      "pt-BR": {
+        "heading": "O que é EA Sports FC?",
+        "text": [
+          "Os esports de EA Sports FC são disputados na série de futebol da Electronic Arts, lançada em edições numeradas. EA Sports FC 26, desenvolvido pela EA Canada e pela EA Romania, saiu em setembro de 2025; a temporada competitiva FC Pro 27 é jogada no sucessor, EA Sports FC 27.",
+          "As licenças oficiais são o centro da série: EA Sports FC 26 reúne a UEFA Champions League, a Premier League, a Bundesliga e LaLiga EA Sports ao lado de competições femininas como a Liga F. Dá para comandar um clube no Manager Career, jogar com amigos no Clubs ou montar o time dos sonhos no Football Ultimate Team, o modo em que o circuito profissional abre sua escada de classificação online."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "How does the EA Sports FC pro scene work?",
+        "text": [
+          "EA organises the official circuit under the FC Pro banner, and it offers players of the game an open pathway. In the FC Pro 27 season, the road starts with an in-game ladder, continues through online regional qualifiers and an in-person global qualifier, and leads to the FC Pro Open, a live mid-season event.",
+          "There are other routes to the world championship; in FC Pro 27 they include monthly FC Pro Open Cups that award circuit points, a last chance qualifier and play-ins. At several events, competitors assemble their team within set restrictions before playing, a twist EA calls FC Pro Draft.",
+          "EA also works with real football leagues on FC Pro Leagues. In the ePremier League, players represent Premier League clubs, and strong results can lead to the eChampions League and the world championship. Formats can change from one season to the next, so the official FC Pro site is the reference for the current path."
+        ]
+      },
+      "fr": {
+        "heading": "Comment fonctionne la scène pro d'EA Sports FC ?",
+        "text": [
+          "EA organise le circuit officiel sous le nom FC Pro, qui offre aux joueurs du jeu une voie ouverte. Pour la saison FC Pro 27, le parcours commence par un ladder dans le jeu, passe par des qualifications régionales en ligne et un Global Qualifier en personne, et mène au FC Pro Open, un événement en direct de mi-saison.",
+          "D'autres chemins mènent au championnat du monde ; pour FC Pro 27, ce sont notamment des FC Pro Open Cups mensuelles qui rapportent des points de circuit, un Last Chance Qualifier et des play-ins. À plusieurs événements, les joueurs composent leur équipe sous des contraintes fixées avant de jouer, une variante qu'EA appelle FC Pro Draft.",
+          "EA travaille aussi avec de vraies ligues de football, les FC Pro Leagues. Dans l'ePremier League, les joueurs représentent des clubs de Premier League, et de bons résultats peuvent mener à l'eChampions League et au championnat du monde. Les formats peuvent changer d'une saison à l'autre : le site officiel FC Pro fait foi pour le parcours en vigueur."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo funciona la escena profesional de EA Sports FC?",
+        "text": [
+          "EA organiza el circuito oficial con el nombre FC Pro, que ofrece a los jugadores del juego una vía abierta. En la temporada FC Pro 27, el camino empieza con una escalera dentro del juego, sigue con clasificatorios regionales en línea y un Global Qualifier presencial, y lleva al FC Pro Open, un evento en directo a mitad de temporada.",
+          "Hay otras rutas hacia el campeonato del mundo; en FC Pro 27 incluyen FC Pro Open Cups mensuales que reparten puntos de circuito, un Last Chance Qualifier y unos play-ins. En varios eventos, los competidores arman su equipo con restricciones fijadas antes de jugar, una variante que EA llama FC Pro Draft.",
+          "EA colabora además con ligas de fútbol reales en las FC Pro Leagues. En la ePremier League, los jugadores representan a clubes de la Premier League, y los buenos resultados pueden llevar a la eChampions League y al campeonato del mundo. Los formatos pueden cambiar de una temporada a otra, así que el sitio oficial de FC Pro es la referencia del camino vigente."
+        ]
+      },
+      "de": {
+        "heading": "Wie funktioniert die Profiszene von EA Sports FC?",
+        "text": [
+          "EA veranstaltet den offiziellen Circuit unter dem Namen FC Pro, der Spielern des Spiels einen offenen Weg bietet. In der Saison FC Pro 27 beginnt er mit einer Rangliste im Spiel, führt über regionale Online-Qualifikationen und einen Global Qualifier vor Ort zum FC Pro Open, einem Live-Event zur Saisonmitte.",
+          "Es gibt weitere Wege zur Weltmeisterschaft; in FC Pro 27 gehören monatliche FC Pro Open Cups mit Circuit-Punkten, ein Last Chance Qualifier und Play-ins dazu. Bei mehreren Events stellen die Teilnehmer ihr Team vor dem Spiel innerhalb festgelegter Vorgaben zusammen, eine Variante, die EA FC Pro Draft nennt.",
+          "EA arbeitet zudem mit echten Fußballligen in den FC Pro Leagues zusammen. In der ePremier League vertreten die Spieler Premier-League-Klubs, und gute Ergebnisse können zur eChampions League und zur Weltmeisterschaft führen. Die Formate können sich von Saison zu Saison ändern; maßgeblich für den aktuellen Weg ist die offizielle FC-Pro-Website."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como funciona a cena profissional de EA Sports FC?",
+        "text": [
+          "A EA organiza o circuito oficial com o nome FC Pro, que oferece aos jogadores do jogo um caminho aberto. Na temporada FC Pro 27, a jornada começa com uma escada dentro do jogo, passa por classificatórias regionais online e por um Global Qualifier presencial e leva ao FC Pro Open, um evento ao vivo no meio da temporada.",
+          "Há outras rotas até o campeonato mundial; no FC Pro 27 elas incluem FC Pro Open Cups mensais que distribuem pontos de circuito, um Last Chance Qualifier e play-ins. Em vários eventos, os competidores montam o time dentro de restrições definidas antes de jogar, uma variação que a EA chama de FC Pro Draft.",
+          "A EA também trabalha com ligas de futebol reais nas FC Pro Leagues. Na ePremier League, os jogadores representam clubes da Premier League, e bons resultados podem levar à eChampions League e ao campeonato mundial. Os formatos podem mudar de uma temporada para outra, então o site oficial do FC Pro é a referência para o caminho atual."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4", "s5"],
+      "en": {
+        "heading": "What are the biggest EA Sports FC tournaments?",
+        "text": [
+          "The season ends with the FC Pro World Championship, the circuit's top prize. In 2026 it was part of the Esports World Cup, staged in Paris, with 36 finalists who came through the FC Pro Open, partner leagues, the last chance qualifier and the play-ins.",
+          "That edition introduced a league phase of six matches per player, with the top 24 advancing to single-elimination knockouts. EA has confirmed that this league stage is set to come back in the FC Pro 27 season.",
+          "The FC Pro Open is the circuit's main showcase halfway through the season, and its top finishers secure world championship seats. Among partner competitions, the ePremier League brings 40 players from 20 clubs to Manchester for club-against-club live stages."
+        ]
+      },
+      "fr": {
+        "heading": "Quels sont les plus grands tournois d'EA Sports FC ?",
+        "text": [
+          "La saison se termine par le FC Pro World Championship, le titre le plus prestigieux du circuit. En 2026, il faisait partie de l'Esports World Cup, organisée à Paris, avec 36 finalistes venus du FC Pro Open, des ligues partenaires, du Last Chance Qualifier et des play-ins.",
+          "Cette édition a introduit une phase de ligue de six matchs par joueur, les 24 premiers passant ensuite dans un tableau à élimination directe. EA a confirmé que cette phase de ligue doit revenir pour la saison FC Pro 27.",
+          "Le FC Pro Open est la grande vitrine du circuit à mi-saison, et ses meilleurs joueurs y gagnent leur place au championnat du monde. Parmi les compétitions partenaires, l'ePremier League réunit à Manchester 40 joueurs de 20 clubs pour des phases en direct disputées club contre club."
+        ]
+      },
+      "es": {
+        "heading": "¿Cuáles son los mayores torneos de EA Sports FC?",
+        "text": [
+          "La temporada termina con el FC Pro World Championship, el gran premio del circuito. En 2026 formó parte de la Esports World Cup, celebrada en París, con 36 finalistas que llegaron desde el FC Pro Open, las ligas asociadas, el Last Chance Qualifier y los play-ins.",
+          "Esa edición estrenó una fase de liga de seis partidos por jugador, tras la cual los 24 primeros pasan a eliminatorias a partido único. EA ha confirmado que esta fase de liga volverá en la temporada FC Pro 27.",
+          "El FC Pro Open es el gran escaparate del circuito a mitad de temporada, y sus mejores jugadores se aseguran plaza en el campeonato del mundo. Entre las competiciones asociadas, la ePremier League lleva a Manchester a 40 jugadores de 20 clubes para fases en directo disputadas club contra club."
+        ]
+      },
+      "de": {
+        "heading": "Was sind die größten Turniere in EA Sports FC?",
+        "text": [
+          "Die Saison endet mit der FC Pro World Championship, dem wichtigsten Titel des Circuits. 2026 war sie Teil des Esports World Cup in Paris, mit 36 Finalisten, die über das FC Pro Open, Partnerligen, den Last Chance Qualifier und die Play-ins kamen.",
+          "Diese Ausgabe führte eine Ligaphase mit sechs Spielen pro Spieler ein, nach der die besten 24 in K.-o.-Runden mit Einzelspielen einziehen. EA hat bestätigt, dass diese Ligaphase in der Saison FC Pro 27 zurückkehren soll.",
+          "Das FC Pro Open ist das große Schaufenster des Circuits zur Saisonmitte, und seine Bestplatzierten sichern sich Plätze bei der Weltmeisterschaft. Unter den Partnerwettbewerben bringt die ePremier League 40 Spieler aus 20 Klubs nach Manchester, zu Live-Phasen im Duell Klub gegen Klub."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Quais são os maiores torneios de EA Sports FC?",
+        "text": [
+          "A temporada termina com o FC Pro World Championship, o maior título do circuito. Em 2026 ele fez parte da Esports World Cup, realizada em Paris, com 36 finalistas vindos do FC Pro Open, das ligas parceiras, do Last Chance Qualifier e dos play-ins.",
+          "Essa edição estreou uma fase de liga de seis partidas por jogador, depois da qual os 24 primeiros avançam para eliminatórias em jogo único. A EA confirmou que essa fase de liga deve voltar na temporada FC Pro 27.",
+          "O FC Pro Open é a grande vitrine do circuito no meio da temporada, e seus melhores colocados garantem vaga no campeonato mundial. Entre as competições parceiras, a ePremier League leva a Manchester 40 jogadores de 20 clubes para fases ao vivo disputadas clube contra clube."
+        ]
+      }
+    },
+    {
+      "cite": ["s3", "s4"],
+      "en": {
+        "heading": "How can you watch EA Sports FC esports?",
+        "text": [
+          "FC Pro events are streamed live on EA Sports FC Pro's official channels on the main streaming platforms, and the brand shares news, scores and results on its social accounts.",
+          "Some stages are played in person: the FC Pro 27 global qualifier, for instance, is scheduled to gather 64 players in London in November 2026."
+        ]
+      },
+      "fr": {
+        "heading": "Comment regarder l'esport EA Sports FC ?",
+        "text": [
+          "Les événements FC Pro sont diffusés en direct sur les chaînes officielles d'EA Sports FC Pro, sur les principales plateformes de streaming, et la marque publie actualités, scores et résultats sur ses réseaux sociaux.",
+          "Certaines étapes se jouent en présentiel : le Global Qualifier de FC Pro 27, par exemple, doit réunir 64 joueurs à Londres en novembre 2026."
+        ]
+      },
+      "es": {
+        "heading": "¿Cómo ver los esports de EA Sports FC?",
+        "text": [
+          "Los eventos FC Pro se emiten en directo en los canales oficiales de EA Sports FC Pro en las principales plataformas de streaming, y la marca comparte noticias, marcadores y resultados en sus redes sociales.",
+          "Algunas fases se juegan de forma presencial: el Global Qualifier de FC Pro 27, por ejemplo, está previsto que reúna a 64 jugadores en Londres en noviembre de 2026."
+        ]
+      },
+      "de": {
+        "heading": "Wie kann man EA-Sports-FC-E-Sport schauen?",
+        "text": [
+          "FC-Pro-Events laufen live auf den offiziellen Kanälen von EA Sports FC Pro auf den großen Streaming-Plattformen, und die Marke teilt Neuigkeiten, Spielstände und Ergebnisse in ihren sozialen Netzwerken.",
+          "Manche Etappen finden vor Ort statt: Der Global Qualifier von FC Pro 27 soll zum Beispiel im November 2026 in London 64 Spieler zusammenbringen."
+        ]
+      },
+      "pt-BR": {
+        "heading": "Como assistir aos esports de EA Sports FC?",
+        "text": [
+          "Os eventos FC Pro são transmitidos ao vivo nos canais oficiais do EA Sports FC Pro nas principais plataformas de streaming, e a marca publica notícias, placares e resultados em suas redes sociais.",
+          "Algumas etapas são disputadas presencialmente: o Global Qualifier do FC Pro 27, por exemplo, está marcado para reunir 64 jogadores em Londres em novembro de 2026."
+        ]
+      }
+    }
+  ],
+  "en": {
+    "title": "EA Sports FC esports: the game and its pro scene",
+    "description": "How does EA Sports FC esports work? The game, the FC Pro circuit and partner leagues, the FC Pro World Championship and where to watch, with our sources."
+  },
+  "fr": {
+    "title": "Esport EA Sports FC : le jeu et sa scène pro",
+    "description": "Comment fonctionne l'esport EA Sports FC ? Le jeu, le circuit FC Pro et ses ligues partenaires, le FC Pro World Championship et où regarder, avec nos sources."
+  },
+  "es": {
+    "title": "Esports de EA Sports FC: el juego y su escena profesional",
+    "description": "¿Cómo funcionan los esports de EA Sports FC? El juego, el circuito FC Pro y sus ligas, el FC Pro World Championship y dónde verlos, con nuestras fuentes."
+  },
+  "de": {
+    "title": "E-Sport in EA Sports FC: das Spiel und seine Profiszene",
+    "description": "Wie funktioniert der E-Sport in EA Sports FC? Das Spiel, der FC-Pro-Circuit, Partnerligen, die FC Pro World Championship und wo du zuschaust – mit Quellen."
+  },
+  "pt-BR": {
+    "title": "Esports de EA Sports FC: o jogo e sua cena profissional",
+    "description": "Como funcionam os esports de EA Sports FC? O jogo, o circuito FC Pro e as ligas parceiras, o FC Pro World Championship e onde assistir, com as fontes usadas."
+  }
+}
