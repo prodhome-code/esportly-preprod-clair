@@ -12,6 +12,12 @@
   "matchs": 24
  },
  {
+  "slug": "spirit",
+  "nom": "Spirit",
+  "logo": "124523.webp",
+  "matchs": 21
+ },
+ {
   "slug": "t1",
   "nom": "T1",
   "logo": "128647.webp",
@@ -24,16 +30,10 @@
   "matchs": 20
  },
  {
-  "slug": "spirit",
-  "nom": "Spirit",
-  "logo": "124523.webp",
-  "matchs": 20
- },
- {
   "slug": "falcons",
   "nom": "Falcons",
   "logo": "134476.webp",
-  "matchs": 19
+  "matchs": 18
  },
  {
   "slug": "g2-esports",
