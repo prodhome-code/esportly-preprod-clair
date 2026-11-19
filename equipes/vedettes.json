@@ -12,12 +12,6 @@
   "matchs": 24
  },
  {
-  "slug": "spirit",
-  "nom": "Spirit",
-  "logo": "124523.webp",
-  "matchs": 21
- },
- {
   "slug": "t1",
   "nom": "T1",
   "logo": "128647.webp",
@@ -27,6 +21,12 @@
   "slug": "natus-vincere",
   "nom": "Natus Vincere",
   "logo": "1699.webp",
+  "matchs": 20
+ },
+ {
+  "slug": "spirit",
+  "nom": "Spirit",
+  "logo": "124523.webp",
   "matchs": 20
  },
  {
