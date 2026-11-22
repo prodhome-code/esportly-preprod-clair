@@ -1,30 +1,30 @@
 {
   "call-of-duty": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "dota-2": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "honor-of-kings": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "league-of-legends": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "mobile-legends": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "overwatch-2": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   },
   "rainbow-six-siege": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": [
       {
         "channel": "Rainbow Six Esports",
@@ -47,7 +47,7 @@
     ]
   },
   "valorant": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": [
       {
         "channel": "VALORANT Champions Tour",
@@ -58,7 +58,7 @@
     ]
   },
   "wild-rift": {
-    "fetched": "2026-11-21",
+    "fetched": "2026-11-22",
     "videos": []
   }
 }
