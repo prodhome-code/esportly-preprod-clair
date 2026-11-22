@@ -12,6 +12,12 @@
   "matchs": 23
  },
  {
+  "slug": "natus-vincere",
+  "nom": "Natus Vincere",
+  "logo": "1699.webp",
+  "matchs": 21
+ },
+ {
   "slug": "spirit",
   "nom": "Spirit",
   "logo": "124523.webp",
@@ -27,12 +33,6 @@
   "slug": "faze-clan",
   "nom": "FaZe Clan",
   "logo": "126927.webp",
-  "matchs": 20
- },
- {
-  "slug": "natus-vincere",
-  "nom": "Natus Vincere",
-  "logo": "1699.webp",
   "matchs": 20
  },
  {
