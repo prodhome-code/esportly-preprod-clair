@@ -3,7 +3,7 @@
   "slug": "team-liquid",
   "nom": "Team Liquid",
   "logo": "390.webp",
-  "matchs": 31
+  "matchs": 32
  },
  {
   "slug": "spirit",
@@ -18,15 +18,15 @@
   "matchs": 20
  },
  {
-  "slug": "falcons",
-  "nom": "Falcons",
-  "logo": "134476.webp",
-  "matchs": 18
- },
- {
   "slug": "faze-clan",
   "nom": "FaZe Clan",
   "logo": "126927.webp",
+  "matchs": 19
+ },
+ {
+  "slug": "falcons",
+  "nom": "Falcons",
+  "logo": "134476.webp",
   "matchs": 18
  },
  {
