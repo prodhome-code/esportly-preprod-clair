@@ -9,7 +9,7 @@
   "slug": "t1",
   "nom": "T1",
   "logo": "128647.webp",
-  "matchs": 22
+  "matchs": 21
  },
  {
   "slug": "spirit",
@@ -30,12 +30,6 @@
   "matchs": 18
  },
  {
-  "slug": "natus-vincere",
-  "nom": "Natus Vincere",
-  "logo": "1699.webp",
-  "matchs": 18
- },
- {
   "slug": "g2-esports",
   "nom": "G2 Esports",
   "logo": "128538.webp",
@@ -48,15 +42,21 @@
   "matchs": 17
  },
  {
-  "slug": "furia",
-  "nom": "FURIA",
-  "logo": "124530.webp",
-  "matchs": 16
+  "slug": "natus-vincere",
+  "nom": "Natus Vincere",
+  "logo": "1699.webp",
+  "matchs": 17
  },
  {
   "slug": "aurora",
   "nom": "Aurora",
   "logo": "133882.webp",
+  "matchs": 15
+ },
+ {
+  "slug": "furia",
+  "nom": "FURIA",
+  "logo": "124530.webp",
   "matchs": 15
  }
 ]
