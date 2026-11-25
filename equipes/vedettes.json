@@ -3,24 +3,24 @@
   "slug": "team-liquid",
   "nom": "Team Liquid",
   "logo": "390.webp",
-  "matchs": 28
+  "matchs": 30
  },
  {
   "slug": "t1",
   "nom": "T1",
   "logo": "128647.webp",
+  "matchs": 20
+ },
+ {
+  "slug": "faze-clan",
+  "nom": "FaZe Clan",
+  "logo": "126927.webp",
   "matchs": 19
  },
  {
   "slug": "falcons",
   "nom": "Falcons",
   "logo": "134476.webp",
-  "matchs": 18
- },
- {
-  "slug": "faze-clan",
-  "nom": "FaZe Clan",
-  "logo": "126927.webp",
   "matchs": 18
  },
  {
@@ -54,9 +54,9 @@
   "matchs": 13
  },
  {
-  "slug": "furia",
-  "nom": "FURIA",
-  "logo": "124530.webp",
+  "slug": "crazy-raccoon",
+  "nom": "Crazy Raccoon",
+  "logo": "134817.webp",
   "matchs": 12
  }
 ]
