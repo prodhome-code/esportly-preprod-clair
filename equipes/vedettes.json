@@ -24,16 +24,16 @@
   "matchs": 18
  },
  {
+  "slug": "gamerlegion",
+  "nom": "GamerLegion",
+  "logo": "137588.webp",
+  "matchs": 17
+ },
+ {
   "slug": "spirit",
   "nom": "Spirit",
   "logo": "124523.webp",
   "matchs": 17
- },
- {
-  "slug": "gamerlegion",
-  "nom": "GamerLegion",
-  "logo": "137588.webp",
-  "matchs": 16
  },
  {
   "slug": "natus-vincere",
@@ -45,7 +45,7 @@
   "slug": "aurora",
   "nom": "Aurora",
   "logo": "133882.webp",
-  "matchs": 14
+  "matchs": 15
  },
  {
   "slug": "crazy-raccoon",
