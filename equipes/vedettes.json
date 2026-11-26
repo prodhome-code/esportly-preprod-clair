@@ -3,7 +3,7 @@
   "slug": "team-liquid",
   "nom": "Team Liquid",
   "logo": "390.webp",
-  "matchs": 30
+  "matchs": 27
  },
  {
   "slug": "faze-clan",
@@ -27,13 +27,13 @@
   "slug": "spirit",
   "nom": "Spirit",
   "logo": "124523.webp",
-  "matchs": 18
+  "matchs": 17
  },
  {
   "slug": "gamerlegion",
   "nom": "GamerLegion",
   "logo": "137588.webp",
-  "matchs": 17
+  "matchs": 16
  },
  {
   "slug": "natus-vincere",
@@ -45,18 +45,18 @@
   "slug": "aurora",
   "nom": "Aurora",
   "logo": "133882.webp",
-  "matchs": 15
- },
- {
-  "slug": "g2-esports",
-  "nom": "G2 Esports",
-  "logo": "128538.webp",
-  "matchs": 13
+  "matchs": 14
  },
  {
   "slug": "crazy-raccoon",
   "nom": "Crazy Raccoon",
   "logo": "134817.webp",
+  "matchs": 12
+ },
+ {
+  "slug": "g2-esports",
+  "nom": "G2 Esports",
+  "logo": "128538.webp",
   "matchs": 12
  }
 ]
