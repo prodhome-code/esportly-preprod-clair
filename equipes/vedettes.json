@@ -6,15 +6,15 @@
   "matchs": 30
  },
  {
-  "slug": "t1",
-  "nom": "T1",
-  "logo": "128647.webp",
-  "matchs": 20
- },
- {
   "slug": "faze-clan",
   "nom": "FaZe Clan",
   "logo": "126927.webp",
+  "matchs": 19
+ },
+ {
+  "slug": "t1",
+  "nom": "T1",
+  "logo": "128647.webp",
   "matchs": 19
  },
  {
