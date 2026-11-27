@@ -36,15 +36,15 @@
   "matchs": 17
  },
  {
-  "slug": "natus-vincere",
-  "nom": "Natus Vincere",
-  "logo": "1699.webp",
-  "matchs": 16
- },
- {
   "slug": "aurora",
   "nom": "Aurora",
   "logo": "133882.webp",
+  "matchs": 15
+ },
+ {
+  "slug": "natus-vincere",
+  "nom": "Natus Vincere",
+  "logo": "1699.webp",
   "matchs": 15
  },
  {
