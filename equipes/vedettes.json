@@ -6,12 +6,6 @@
   "matchs": 27
  },
  {
-  "slug": "faze-clan",
-  "nom": "FaZe Clan",
-  "logo": "126927.webp",
-  "matchs": 19
- },
- {
   "slug": "t1",
   "nom": "T1",
   "logo": "128647.webp",
@@ -30,16 +24,16 @@
   "matchs": 18
  },
  {
-  "slug": "spirit",
-  "nom": "Spirit",
-  "logo": "124523.webp",
+  "slug": "faze-clan",
+  "nom": "FaZe Clan",
+  "logo": "126927.webp",
   "matchs": 17
  },
  {
-  "slug": "aurora",
-  "nom": "Aurora",
-  "logo": "133882.webp",
-  "matchs": 15
+  "slug": "spirit",
+  "nom": "Spirit",
+  "logo": "124523.webp",
+  "matchs": 16
  },
  {
   "slug": "natus-vincere",
@@ -48,15 +42,21 @@
   "matchs": 15
  },
  {
-  "slug": "crazy-raccoon",
-  "nom": "Crazy Raccoon",
-  "logo": "134817.webp",
-  "matchs": 12
+  "slug": "aurora",
+  "nom": "Aurora",
+  "logo": "133882.webp",
+  "matchs": 14
  },
  {
   "slug": "g2-esports",
   "nom": "G2 Esports",
   "logo": "128538.webp",
+  "matchs": 13
+ },
+ {
+  "slug": "crazy-raccoon",
+  "nom": "Crazy Raccoon",
+  "logo": "134817.webp",
   "matchs": 12
  }
 ]
